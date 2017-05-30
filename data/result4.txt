@@ -1,0 +1,913 @@
+$active networks
+packet-switched networks | 1
+$实时视频传输
+视频聊天 高清 | 1
+视频聊天 | 1
+在线视频聊天 | 1
+视频聊天 不清楚 | 1
+在线视频聊天 flash | 1
+视频聊天系统 | 1
+视频聊天系统都有哪些 | 1
+真人视频聊天 图像 | 1
+视频 flash图像 区分 | 1
+在线视频聊天 动画检测 | 1
+在线视频聊天 人脸识别 | 1
+视频聊天传播延迟 | 1
+热门视频聊天系统 | 1
+$image-based classification
+image-based classification online chat | 1
+fine-grained cascaded (fgc) classification | 1
+$视频聊天
+视频聊天 高清 | 2
+在线视频聊天 | 2
+视频聊天 不清楚 | 2
+在线视频聊天 flash | 2
+视频聊天系统 | 2
+视频聊天系统都有哪些 | 2
+真人视频聊天 图像 | 2
+在线视频聊天 动画检测 | 2
+在线视频聊天 人脸识别 | 2
+视频聊天传播延迟 | 2
+热门视频聊天系统 | 2
+聊天传播延迟 | 1
+视频 flash图像 区分 | 1
+$'chatting' 'content' video
+'video chatting' content | 3
+'chatting' 'content' video gni | 3
+'chatting' content video | 3
+'video chatting' 'content' | 3
+'video' 'chat' 'content' ‘gnu’ | 2
+'chat' 'content' video | 2
+content quality of video chat | 2
+'video' 'chat' 'content' | 2
+'chatting' 'content' | 2
+'video' 'chating' 'content' | 2
+online video chat feature | 1
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+predict behavior video chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+online video chat | 1
+user detection online video chat | 1
+video delay | 1
+neural-network online video chat | 1
+'chating' 'content' | 1
+video chat behavior detect | 1
+video chat behavior | 1
+video chat bad behaviors | 1
+video chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+video char quality | 1
+$视频聊天 不清楚
+在线视频聊天 人脸识别 | 2
+视频聊天传播延迟 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+视频聊天系统 | 2
+热门视频聊天系统 | 2
+视频聊天系统都有哪些 | 2
+真人视频聊天 图像 | 2
+在线视频聊天 动画检测 | 2
+聊天传播延迟 | 1
+视频 flash图像 区分 | 1
+$online chat misbehavoir
+online video chat feature | 2
+online video chat | 2
+user detection online video chat | 2
+online chat behavior | 2
+neural-network online video chat | 2
+image-based classification online chat | 2
+online chat behavior detect | 2
+online chat | 2
+chat online | 2
+online chat bad behavior | 2
+online chat misbehavior | 2
+behavior online chat | 2
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+predict behavior video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+video chat behavior detect | 1
+behavior vedio chat | 1
+vedio chat behavior | 1
+video chat behavior | 1
+'chat' 'content' video | 1
+misbehavior detection online | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+$聊天传播延迟
+视频聊天传播延迟 | 3
+在线视频聊天 人脸识别 | 1
+视频聊天 高清 | 1
+在线视频聊天 | 1
+在线视频聊天 flash | 1
+视频聊天系统 | 1
+热门视频聊天系统 | 1
+视频聊天系统都有哪些 | 1
+真人视频聊天 图像 | 1
+在线视频聊天 动画检测 | 1
+$极限学习机 人脸识别
+在线视频聊天 人脸识别 | 2
+lbp 人脸识别 | 2
+卷积神经网络 优化 人脸 | 1
+cnn 卷积神经网络 人脸 特征 | 1
+深度学习 特征提取 | 1
+并行 卷积神经网络 人脸 | 1
+$最大池化方法
+$vedio ‘charting’
+’vedio’ ‘chating’ ‘content’ | 1
+’vedio’ ‘chat’ ‘content’ | 1
+behavior vedio chat | 1
+vedio chat behavior | 1
+$predict behavior video chat
+video chat behavior detect | 3
+video chat behavior | 3
+behavior video chat | 3
+online video chat feature | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+online video chat | 2
+user detection online video chat | 2
+online chat behavior | 2
+neural-network online video chat | 2
+online chat behavior detect | 2
+behavior vedio chat | 2
+vedio chat behavior | 2
+'chat' 'content' video | 2
+content quality of video chat | 2
+video chat bad behaviors | 2
+'video' 'chat' 'content' | 2
+online chat bad behavior | 2
+video chat | 2
+video chat behaviors | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+'video chatting' content | 1
+video delay | 1
+image-based classification online chat | 1
+online chat | 1
+chat online | 1
+'chatting' 'content' video gni | 1
+'chatting' content video | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+$feature recognition
+online video chat feature | 1
+$'video chatting' content
+'chatting' 'content' video gni | 3
+'chatting' content video | 3
+'video chatting' 'content' | 3
+'video' 'chat' 'content' ‘gnu’ | 2
+'chat' 'content' video | 2
+content quality of video chat | 2
+'video' 'chat' 'content' | 2
+'chatting' 'content' | 2
+'video' 'chating' 'content' | 2
+online video chat feature | 1
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+online video chat | 1
+user detection online video chat | 1
+video delay | 1
+neural-network online video chat | 1
+'chating' 'content' | 1
+video chat behavior detect | 1
+video chat behavior | 1
+video chat bad behaviors | 1
+video chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+video char quality | 1
+$在线视频聊天 动画检测
+在线视频聊天 人脸识别 | 3
+在线视频聊天 | 3
+在线视频聊天 flash | 3
+视频聊天传播延迟 | 2
+视频聊天 高清 | 2
+视频聊天系统 | 2
+热门视频聊天系统 | 2
+视频聊天系统都有哪些 | 2
+真人视频聊天 图像 | 2
+flasher检测 | 1
+视频 flash图像 区分 | 1
+flash检测 | 1
+$quality-of-service
+content quality of video chat | 2
+video char quality | 1
+$flash图片识别
+$online video chat
+online video chat feature | 3
+user detection online video chat | 3
+neural-network online video chat | 3
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+online chat behavior | 2
+image-based classification online chat | 2
+online chat behavior detect | 2
+video chat behavior detect | 2
+online chat | 2
+video chat behavior | 2
+'chat' 'content' video | 2
+chat online | 2
+content quality of video chat | 2
+video chat bad behaviors | 2
+'video' 'chat' 'content' | 2
+online chat bad behavior | 2
+video chat | 2
+video chat behaviors | 2
+behavior video chat | 2
+online chat misbehavior | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+video delay | 1
+behavior vedio chat | 1
+vedio chat behavior | 1
+misbehavior detection online | 1
+'chatting' 'content' video gni | 1
+'chatting' content video | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+$视频聊天传播延迟
+在线视频聊天 人脸识别 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+视频聊天系统 | 2
+热门视频聊天系统 | 2
+视频聊天系统都有哪些 | 2
+真人视频聊天 图像 | 2
+视频 flash图像 区分 | 1
+$video delay
+online video chat feature | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+flasher detection video cht | 1
+'video' 'chat' 'content' | 1
+'chatting' 'content' video gni | 1
+flasher detection video chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+'chatting' content video | 1
+user detection online video chat | 1
+video chat | 1
+neural-network online video chat | 1
+video chat behaviors | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+behavior video chat | 1
+video chat behavior detect | 1
+video char quality | 1
+video chat behavior | 1
+'chat' 'content' video | 1
+$neural-network online video chat
+online video chat feature | 3
+user detection online video chat | 3
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+online chat behavior | 2
+image-based classification online chat | 2
+online chat behavior detect | 2
+video chat behavior detect | 2
+online chat | 2
+video chat behavior | 2
+'chat' 'content' video | 2
+chat online | 2
+content quality of video chat | 2
+video chat bad behaviors | 2
+'video' 'chat' 'content' | 2
+online chat bad behavior | 2
+video chat | 2
+video chat behaviors | 2
+behavior video chat | 2
+online chat misbehavior | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+behavior vedio chat | 1
+vedio chat behavior | 1
+misbehavior detection online | 1
+'chatting' 'content' video gni | 1
+'chatting' content video | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+$image-based classification online chat
+online video chat feature | 2
+user detection online video chat | 2
+online chat behavior | 2
+online chat behavior detect | 2
+online chat | 2
+chat online | 2
+online chat bad behavior | 2
+online chat misbehavior | 2
+behavior online chat | 2
+image detection | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+video chat behavior detect | 1
+behavior vedio chat | 1
+vedio chat behavior | 1
+video chat behavior | 1
+'chat' 'content' video | 1
+misbehavior detection online | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+fine-grained cascaded (fgc) classification | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+$packet-switched networks
+$online chat behavior detect
+online chat behavior | 3
+video chat behavior detect | 3
+online chat bad behavior | 3
+behavior online chat | 3
+online video chat feature | 2
+user detection online video chat | 2
+behavior vedio chat | 2
+online chat | 2
+vedio chat behavior | 2
+video chat behavior | 2
+chat online | 2
+behavior video chat | 2
+online chat misbehavior | 2
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+'chat' 'content' video | 1
+misbehavior detection online | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+$'chating' 'content'
+’vedio’ ‘chating’ ‘content’ | 2
+'video' 'chating' 'content' | 2
+content quality of video chat | 1
+'video chatting' 'content' | 1
+'video' 'chat' 'content' | 1
+'chatting' 'content' | 1
+'chatting' 'content' video gni | 1
+’vedio’ ‘chat’ ‘content’ | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+'chatting' content video | 1
+'chat' 'content' video | 1
+$video chat behavior detect
+video chat behavior | 3
+behavior video chat | 3
+online video chat feature | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 2
+online chat behavior | 2
+behavior vedio chat | 2
+vedio chat behavior | 2
+'chat' 'content' video | 2
+content quality of video chat | 2
+video chat bad behaviors | 2
+'video' 'chat' 'content' | 2
+online chat bad behavior | 2
+video chat | 2
+video chat behaviors | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+online chat | 1
+chat online | 1
+'chatting' 'content' video gni | 1
+'chatting' content video | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+$热门视频聊天系统
+视频聊天系统 | 3
+视频聊天系统都有哪些 | 3
+在线视频聊天 人脸识别 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+真人视频聊天 图像 | 2
+视频 flash图像 区分 | 1
+$behavior vedio chat
+vedio chat behavior | 3
+’vedio’ ‘chat’ ‘content’ | 2
+online chat bad behavior | 2
+online chat behavior | 2
+behavior video chat | 2
+video chat behavior | 2
+behavior online chat | 2
+chat online | 1
+online video chat feature | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+’vedio’ ‘chating’ ‘content’ | 1
+user detection online video chat | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+online chat | 1
+online chat misbehavior | 1
+'chat' 'content' video | 1
+$online chat
+chat online | 2
+online video chat feature | 2
+online chat bad behavior | 2
+user detection online video chat | 2
+online chat behavior | 2
+online chat misbehavior | 2
+behavior online chat | 2
+misbehavior detection online | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+vedio chat behavior | 1
+video chat behavior | 1
+'chat' 'content' video | 1
+$vedio chat behavior
+’vedio’ ‘chat’ ‘content’ | 2
+online chat bad behavior | 2
+online chat behavior | 2
+behavior video chat | 2
+video chat behavior | 2
+behavior online chat | 2
+chat online | 1
+online video chat feature | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+’vedio’ ‘chating’ ‘content’ | 1
+user detection online video chat | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+online chat misbehavior | 1
+'chat' 'content' video | 1
+$video chat behavior
+behavior video chat | 3
+online video chat feature | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 2
+online chat behavior | 2
+'chat' 'content' video | 2
+content quality of video chat | 2
+video chat bad behaviors | 2
+'video' 'chat' 'content' | 2
+online chat bad behavior | 2
+video chat | 2
+video chat behaviors | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+chat online | 1
+'chatting' 'content' video gni | 1
+'chatting' content video | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+$'chat' 'content' video
+'video' 'chat' 'content' ‘gnu’ | 3
+content quality of video chat | 3
+'video' 'chat' 'content' | 3
+online video chat feature | 2
+’vedio’ ‘chat’ ‘content’ | 2
+flasher detection video chat | 2
+user detection online video chat | 2
+video chat bad behaviors | 2
+'chatting' 'content' video gni | 2
+'chatting' content video | 2
+video chat | 2
+video chat behaviors | 2
+'video chatting' 'content' | 2
+'video' 'chating' 'content' | 2
+behavior video chat | 2
+flasher detection video cht | 1
+chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+online chat behavior | 1
+chat online | 1
+'chatting' 'content' | 1
+online chat bad behavior | 1
+camera chat | 1
+video char quality | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$chat online
+online video chat feature | 2
+online chat bad behavior | 2
+user detection online video chat | 2
+online chat behavior | 2
+online chat misbehavior | 2
+behavior online chat | 2
+misbehavior detection online | 1
+content quality of video chat | 1
+video chat bad behaviors | 1
+'video' 'chat' 'content' | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+$null
+$misbehavior detection online
+user detection online video chat | 2
+online chat misbehavior | 2
+image detection | 1
+online video chat feature | 1
+online chat behavior | 1
+flasher detection video cht | 1
+flasher detection video chat | 1
+online chat bad behavior | 1
+behavior online chat | 1
+flasher detection | 1
+$content quality of video chat
+'video' 'chat' 'content' | 3
+'video' 'chat' 'content' ‘gnu’ | 3
+online video chat feature | 2
+video chat bad behaviors | 2
+'chatting' 'content' video gni | 2
+’vedio’ ‘chat’ ‘content’ | 2
+flasher detection video chat | 2
+'chatting' content video | 2
+user detection online video chat | 2
+video chat | 2
+video chat behaviors | 2
+'video chatting' 'content' | 2
+'video' 'chating' 'content' | 2
+behavior video chat | 2
+video char quality | 2
+flasher detection video cht | 1
+'chatting' 'content' | 1
+online chat bad behavior | 1
+chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+online chat behavior | 1
+camera chat | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$video chat bad behaviors
+video chat behaviors | 3
+online video chat feature | 2
+'video' 'chat' 'content' | 2
+flasher detection video chat | 2
+online chat bad behavior | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 2
+video chat | 2
+behavior video chat | 2
+flasher detection video cht | 1
+'chatting' 'content' video gni | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+'chatting' content video | 1
+online chat behavior | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$real-time multimedia
+$'video' 'chat' 'content'
+'video' 'chat' 'content' ‘gnu’ | 3
+online video chat feature | 2
+'chatting' 'content' video gni | 2
+’vedio’ ‘chat’ ‘content’ | 2
+flasher detection video chat | 2
+'chatting' content video | 2
+user detection online video chat | 2
+video chat | 2
+video chat behaviors | 2
+'video chatting' 'content' | 2
+'video' 'chating' 'content' | 2
+behavior video chat | 2
+flasher detection video cht | 1
+'chatting' 'content' | 1
+online chat bad behavior | 1
+chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+online chat behavior | 1
+camera chat | 1
+video char quality | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$'chatting' 'content'
+'video chatting' 'content' | 2
+'chatting' 'content' video gni | 2
+'chatting' content video | 2
+’vedio’ ‘chating’ ‘content’ | 1
+'video' 'chating' 'content' | 1
+’vedio’ ‘chat’ ‘content’ | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+$视频聊天系统
+视频聊天系统都有哪些 | 3
+在线视频聊天 人脸识别 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+真人视频聊天 图像 | 2
+视频 flash图像 区分 | 1
+$'chatting' 'content' video gni
+'chatting' content video | 3
+'video chatting' 'content' | 3
+'video' 'chat' 'content' ‘gnu’ | 2
+'video' 'chating' 'content' | 2
+online video chat feature | 1
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+user detection online video chat | 1
+video chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+video char quality | 1
+$视频聊天系统都有哪些
+在线视频聊天 人脸识别 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+真人视频聊天 图像 | 2
+视频 flash图像 区分 | 1
+$online chat bad behavior
+online chat behavior | 3
+behavior online chat | 3
+online video chat feature | 2
+user detection online video chat | 2
+behavior video chat | 2
+online chat misbehavior | 2
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+video chat | 1
+camera chat | 1
+video chat behaviors | 1
+$真人视频聊天 图像
+在线视频聊天 人脸识别 | 2
+视频聊天 高清 | 2
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+视频 flash图像 区分 | 2
+$fine-grained cascaded (fgc) classification
+$'chatting' content video
+'video chatting' 'content' | 3
+'video' 'chat' 'content' ‘gnu’ | 2
+'video' 'chating' 'content' | 2
+online video chat feature | 1
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+’vedio’ ‘chating’ ‘content’ | 1
+user detection online video chat | 1
+video chat | 1
+video chat behaviors | 1
+behavior video chat | 1
+video char quality | 1
+$lbp 人脸识别
+在线视频聊天 人脸识别 | 2
+卷积神经网络 优化 人脸 | 1
+cnn 卷积神经网络 人脸 特征 | 1
+并行 卷积神经网络 人脸 | 1
+$在线视频聊天 人脸识别
+在线视频聊天 | 3
+在线视频聊天 flash | 3
+视频聊天 高清 | 2
+卷积神经网络 优化 人脸 | 1
+cnn 卷积神经网络 人脸 特征 | 1
+视频 flash图像 区分 | 1
+并行 卷积神经网络 人脸 | 1
+$多通道gabor滤波
+$video chat
+online video chat feature | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 2
+video chat behaviors | 2
+behavior video chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+online chat behavior | 1
+camera chat | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$camera chat
+online video chat feature | 1
+user detection online video chat | 1
+online chat behavior | 1
+video chat behaviors | 1
+behavior video chat | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$video chat behaviors
+online video chat feature | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 2
+behavior video chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+online chat behavior | 1
+'video chatting' 'content' | 1
+'video' 'chating' 'content' | 1
+video char quality | 1
+online chat misbehavior | 1
+behavior online chat | 1
+$'video chatting' 'content'
+'video' 'chating' 'content' | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+’vedio’ ‘chating’ ‘content’ | 1
+online video chat feature | 1
+user detection online video chat | 1
+flasher detection video cht | 1
+behavior video chat | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+video char quality | 1
+$并行 卷积神经网络
+并行 卷积神经网络 人脸 | 4
+卷积神经网络 优化 人脸 | 3
+cnn 卷积神经网络 人脸 特征 | 3
+卷积神经网络 优化 | 3
+$'video' 'chating' 'content'
+’vedio’ ‘chating’ ‘content’ | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+online video chat feature | 1
+user detection online video chat | 1
+flasher detection video cht | 1
+behavior video chat | 1
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+video char quality | 1
+$behavior video chat
+online video chat feature | 2
+user detection online video chat | 2
+online chat behavior | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+behavior online chat | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+video char quality | 1
+chat | 1
+online chat misbehavior | 1
+$深度学习 特征提取
+cnn 卷积神经网络 人脸 特征 | 1
+$卷积神经网络 优化
+卷积神经网络 优化 人脸 | 4
+cnn 卷积神经网络 人脸 特征 | 3
+并行 卷积神经网络 人脸 | 3
+$video char quality
+online video chat feature | 1
+user detection online video chat | 1
+flasher detection video cht | 1
+flasher detection video chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+$flasher检测
+flasher detection video cht | 1
+flasher detection video chat | 1
+flash检测 | 1
+flasher detection | 1
+$flash检测
+在线视频聊天 flash | 1
+视频 flash图像 区分 | 1
+$online chat misbehavior
+online video chat feature | 2
+user detection online video chat | 2
+online chat behavior | 2
+behavior online chat | 2
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+$behavior online chat
+online chat behavior | 3
+online video chat feature | 2
+user detection online video chat | 2
+’vedio’ ‘chat’ ‘content’ | 1
+flasher detection video chat | 1
+chat | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+$image detection
+user detection online video chat | 1
+flasher detection video cht | 1
+flasher detection video chat | 1
+flasher detection | 1
+$online video chat feature
+user detection online video chat | 3
+online chat behavior | 2
+flasher detection video chat | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+flasher detection video cht | 1
+’vedio’ ‘chat’ ‘content’ | 1
+chat | 1
+$视频聊天 高清
+在线视频聊天 | 2
+在线视频聊天 flash | 2
+视频 flash图像 区分 | 1
+$在线视频聊天
+在线视频聊天 flash | 3
+视频 flash图像 区分 | 1
+$flasher detection video cht
+flasher detection video chat | 3
+user detection online video chat | 2
+flasher detection | 2
+'video' 'chat' 'content' ‘gnu’ | 1
+$卷积神经网络 优化 人脸
+cnn 卷积神经网络 人脸 特征 | 4
+并行 卷积神经网络 人脸 | 4
+$l-gem
+$在线视频聊天 flash
+视频 flash图像 区分 | 2
+$cnn 卷积神经网络 人脸 特征
+并行 卷积神经网络 人脸 | 4
+$’vedio’ ‘chat’ ‘content’
+’vedio’ ‘chating’ ‘content’ | 2
+'video' 'chat' 'content' ‘gnu’ | 2
+user detection online video chat | 1
+online chat behavior | 1
+flasher detection video chat | 1
+chat | 1
+$flasher detection video chat
+user detection online video chat | 3
+'video' 'chat' 'content' ‘gnu’ | 2
+flasher detection | 2
+online chat behavior | 1
+chat | 1
+$chat
+user detection online video chat | 1
+online chat behavior | 1
+'video' 'chat' 'content' ‘gnu’ | 1
+$视频 flash图像 区分
+$'video' 'chat' 'content' ‘gnu’
+user detection online video chat | 2
+’vedio’ ‘chating’ ‘content’ | 1
+online chat behavior | 1
+$并行 卷积神经网络 人脸
+$flasher detection
+user detection online video chat | 1
+$’vedio’ ‘chating’ ‘content’
+$user detection online video chat
+online chat behavior | 2
+$online chat behavior

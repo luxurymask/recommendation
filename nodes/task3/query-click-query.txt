@@ -1,0 +1,88 @@
+网络视频点播 - 有线电视网络视频点播技术研究及应用
+网络视频点播 - 图书馆网络视频点播服务研究
+网络视频点播 - 对等网络点播系统中一种分布式索引结构
+音频质量 - 压缩域音频质量客观评价算法研究
+音频质量 - 音频质量评价标准研究
+user behavior web video - (Re-)actions speak louder than words? A novel test method for tracking user behavior in web video services - How long are users consuming a service
+用户观看网络视频时的行为 - 移动设备上用户的视频观看行为和观看质量分析
+网络视频点击行为研究 - 视频点播系统访问行为研究:测量、分析与建模
+网络视频点击行为研究 - 大学生在网络视频学习过程中的眼动行为研究
+用户观看网络视频时的点击行为 - 基于神经网络的用户视频评分自动获取方法
+用户观看网络视频时的点击行为 - 互联网视频用户观看行为分析及应用
+用户观看网络视频时的点击行为 - 对等网络视频点播系统中的用户行为研究
+用户观看网络视频时的点击行为 - 视频捕捉法:研究用户网络信息行为的有效方法
+user behavior online video content - Video Recommendation based on user Behavior and Minimizes Storage - video recommendation based on user behavior
+short-term user behavior in web video services - Video Browsing - A Study of User Behavior in Online VoD Services
+网络视频应用 - 基于IPV6的网络视频应用研究
+网络视频应用 - 网络视频:流媒体技术与应用
+网络视频应用 - 当前网络视频应用技术简析
+网络视频应用 - 网络视频应用的程序设计模式研究
+网络视频类型分布 - 网络视频进入三足鼎立时代
+网络视频识别 - 网络视频内容的识别和过滤综述
+网络视频识别 - 神经网络在火灾视频识别中的应用
+internet vedio - Text-to-video: a semantic search engine for internet videos
+user behavior for online video - Game theoretical approach of user behavior based on personal opinion in Online Video Social Networks
+user behavior for online video - Effects of undesired online video advertising choice on user behavior and attitude
+网络视频内容识别 - 基于社会计算和深度学习的社交网络特定内容监控
+网络视频服务器 - 基于TMS320DM642的嵌入式网络视频服务器的实现
+网络视频服务器 - 基于嵌入式网络视频服务器的远程监控系统
+网络视频服务器 - 基于Java的嵌入式网络视频服务器
+音频质量分析 - 基于混杂模式的音视频质量分析的设计与实现
+online video quality revisit - A Study of Revisit Intentions, Customer Satisfaction, Corporate Image, Emotions and Service Quality in the Hot Spring Industry
+user behavior online video - An analysis of user behavior in online video streaming
+user behavior online video - Large-Scale User Behavior Characterization of Online Video Service in Cellular Network - video category
+video service quality revisit - A study on the effects of service convenience and service quality on maintenance revisit intentions
+缓冲时间对用户观看视频的影响 - 互联网视频用户观看行为分析及应用
+缓冲时间对用户观看视频的影响 - 移动设备上用户的视频观看行为和观看质量分析
+网络视频技术 - 网络与电视——几种网络视频技术介绍
+网络视频技术 - 基于云计算平台的网络视频技术应用研究
+web video pay - Analysis and design of fair and efficient pay-per-view protocols for web-based video serivce
+web video provider click - Increased Video, Click Rates Are Good News for e.Republic: A Media and Research Company Revamps Its Web Sites with Help from Limelig...
+web video service - Fairness and privacy on pay-per view system for Web-based video service
+网络视频监控 - 网络视频监控
+网络视频监控 - 网络视频监控系统现状和发展趋势
+网络视频监控 - 网络视频监控市场的现状及发展
+video revisit analysis - An Empirical Analysis of Revisit Behaviors of Monthly Subscription-Based Mobile Video Services
+网络视频眼动行为研究 - 网络视频公开课程学习行为眼动实验研究
+video recommendation based on user behavior - Web Information Recommendation Based on User Behaviors
+video recommendation based on user behavior - Web Services Recommendation Based on User's Behavior
+video recommendation based on user behavior - Video recommendation method based on group user behavior analysis
+video quality - Video quality assessment based on structural distortion measurement
+video quality - FINAL REPORT FROM THE VIDEO QUALITY EXPERTS GROUP ON THE VALIDATION OF OBJECTIVE MODELS OF VIDEO QUALITY ASSESSMENT March
+video quality - A New Standardized Method for Objectively Measuring Video Quality
+web video Pay Per View - A Secure Pay-per View Scheme for Web-Based Video Service - web video charge
+web video Pay Per View - A Secure Pay-per View Scheme for Web-Based Video Service - web video pay
+web video Pay Per View - Method and system for providing on-demand and pay-per-view content through a hospitality system
+video quality assesment - P.910: Subjective video quality assessment methods for multimedia applications
+网络视频传输 - 无线网络视频传输差错控制技术研究
+网络视频传输 - 基于通知服务的车载多媒体网络视频传输研究
+网络视频传输 - 无线网络视频传输关键技术
+网络视频传输 - 下一代网络视频传输关键技术研究
+网络视频传输 - 网络视频传输
+网络视频传输 - 无线网络视频传输的质量控制
+网络视频传输 - 网络视频传输技术与现代远程教育
+video website revisit - Video - Revisiting the 2011 Rainbow Pipeline Spill Using Wet Area Mapping. Presentation by Jae Ogilvie | Foothills Research Institute
+video website revisit - Mobile video user revisit analysis based on multi-day visiting patterns
+web video service interrupt - A Secure Pay-per-View Scheme for Web-Based Video Service
+web video service interrupt - Fairness and privacy on pay-per view system for Web-based video service
+web video service interrupt - A Web Video Service Based on Flash Video Technique
+video service loading time - Using speculation to reduce server load and service time on the WWW
+网络视频系统 - 实时网络视频系统中客户端的实现
+web-based video safety - Video based Image analysis for Tunnel Safety
+video service quality - AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION
+web education - Internet Use for Web-Education on the Overlooked Areas of Grief and Loss
+web education - Web education systems in Europe
+web education - The Application of Multimedia Technology in Web Education
+web education - Analysis of BB Based Web Education Mode
+web video provider service quality - QoE-based evaluation model on video streaming service quality
+web video provider service quality - The impact of network performance on perceived video quality in H.264/AVC
+web video provider service quality - SYSTEM AND METHOD FOR ANALYZING AND COLLECTING INTERNET-BASED VIDEO SERVICE QUALITY INFORMATION
+网络视频 - 网络视频质量评估技术研究现状及发展动向
+网络视频 - 基于流媒体技术的网络视频监控研究
+网络视频 - 国内外网络视频课程资源建设现状研究
+online video loading time user behavior - A characterization of online browsing behavior
+online video loading time user behavior - DETERMINING ADVERTISEMENTS USING USER BEHAVIOR INFORMATION SUCH AS PAST NAVIGATION INFORMATION
+图像识别 - 一种快速在线图形识别与规整化方法
+图像识别 - 图像识别技术及其应用
+web video service quality - Quality driven web services composition
+web video service quality - Measuring web-based service quality

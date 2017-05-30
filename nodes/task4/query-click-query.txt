@@ -1,0 +1,117 @@
+active networks - Smart Packets for active networks
+active networks - Directions in active networks
+实时视频传输 - 实时视频传输系统的设计与实现
+视频聊天 - 基于JMF的多人视频聊天软件的设计与实现 - 视频聊天系统
+'chatting' 'content' video - Communication Server to have IVR, Text chatting, Video Chatting, Secure messaging for a care co-ordination team. - 'video chatting' content
+'chatting' 'content' video - Communication Server to have IVR, Text chatting, Video Chatting, Secure messaging for a care co-ordination team. - 'chatting' content video
+'chatting' 'content' video - Communication Server to have IVR, Text chatting, Video Chatting, Secure messaging for a care co-ordination team. - chat online
+'chatting' 'content' video - Real-time video chatting in low bandwidth by Facial Action Coding System - 'chat' 'content' video
+'chatting' 'content' video - Video-chatting is popular among 12- to 17-year-olds, study finds
+'chatting' 'content' video - Collaborative streaning of video content
+'chatting' 'content' video - Visual Feedback to Reduce Influence of Delay on Video Chatting - chat
+'chatting' 'content' video - Analisa Kinerja Jaringan Provider Untuk Aplikasi Video Chatting (Studi Kasus Di Daerah Marpoyan)
+LBP 人脸识别 - 基于多通道Gabor滤波与CS-LBP的人脸识别方法 - 多通道Gabor滤波
+LBP 人脸识别 - 基于改进的LBP人脸识别算法
+聊天传播延迟 - 网络聊天:传播学的新课题
+聊天传播延迟 - 网络聊天室传播的特征及功能浅析
+极限学习机 人脸识别 - 基于图像超分辨极限学习机的极低分辨率人脸识别
+极限学习机 人脸识别 - 基于SVM和ELM的人脸识别方法
+极限学习机 人脸识别 - 基于投票极限学习机的人脸识别混合算法研究
+最大池化方法 - 卷积自编码器中粗粒度池化特征提取研究
+predict behavior video chat - Internet Use and Video Gaming Predict Problem Behavior in Early Adolescence.
+predict behavior video chat - A Novel Pilot Study of Internet-stored Videotapes and Pediatric Dentists Predicting Behavior of Preschoolers.
+feature recognition - Survey paper: A review of automated feature recognition with rule-based pattern recognition
+feature recognition - Automatic form-feature recognition using neural-network-based techniques on boundary representations of solid models - neural-network online video chat
+在线视频聊天 动画检测 - 我的9158,视频聊天的善意谎言
+在线视频聊天 动画检测 - 我是如何同时和几个MM视频聊天的
+在线视频聊天 动画检测 - 没有摄像头我也能视频聊天
+online video chat - ONLINE VIDEO/CHAT SYSTEM
+online video chat - Efficient misbehaving user detection in online video chat services - user detection online video chat
+online video chat - Efficient misbehaving user detection in online video chat services - misbehavior detection online
+online video chat - Scalable misbehavior detection in online video chat services - null
+video delay - Rate control in DCT video coding for low-delay communications
+多通道Gabor滤波 - 采样式多通道Gabor滤波对掌纹的特征提取和分类
+image-based classification online chat - SCREEN-IMAGE BASED CLASSIFICATION
+image-based classification online chat - Neural Network Based Efficient Block Classification of Computer Screen Images for Desktop Sharing
+packet-switched networks - Measuring bottleneck link speed in packet-switched networks
+'chating' 'content' - A study on Obscenity Blocking based on Web Content in Video Chatting - 'video chatting' 'content'
+'chating' 'content' - Contents Delivery Method with P2P Network to Reduce Latency on Web Live Chatting
+'chating' 'content' - Contents-Based Obscenity Blocking in Internet Video Chatting
+热门视频聊天系统 - 视频聊天系统在直播节目中的应用
+热门视频聊天系统 - 视频聊天系统的音视频同步研究
+behavior vedio chat - Human Behavior in Chatrooms
+online chat - Methods and systems for providing online chat
+vedio chat behavior - Human Behavior in Chatrooms
+video chat behavior - Intimacy in Long-Distance Relationships over Video Chat
+video chat behavior - Using Video Chat to Improve Communication Skills in Children with Autism Spectrum Disorder
+CNN 卷积神经网络 人脸 特征 - 卷积神经网络的并行化研究 - 并行 卷积神经网络
+CNN 卷积神经网络 人脸 特征 - 一种用于人脸表情识别的卷积神经网络 - 最大池化方法
+CNN 卷积神经网络 人脸 特征 - 基于卷积神经网络的大规模人脸聚类
+CNN 卷积神经网络 人脸 特征 - 基于剪枝的双监督信号的卷积神经网络的人脸识别研究
+chat online - Online infidelity in Internet chat rooms: an ethnographic exploration
+chat online - Online chat rooms: virtual spaces of interaction for socially oriented people.
+chat online - Satisfaction with Online Commercial Group Chat: The Influence of Perceived Technology Attributes, Chat Group Characteristics, and Ad...
+misbehavior detection online - A Lightweight Passive Online Detection Method for Pinpointing Misbehavior in WLANs
+misbehavior detection online - AMD: Audit-based Misbehavior Detection in Wireless Ad Hoc Networks - Fine-Grained Cascaded (FGC) classification
+null - Demo: MVChat: flasher detection for mobile video chat - flasher detection
+content quality of video chat - Mobile video chat: issues and challenges - real-time multimedia
+video chat bad behaviors - Emerging in a Digital World: A Decade Review of Media Use, Effects, and Gratifications in Emerging Adulthood
+video chat bad behaviors - Intimacy in Long-Distance Relationships over Video Chat
+video chat bad behaviors - Understanding user behavior at scale in a mobile video chat application
+video chat bad behaviors - Mobile Random Video Chat: Understanding User Behavior and Misbehavior Detection
+real-time multimedia - Modeling of Packet Loss and Delay and Their Effect on Real-Time Multimedia Service Quality
+real-time multimedia - An Active Service Framework and its Application to Real-time Multimedia Transcoding - active networks
+real-time multimedia - Resource optimization in QoS multicast routing of real-time multimedia - Quality-of-Service
+'video' 'chat' 'content' - Video chat encoding pipeline
+'video' 'chat' 'content' - SafeVchat: A System for Obscene Content Detection in Online Video Chat Services
+'video' 'chat' 'content' - SafeVchat: Detecting obscene content and misbehaving users in online video chat services
+'video' 'chat' 'content' - SafeVchat: detecting obscene content and misbehaving users in online video chat services
+'video' 'chat' 'content' - Forming a multimedia product using video chat
+'video' 'chat' 'content' - Real-time keyframe extraction towards video content identification
+'video' 'chat' 'content' - Scalable misbehavior detection in online video chat services
+'video' 'chat' 'content' - Dynamic notification techniques for video chat invitations
+视频聊天系统都有哪些 - 视频聊天系统在直播节目中的应用
+视频聊天系统都有哪些 - 基于量子加密视频聊天系统的应用研究
+online chat bad behavior - The Experience of 'Bad' Behavior in Online Social Spaces: A Survey of Online Users
+online chat bad behavior - Decreasing online 'bad' behavior
+online chat bad behavior - Internet Behaviour Pattern in Undergraduate Medical Students in Mangalore
+在线视频聊天 人脸识别 - 基于局部特征在线学习的视频人脸识别
+在线视频聊天 人脸识别 - 基于LBP和岭回归在线视频人脸识别系统研究 - LBP 人脸识别
+video chat - CuteChat: a lightweight tele-immersive video chat system.
+video chat - Intimacy in Long-Distance Relationships over Video Chat
+video chat - SafeVchat: Detecting obscene content and misbehaving users in online video chat services
+video chat - TagWorld launches first Video Chat for social networking.(ENTERTAINMENT PORTALS)
+video chat - How and why teenagers use video chat
+video chat - Optimized Two-Party Video Chat with Restored Eye Contact Using Graphics Hardware - content quality of video chat
+video chat - Performance of Video-Chat Applications under Congestion - video delay
+video chat behaviors - You Are There: No Budget for Travel? Try Video Chat.
+video chat behaviors - Video calling and video chat
+'video chatting' 'content' - Search pattern improvement using content based adaptive search in HEVC
+并行 卷积神经网络 - 稀疏自组合时空卷积神经网络动作识别方法及其并行化
+并行 卷积神经网络 - 基于并行卷积神经网络的人脸关键点定位方法研究
+'video' 'chating' 'content' - Expressive Typing: a Typography Interface to Deliver Meanings Beyond the Contents When Chatting with Multi-Touch TouchPad on Smart TV
+'video' 'chating' 'content' - An Integrated System of Internet Environment and TV Broadcasting for Chatting and Searching of TV Contents Related Documents
+'video' 'chating' 'content' - e-learning system with the BBS/Chatting using mathematical expressions and mark/annotation in Web based contents - 'chatting' 'content'
+'video' 'chating' 'content' - e-learning system with the BBS/Chatting using mathematical expressions and mark/annotation in Web based contents - 'chatting' 'content' video
+'video' 'chating' 'content' - Contents-Based Obscenity Blocking in Internet Video Chatting
+behavior video chat - Ready Or Not, Video Chat Is Here
+behavior video chat - Firefox-Beta mit Videochat
+behavior video chat - Mobile Random Video Chat: Understanding User Behavior and Misbehavior Detection
+深度学习 特征提取 - 基于L-GEM的深度学习特征提取 - L-GEM
+深度学习 特征提取 - 基于进化深度学习的特征提取算法
+深度学习 特征提取 - CNN深度学习模型用于表情特征提取方法探究 - CNN 卷积神经网络 人脸 特征
+video char quality - A no-reference video quality metric by using inter-frame encoding characters
+behavior online chat - Emotional persistence in online chatting communities
+behavior online chat - Online chat-room behavior: Stress and psychophysiology in African-American college students
+behavior online chat - A proposal of a method for analyzing human behavior in online group work exchanging text messages through a chat session
+image detection - Near Duplicate Image Detection: min-Hash and tf-idf Weighting
+视频聊天 高清 - GIPS率先实现iPad高清语音和单向视频聊天功能
+卷积神经网络 优化 人脸 - 基于双重优化的卷积神经网络图像识别算法
+flasher detection video chat - SafeVchat: A System for Obscene Content Detection in Online Video Chat Services - image detection
+flasher detection video chat - Multi-modal fusion for flasher detection in a mobile video chat application - image-based classification
+视频 flash图像 区分 - Flash电影的视觉场景和图形图像特征研究
+并行 卷积神经网络 人脸 - 基于卷积神经网络的人脸检测和性别识别研究
+并行 卷积神经网络 人脸 - 一种卷积神经网络和极限学习机相结合的人脸识别方法
+并行 卷积神经网络 人脸 - DTCNN的人脸识别算法的Map-Reduce并行化实现研究
+user detection online video chat - Enhancing E-Learning User Interaction using Video Chat and Video Streaming
+online chat behavior - Analysis of User Behavior on Private Chat System

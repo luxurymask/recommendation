@@ -1,0 +1,1755 @@
+$web service loading time
+video service loading time | 3
+web video service interrupt | 2
+web video service quality maintainous | 2
+web video service quality re click | 2
+web video service quality maintain | 2
+web video service quality | 2
+web video provider service quality | 2
+online video loading time user behavior | 2
+online video loading time | 2
+web video service | 2
+web video service quality revisit | 2
+web viedo charge | 1
+web video charge | 1
+web video safety | 1
+user behavior web video | 1
+video service quality | 1
+web education | 1
+how long are users consuming a service | 1
+web video provider visit | 1
+video service quality revisit | 1
+web video pay | 1
+short-term user behavior in web video services | 1
+web video provider click | 1
+web video pay per view | 1
+$web video charge
+user behavior web video | 2
+web video service quality re click | 2
+web video service quality maintain | 2
+web video pay | 2
+web video provider click | 2
+web video service | 2
+web video service quality revisit | 2
+web viedo charge | 2
+web video service interrupt | 2
+web video service quality | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+web video safety | 2
+web video service quality maintainous | 2
+web video provider visit | 2
+web video provider service quality | 2
+video category | 1
+user behavior online video content | 1
+online video quality re click | 1
+online video quality revisit | 1
+user behavior delivery of video content | 1
+user behavior online video | 1
+video service quality revisit | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+video revisit analysis | 1
+video quality assesment | 1
+video provider click | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web education | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+$video category
+online video category aspect user behavior | 2
+user behavior web video | 1
+web video service quality re click | 1
+web video service quality maintain | 1
+user behavior online video content | 1
+online video quality re click | 1
+online video quality revisit | 1
+user behavior delivery of video content | 1
+user behavior online video | 1
+video service quality revisit | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video revisit analysis | 1
+web video service quality revisit | 1
+video quality assesment | 1
+video provider click | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+$user behavior web video
+short-term user behavior in web video services | 4
+user behavior online video content | 3
+user behavior delivery of video content | 3
+user behavior online video | 3
+user behavior abandon online video | 3
+user behavior for online video | 3
+online video category aspect user behavior | 3
+video recommendation based on user behavior | 3
+online video loading time user behavior | 3
+web video service quality re click | 2
+web video service quality maintain | 2
+web video pay | 2
+web video provider click | 2
+web video service | 2
+web video service quality revisit | 2
+web video service interrupt | 2
+web video service quality | 2
+user behavior onlinevideo | 2
+web video pay per view | 2
+web video safety | 2
+web video service quality maintainous | 2
+user abandon an online video | 2
+web video provider visit | 2
+web video provider service quality | 2
+online video quality re click | 1
+online video quality revisit | 1
+video service quality revisit | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+video revisit analysis | 1
+video quality assesment | 1
+video provider click | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web education | 1
+video | 1
+online video loading time | 1
+video website revisit ratio | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+video website quality revisit | 1
+$用户观看网络视频时的行为
+用户观看网络视频时的点击行为 | 7
+缓冲时间对用户观看视频的影响 | 4
+用户观看网络视频类型 | 4
+网络视频点击行为研究 | 3
+网络视频眼动行为研究 | 3
+网络视频服务器 | 2
+用户放弃视频 缓冲时间 | 2
+网络视频技术 | 2
+网络视频类型分布 | 2
+网络视频 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+网络视频点播 | 2
+网络视频应用 | 2
+网络视频监控 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频传输 | 2
+视频编码 | 1
+网络传输管理 | 1
+$web video service quality re click
+web video service quality maintain | 4
+online video quality re click | 4
+web video service quality revisit | 4
+web video service quality | 4
+web video service quality maintainous | 4
+web video provider service quality | 4
+video service quality revisit | 3
+web video provider click | 3
+web video service | 3
+web video service interrupt | 3
+video service quality | 3
+online video quality revisit | 2
+relationship video quality revisit | 2
+web video pay | 2
+video quality assesment | 2
+video provider click | 2
+video quality visit ratio | 2
+quality affects online video | 2
+video quality revisit rate | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+web video safety | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+video service loading time | 2
+quality effects of online video | 2
+web video provider visit | 2
+video website quality revisit | 2
+user behavior online video content | 1
+how long are users consuming a service | 1
+user behavior delivery of video content | 1
+user behavior online video | 1
+revisit video provider | 1
+video revisit analysis | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+web education | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video provider revisit | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+$用户观看网络视频时的点击行为
+缓冲时间对用户观看视频的影响 | 4
+网络视频点击行为研究 | 4
+用户观看网络视频类型 | 4
+网络视频眼动行为研究 | 3
+网络视频服务器 | 2
+用户放弃视频 缓冲时间 | 2
+网络视频技术 | 2
+网络视频类型分布 | 2
+网络视频 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+网络视频点播 | 2
+网络视频应用 | 2
+网络视频监控 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频传输 | 2
+视频编码 | 1
+网络传输管理 | 1
+$web video service quality maintain
+web video service quality revisit | 4
+web video service quality | 4
+web video service quality maintainous | 4
+web video provider service quality | 4
+video service quality revisit | 3
+web video service | 3
+web video service interrupt | 3
+video service quality | 3
+online video quality re click | 2
+online video quality revisit | 2
+relationship video quality revisit | 2
+web video pay | 2
+web video provider click | 2
+video quality assesment | 2
+video quality visit ratio | 2
+quality affects online video | 2
+video quality revisit rate | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+web video safety | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+video service loading time | 2
+quality effects of online video | 2
+web video provider visit | 2
+video website quality revisit | 2
+user behavior online video content | 1
+how long are users consuming a service | 1
+user behavior delivery of video content | 1
+user behavior online video | 1
+revisit video provider | 1
+video revisit analysis | 1
+video provider click | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+web education | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video provider revisit | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+$user behavior online video content
+online video category aspect user behavior | 4
+user behavior delivery of video content | 4
+user behavior online video | 4
+online video loading time user behavior | 4
+user behavior abandon online video | 4
+user behavior for online video | 4
+video recommendation based on user behavior | 3
+user abandon an online video | 3
+short-term user behavior in web video services | 3
+online video quality re click | 2
+online video quality revisit | 2
+quality effects of online video | 2
+users give up online video when it loaded over 2 seconds | 2
+quality affects online video | 2
+user behavior onlinevideo | 2
+online video loading time | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video service quality revisit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video revisit analysis | 1
+web video service quality revisit | 1
+video quality assesment | 1
+video provider click | 1
+web video service interrupt | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$online video quality re click
+online video quality revisit | 3
+quality effects of online video | 3
+quality affects online video | 3
+web video service quality maintainous | 2
+online video category aspect user behavior | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+user abandon an online video | 2
+user behavior online video | 2
+video service quality revisit | 2
+video website quality revisit | 2
+web video provider service quality | 2
+relationship video quality revisit | 2
+online video loading time user behavior | 2
+web video provider click | 2
+web video service quality revisit | 2
+video quality assesment | 2
+video provider click | 2
+users give up online video when it loaded over 2 seconds | 2
+video quality visit ratio | 2
+video service quality | 2
+video quality revisit rate | 2
+web video service quality | 2
+user behavior abandon online video | 2
+online video loading time | 2
+user behavior for online video | 2
+web video safety | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video service loading time | 1
+video provider revisit | 1
+user behavior delivery of video content | 1
+web video provider visit | 1
+revisit video provider | 1
+web video pay | 1
+web video service | 1
+video revisit analysis | 1
+web video service interrupt | 1
+video website revisit rate | 1
+web-based video safety | 1
+when are they likely to abandon it due to quality problems? | 1
+video | 1
+short-term user behavior in web video services | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$网络视频类型分布
+用户观看网络视频类型 | 3
+网络视频服务器 | 2
+网络视频技术 | 2
+网络视频 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+网络视频点播 | 2
+网络视频点击行为研究 | 2
+网络视频应用 | 2
+网络视频监控 | 2
+网络视频识别 | 2
+网络视频眼动行为研究 | 2
+网络视频内容识别 | 2
+网络视频传输 | 2
+用户放弃视频 缓冲时间 | 1
+视频编码 | 1
+网络传输管理 | 1
+缓冲时间对用户观看视频的影响 | 1
+$音频质量分析
+音频质量 | 2
+$online video quality revisit
+video quality revisit | 3
+video quality revisit ratio | 3
+quality effects of online video | 3
+video service quality revisit | 3
+video website quality revisit | 3
+relationship video quality revisit | 3
+web video service quality revisit | 3
+quality affects online video | 3
+video quality revisit rate | 3
+web video service quality maintainous | 2
+online video category aspect user behavior | 2
+video quality | 2
+video website revisit | 2
+video provider revisit | 2
+user abandon an online video | 2
+user behavior online video | 2
+web video provider service quality | 2
+online video loading time user behavior | 2
+revisit video provider | 2
+video revisit analysis | 2
+video quality assesment | 2
+users give up online video when it loaded over 2 seconds | 2
+video website revisit rate | 2
+video quality visit ratio | 2
+video service quality | 2
+web video service quality | 2
+user behavior abandon online video | 2
+online video loading time | 2
+user behavior for online video | 2
+video website revisit ratio | 2
+web video safety | 1
+revisit analysis | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+user behavior delivery of video content | 1
+web video provider visit | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video provider click | 1
+web video service interrupt | 1
+web-based video safety | 1
+when are they likely to abandon it due to quality problems? | 1
+video | 1
+short-term user behavior in web video services | 1
+revisit analyze | 1
+web video pay per view | 1
+$how long are users consuming a service
+web video service interrupt | 1
+video service quality revisit | 1
+users give up online video when it loaded over 2 seconds | 1
+web video service quality maintainous | 1
+web video provider service quality | 1
+video service quality | 1
+web video service | 1
+web video service quality revisit | 1
+video service loading time | 1
+when are they likely to abandon it due to quality problems? | 1
+web video service quality | 1
+$视频编码
+网络视频服务器 | 1
+用户放弃视频 缓冲时间 | 1
+网络视频技术 | 1
+网络视频 | 1
+网络视频系统 | 1
+网络视频过滤 | 1
+网络视频点播 | 1
+缓冲时间对用户观看视频的影响 | 1
+网络视频点击行为研究 | 1
+用户观看网络视频类型 | 1
+网络视频应用 | 1
+网络视频监控 | 1
+网络视频识别 | 1
+网络视频眼动行为研究 | 1
+网络视频内容识别 | 1
+网络视频传输 | 1
+$网络传输管理
+网络视频传输 | 2
+网络视频服务器 | 1
+网络视频技术 | 1
+网络视频 | 1
+网络视频系统 | 1
+网络视频过滤 | 1
+网络视频点播 | 1
+网络视频点击行为研究 | 1
+用户观看网络视频类型 | 1
+网络视频应用 | 1
+网络视频监控 | 1
+网络视频识别 | 1
+网络视频眼动行为研究 | 1
+网络视频内容识别 | 1
+$user behavior delivery of video content
+online video category aspect user behavior | 3
+video recommendation based on user behavior | 3
+user behavior online video | 3
+online video loading time user behavior | 3
+user behavior abandon online video | 3
+short-term user behavior in web video services | 3
+user behavior for online video | 3
+quality effects of online video | 2
+user abandon an online video | 2
+user behavior onlinevideo | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video service quality revisit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video revisit analysis | 1
+web video service quality revisit | 1
+video quality assesment | 1
+video provider click | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+video | 1
+online video loading time | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$user behavior online video
+online video category aspect user behavior | 4
+online video loading time user behavior | 4
+user behavior abandon online video | 4
+user behavior for online video | 4
+video recommendation based on user behavior | 3
+user abandon an online video | 3
+short-term user behavior in web video services | 3
+quality effects of online video | 2
+users give up online video when it loaded over 2 seconds | 2
+quality affects online video | 2
+user behavior onlinevideo | 2
+online video loading time | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video service quality revisit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+relationship video quality revisit | 1
+revisit video provider | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video revisit analysis | 1
+web video service quality revisit | 1
+video quality assesment | 1
+video provider click | 1
+web video service interrupt | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$video service quality revisit
+web video service quality revisit | 4
+web video service quality maintainous | 3
+video quality revisit | 3
+video quality revisit ratio | 3
+video website quality revisit | 3
+web video provider service quality | 3
+relationship video quality revisit | 3
+video service quality | 3
+video quality revisit rate | 3
+web video service quality | 3
+video quality | 2
+video website revisit | 2
+video service loading time | 2
+video provider revisit | 2
+quality effects of online video | 2
+revisit video provider | 2
+web video service | 2
+video revisit analysis | 2
+video quality assesment | 2
+web video service interrupt | 2
+video website revisit rate | 2
+video quality visit ratio | 2
+quality affects online video | 2
+video website revisit ratio | 2
+web video safety | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+web video pay | 1
+web video provider click | 1
+video provider click | 1
+users give up online video when it loaded over 2 seconds | 1
+web-based video safety | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$缓冲时间对用户观看视频的影响
+用户放弃视频 缓冲时间 | 4
+用户观看网络视频类型 | 3
+网络视频服务器 | 1
+网络视频技术 | 1
+网络视频 | 1
+网络视频系统 | 1
+网络视频过滤 | 1
+网络视频点播 | 1
+网络视频点击行为研究 | 1
+网络视频应用 | 1
+网络视频监控 | 1
+网络视频识别 | 1
+网络视频眼动行为研究 | 1
+网络视频内容识别 | 1
+网络视频传输 | 1
+$relationship video quality revisit
+video quality revisit | 3
+video quality revisit ratio | 3
+video website quality revisit | 3
+web video service quality revisit | 3
+video quality revisit rate | 3
+web video service quality maintainous | 2
+video quality | 2
+video website revisit | 2
+video provider revisit | 2
+quality effects of online video | 2
+web video provider service quality | 2
+revisit video provider | 2
+video revisit analysis | 2
+video quality assesment | 2
+video website revisit rate | 2
+video quality visit ratio | 2
+quality affects online video | 2
+video service quality | 2
+web video service quality | 2
+video website revisit ratio | 2
+web video safety | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+web video pay | 1
+web video provider click | 1
+web video service | 1
+video provider click | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+web-based video safety | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$revisit video provider
+video provider revisit | 3
+video quality revisit | 2
+video website revisit | 2
+video quality revisit ratio | 2
+web video provider visit | 2
+video website quality revisit | 2
+web video provider service quality | 2
+web video provider click | 2
+video revisit analysis | 2
+web video service quality revisit | 2
+video provider click | 2
+video website revisit rate | 2
+video quality revisit rate | 2
+video website revisit ratio | 2
+web video safety | 1
+web video service quality maintainous | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+web video pay | 1
+web video service | 1
+video quality assesment | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$web video pay
+web video pay per view | 3
+web video safety | 2
+web video service quality maintainous | 2
+web video provider visit | 2
+web video provider service quality | 2
+web video provider click | 2
+web video service | 2
+web video service quality revisit | 2
+web video service interrupt | 2
+web video service quality | 2
+short-term user behavior in web video services | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+video revisit analysis | 1
+video quality assesment | 1
+video provider click | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web education | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+$web video provider click
+web video provider visit | 3
+web video provider service quality | 3
+video provider click | 3
+web video safety | 2
+web video service quality maintainous | 2
+video provider revisit | 2
+web video service | 2
+web video service quality revisit | 2
+web video service interrupt | 2
+web video service quality | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+video revisit analysis | 1
+video quality assesment | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web education | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+$网络视频监控
+网络视频服务器 | 2
+网络视频技术 | 2
+网络视频 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+网络视频点播 | 2
+网络视频点击行为研究 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频识别 | 2
+网络视频眼动行为研究 | 2
+网络视频内容识别 | 2
+网络视频传输 | 2
+用户放弃视频 缓冲时间 | 1
+$web video service
+web video service quality maintainous | 3
+web video provider service quality | 3
+web video service quality revisit | 3
+web video service interrupt | 3
+web video service quality | 3
+web video safety | 2
+video service loading time | 2
+web video provider visit | 2
+video service quality | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+video revisit analysis | 1
+video quality assesment | 1
+video provider click | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video quality revisit rate | 1
+web education | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+$video revisit analysis
+revisit analysis | 2
+video quality revisit | 2
+video website revisit | 2
+video quality revisit ratio | 2
+video provider revisit | 2
+video website quality revisit | 2
+web video service quality revisit | 2
+video website revisit rate | 2
+video quality revisit rate | 2
+video website revisit ratio | 2
+web video safety | 1
+web video service quality maintainous | 1
+online video category aspect user behavior | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+video quality assesment | 1
+video provider click | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$网络视频眼动行为研究
+网络视频点击行为研究 | 4
+网络视频服务器 | 2
+网络视频技术 | 2
+网络视频 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+网络视频点播 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频传输 | 2
+用户放弃视频 缓冲时间 | 1
+$web video service quality revisit
+web video service quality maintainous | 4
+web video provider service quality | 4
+web video service quality | 4
+video quality revisit | 3
+video quality revisit ratio | 3
+video website quality revisit | 3
+web video service interrupt | 3
+video service quality | 3
+video quality revisit rate | 3
+web video safety | 2
+video quality | 2
+video website revisit | 2
+video service loading time | 2
+video provider revisit | 2
+quality effects of online video | 2
+web video provider visit | 2
+video quality assesment | 2
+video website revisit rate | 2
+video quality visit ratio | 2
+quality affects online video | 2
+short-term user behavior in web video services | 2
+video website revisit ratio | 2
+web video pay per view | 2
+revisit analysis | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+video provider click | 1
+web viedo charge | 1
+users give up online video when it loaded over 2 seconds | 1
+web-based video safety | 1
+web education | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+$video quality assesment
+web video service quality maintainous | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+quality effects of online video | 2
+video website quality revisit | 2
+web video provider service quality | 2
+video quality visit ratio | 2
+quality affects online video | 2
+video service quality | 2
+video quality revisit rate | 2
+web video service quality | 2
+web video safety | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video service loading time | 1
+video provider revisit | 1
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+video provider click | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$网络视频传输
+网络视频服务器 | 2
+网络视频点播 | 2
+网络视频点击行为研究 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+用户放弃视频 缓冲时间 | 1
+$video provider click
+video provider revisit | 2
+web video provider visit | 2
+web video provider service quality | 2
+web video safety | 1
+web video service quality maintainous | 1
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+web video service interrupt | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$web viedo charge
+web video service interrupt | 1
+web video safety | 1
+web video provider visit | 1
+web video service quality maintainous | 1
+web video provider service quality | 1
+short-term user behavior in web video services | 1
+web education | 1
+web video service quality | 1
+web video pay per view | 1
+$web video service interrupt
+web video service quality maintainous | 3
+web video provider service quality | 3
+web video service quality | 3
+web video safety | 2
+video service loading time | 2
+web video provider visit | 2
+video service quality | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+users give up online video when it loaded over 2 seconds | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video quality revisit rate | 1
+web education | 1
+user behavior abandon online video | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+$users give up online video when it loaded over 2 seconds
+online video category aspect user behavior | 2
+quality effects of online video | 2
+user abandon an online video | 2
+online video loading time user behavior | 2
+quality affects online video | 2
+when are they likely to abandon it due to quality problems? | 2
+user behavior abandon online video | 2
+online video loading time | 2
+user behavior for online video | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+video website revisit rate | 1
+web-based video safety | 1
+video quality visit ratio | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+video | 1
+short-term user behavior in web video services | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$author:(wolf, stephen)
+$video website revisit rate
+video website revisit | 3
+video website quality revisit | 3
+video quality revisit rate | 3
+video website revisit ratio | 3
+video quality revisit | 2
+video quality revisit ratio | 2
+video provider revisit | 2
+web video safety | 1
+web video service quality maintainous | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+web-based video safety | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$web-based video safety
+web video safety | 2
+web video service quality maintainous | 1
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+video quality visit ratio | 1
+quality affects online video | 1
+video service quality | 1
+video quality revisit rate | 1
+web video service quality | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$video quality visit ratio
+video quality revisit ratio | 3
+web video service quality maintainous | 2
+video quality revisit | 2
+video quality | 2
+quality effects of online video | 2
+web video provider visit | 2
+video website quality revisit | 2
+web video provider service quality | 2
+quality affects online video | 2
+video service quality | 2
+video quality revisit rate | 2
+web video service quality | 2
+video website revisit ratio | 2
+web video safety | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video service loading time | 1
+video provider revisit | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+web video pay per view | 1
+$quality affects online video
+quality effects of online video | 3
+web video service quality maintainous | 2
+online video category aspect user behavior | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+user abandon an online video | 2
+video website quality revisit | 2
+web video provider service quality | 2
+online video loading time user behavior | 2
+video service quality | 2
+video quality revisit rate | 2
+web video service quality | 2
+user behavior abandon online video | 2
+online video loading time | 2
+user behavior for online video | 2
+web video safety | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+when are they likely to abandon it due to quality problems? | 1
+video | 1
+short-term user behavior in web video services | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$video service quality
+web video service quality maintainous | 3
+web video provider service quality | 3
+web video service quality | 3
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+video service loading time | 2
+quality effects of online video | 2
+video website quality revisit | 2
+video quality revisit rate | 2
+web video safety | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video provider revisit | 1
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$video quality revisit rate
+video quality revisit | 3
+video quality revisit ratio | 3
+video website quality revisit | 3
+web video service quality maintainous | 2
+video quality | 2
+video website revisit | 2
+video provider revisit | 2
+quality effects of online video | 2
+web video provider service quality | 2
+web video service quality | 2
+video website revisit ratio | 2
+web video safety | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+when are they likely to abandon it due to quality problems? | 1
+user behavior abandon online video | 1
+video | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+revisit analyze | 1
+web video pay per view | 1
+$web education
+web video safety | 1
+web video provider visit | 1
+web video service quality maintainous | 1
+web video provider service quality | 1
+short-term user behavior in web video services | 1
+web video service quality | 1
+web video pay per view | 1
+$网络视频
+网络视频服务器 | 2
+网络视频点播 | 2
+网络视频点击行为研究 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+网络视频过滤 | 2
+用户放弃视频 缓冲时间 | 1
+$图像识别
+网络视频识别 | 1
+网络视频内容识别 | 1
+$when are they likely to abandon it due to quality problems?
+user abandon an online video | 1
+video website quality revisit | 1
+user behavior abandon online video | 1
+web video service quality maintainous | 1
+web video provider service quality | 1
+video quality revisit | 1
+video quality | 1
+video quality revisit ratio | 1
+web video service quality | 1
+quality effects of online video | 1
+$web video service quality
+web video service quality maintainous | 4
+web video provider service quality | 4
+web video safety | 2
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+video service loading time | 2
+quality effects of online video | 2
+web video provider visit | 2
+video website quality revisit | 2
+short-term user behavior in web video services | 2
+web video pay per view | 2
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video provider revisit | 1
+user abandon an online video | 1
+user behavior abandon online video | 1
+online video loading time user behavior | 1
+video | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+$网络视频过滤
+网络视频服务器 | 2
+网络视频点播 | 2
+网络视频点击行为研究 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$user behavior onlinevideo
+user behavior abandon online video | 2
+online video loading time user behavior | 2
+online video category aspect user behavior | 2
+short-term user behavior in web video services | 2
+video recommendation based on user behavior | 2
+user behavior for online video | 2
+user abandon an online video | 1
+$网络视频点播
+网络视频服务器 | 2
+网络视频点击行为研究 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$音频质量
+$user behavior abandon online video
+online video category aspect user behavior | 4
+user abandon an online video | 4
+online video loading time user behavior | 4
+user behavior for online video | 4
+video recommendation based on user behavior | 3
+short-term user behavior in web video services | 3
+quality effects of online video | 2
+online video loading time | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$网络视频点击行为研究
+网络视频服务器 | 2
+用户观看网络视频类型 | 2
+网络视频应用 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$video
+web video safety | 1
+web video service quality maintainous | 1
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+short-term user behavior in web video services | 1
+online video loading time | 1
+user behavior for online video | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$short-term user behavior in web video services
+online video category aspect user behavior | 3
+video recommendation based on user behavior | 3
+online video loading time user behavior | 3
+user behavior for online video | 3
+web video safety | 2
+web video service quality maintainous | 2
+user abandon an online video | 2
+web video provider visit | 2
+web video provider service quality | 2
+web video pay per view | 2
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+video website quality revisit | 1
+online video loading time | 1
+video website revisit ratio | 1
+$网络视频应用
+网络视频服务器 | 2
+用户观看网络视频类型 | 2
+网络视频技术 | 2
+网络视频识别 | 2
+网络视频内容识别 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$online video loading time
+online video loading time user behavior | 4
+video service loading time | 3
+online video category aspect user behavior | 2
+quality effects of online video | 2
+user abandon an online video | 2
+user behavior for online video | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video provider revisit | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$网络视频识别
+网络视频内容识别 | 3
+网络视频服务器 | 2
+用户观看网络视频类型 | 2
+网络视频技术 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$internet vedio
+$user behavior for online video
+online video category aspect user behavior | 4
+online video loading time user behavior | 4
+video recommendation based on user behavior | 3
+user abandon an online video | 3
+quality effects of online video | 2
+web video safety | 1
+web video service quality maintainous | 1
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+video website revisit ratio | 1
+web video pay per view | 1
+$revisit analyze
+video website quality revisit | 1
+revisit analysis | 1
+video quality revisit | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video website revisit ratio | 1
+video provider revisit | 1
+$网络视频内容识别
+网络视频服务器 | 2
+用户观看网络视频类型 | 2
+网络视频技术 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$video website revisit ratio
+video website revisit | 3
+video quality revisit ratio | 3
+video website quality revisit | 3
+video quality revisit | 2
+video provider revisit | 2
+web video safety | 1
+web video service quality maintainous | 1
+revisit analysis | 1
+online video category aspect user behavior | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+quality effects of online video | 1
+user abandon an online video | 1
+web video provider visit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+web video pay per view | 1
+$web video pay per view
+web video safety | 2
+web video service quality maintainous | 2
+web video provider visit | 2
+web video provider service quality | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+$网络视频服务器
+用户观看网络视频类型 | 2
+网络视频技术 | 2
+网络视频系统 | 2
+用户放弃视频 缓冲时间 | 1
+$web video safety
+web video service quality maintainous | 2
+web video provider visit | 2
+web video provider service quality | 2
+online video category aspect user behavior | 1
+video quality revisit | 1
+video quality | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+user abandon an online video | 1
+video website quality revisit | 1
+online video loading time user behavior | 1
+$用户放弃视频 缓冲时间
+用户观看网络视频类型 | 2
+网络视频技术 | 1
+网络视频系统 | 1
+$web video service quality maintainous
+web video provider service quality | 4
+video quality revisit | 2
+video quality | 2
+video quality revisit ratio | 2
+video service loading time | 2
+quality effects of online video | 2
+web video provider visit | 2
+video website quality revisit | 2
+online video category aspect user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video provider revisit | 1
+user abandon an online video | 1
+online video loading time user behavior | 1
+$revisit analysis
+video website quality revisit | 1
+video quality revisit | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video provider revisit | 1
+$online video category aspect user behavior
+online video loading time user behavior | 4
+video recommendation based on user behavior | 3
+user abandon an online video | 3
+quality effects of online video | 2
+video quality revisit | 1
+video quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+$video quality revisit
+video website quality revisit | 3
+video quality revisit ratio | 3
+web video provider service quality | 2
+video quality | 2
+video website revisit | 2
+video provider revisit | 2
+quality effects of online video | 2
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+video recommendation based on user behavior | 1
+video service loading time | 1
+$网络视频技术
+用户观看网络视频类型 | 2
+网络视频系统 | 2
+$video quality
+video website quality revisit | 2
+web video provider service quality | 2
+video quality revisit ratio | 2
+quality effects of online video | 2
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+video recommendation based on user behavior | 1
+video website revisit | 1
+video service loading time | 1
+video provider revisit | 1
+$video recommendation based on user behavior
+online video loading time user behavior | 3
+user abandon an online video | 2
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+video website revisit | 1
+video quality revisit ratio | 1
+video service loading time | 1
+video provider revisit | 1
+quality effects of online video | 1
+$video website revisit
+video website quality revisit | 3
+video quality revisit ratio | 2
+video provider revisit | 2
+user abandon an online video | 1
+web video provider visit | 1
+web video provider service quality | 1
+online video loading time user behavior | 1
+video service loading time | 1
+quality effects of online video | 1
+$video quality revisit ratio
+video website quality revisit | 3
+web video provider service quality | 2
+video provider revisit | 2
+quality effects of online video | 2
+user abandon an online video | 1
+web video provider visit | 1
+online video loading time user behavior | 1
+video service loading time | 1
+$video service loading time
+online video loading time user behavior | 3
+web video provider service quality | 2
+user abandon an online video | 1
+web video provider visit | 1
+video website quality revisit | 1
+video provider revisit | 1
+quality effects of online video | 1
+$网络视频系统
+用户观看网络视频类型 | 2
+$video provider revisit
+web video provider visit | 2
+video website quality revisit | 2
+web video provider service quality | 2
+user abandon an online video | 1
+online video loading time user behavior | 1
+quality effects of online video | 1
+$quality effects of online video
+user abandon an online video | 2
+video website quality revisit | 2
+web video provider service quality | 2
+online video loading time user behavior | 2
+web video provider visit | 1
+$user abandon an online video
+online video loading time user behavior | 3
+web video provider visit | 1
+video website quality revisit | 1
+web video provider service quality | 1
+$web video provider visit
+web video provider service quality | 3
+video website quality revisit | 1
+online video loading time user behavior | 1
+$video website quality revisit
+web video provider service quality | 2
+online video loading time user behavior | 1
+$web video provider service quality
+online video loading time user behavior | 1
+$online video loading time user behavior
+$用户观看网络视频类型
