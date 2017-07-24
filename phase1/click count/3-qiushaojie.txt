@@ -1,0 +1,15 @@
+web video charge	0
+web video pay	1
+web video service	1
+网络视频监控	3
+web video Pay Per View	3
+web viedo charge	0
+网络视频识别	2
+网络视频内容识别	1
+web-based video safety	1
+web video safety	0
+web education	7
+网络视频	0
+网络传输管理	0
+图像识别	2
+网络视频过滤	0

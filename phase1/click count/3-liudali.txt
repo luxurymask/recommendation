@@ -1,0 +1,30 @@
+web service loading time	0
+user behavior onlinevideo	0
+video category	0
+音频质量	2
+user behavior web video	1
+user behavior abandon online video	0
+user behavior online video content	0
+video	0
+short-term user behavior in web video services	1
+How long are users consuming a service	0
+online video loading time	0
+user behavior for online video	2
+When are they likely to abandon it due to quality problems?	0
+用户放弃视频 缓冲时间	0
+音频质量分析	1
+视频编码	0
+user behavior delivery of video content	0
+user behavior online video	2
+online video category aspect user behavior	0
+缓冲时间对用户观看视频的影响	2
+video recommendation based on user behavior	4
+video quality	4
+video quality assesment	1
+video service loading time	1
+quality effects of online video	0
+users give up online video when it loaded over 2 seconds	0
+user abandon an online video	0
+quality affects online video	0
+user behavior online video content#duplicated#	1
+online video loading time user behavior	3

@@ -1,0 +1,22 @@
+视频聊天系统	0
+视频聊天传播延迟	0
+'chatting' 'content' video gni	0
+视频聊天系统都有哪些	2
+视频聊天	2
+'chatting' 'content' video	6
+'chatting' content video	0
+'video' 'chat' 'content' ‘GNU’	0
+'chating' 'content'	3
+热门视频聊天系统	2
+'video chatting' 'content'	1
+’vedio’ ‘chat’ ‘content’	0
+'chat' 'content' video	0
+chat online	3
+聊天传播延迟	2
+'video' 'chating' 'content'	5
+chat	0
+vedio ‘charting’	0
+'video chatting' content	0
+’vedio’ ‘chating’ ‘content’	0
+'video' 'chat' 'content'	9
+'chatting' 'content'	0

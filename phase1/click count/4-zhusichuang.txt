@@ -1,0 +1,11 @@
+video chat behaviors	0
+null	0
+online chat bad behavior	3
+video chat bad behaviors	5
+online chat misbehavior	0
+online chat behavior	1
+video chat	1
+online chat	0
+online chat misbehavoir	0
+camera chat	0
+video chat behaviors#duplicated#	2

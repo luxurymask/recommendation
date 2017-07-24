@@ -1,0 +1,18 @@
+active networks	2
+Quality-of-Service	0
+video delay	1
+packet-switched networks	1
+online chat behavior detect	0
+vedio chat behavior#duplicated#	1
+video chat behavior detect	0
+behavior vedio chat	1
+video chat	6
+video chat behavior	2
+vedio chat behavior	0
+behavior video chat	1
+content quality of video chat	1
+behavior video chat#duplicated#	2
+predict behavior video chat	2
+video char quality	1
+behavior online chat	3
+real-time multimedia	3
