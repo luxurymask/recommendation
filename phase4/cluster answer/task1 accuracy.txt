@@ -1,0 +1,47 @@
+-------------------------------kmeans average accuracy--------------------------------
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie10.txt is : 积极准确率 0.5227272727272727 消极准确率 0.7624309392265194 平均准确率 0.642579105976896
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie2.txt is : 积极准确率 0.29081632653061223 消极准确率 0.7523809523809524 平均准确率 0.5215986394557823
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie3.txt is : 积极准确率 0.25170068027210885 消极准确率 0.722007722007722 平均准确率 0.4868542011399154
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie4.txt is : 积极准确率 0.2966101694915254 消极准确率 0.7430555555555556 平均准确率 0.5198328625235404
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie5.txt is : 积极准确率 0.4186046511627907 消极准确率 0.771875 平均准确率 0.5952398255813953
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie6.txt is : 积极准确率 0.27419354838709675 消极准确率 0.7325581395348837 平均准确率 0.5033758439609902
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie7.txt is : 积极准确率 0.3469387755102041 消极准确率 0.742296918767507 平均准确率 0.5446178471388555
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie8.txt is : 积极准确率 0.3673469387755102 消极准确率 0.7450980392156863 平均准确率 0.5562224889955982
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/qiushaojie9.txt is : 积极准确率 0.35294117647058826 消极准确率 0.7436619718309859 平均准确率 0.5483015741507871
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui10.txt is : 积极准确率 0.6451612903225806 消极准确率 0.963265306122449 平均准确率 0.8042132982225147
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui2.txt is : 积极准确率 0.12101910828025478 消极准确率 0.9159663865546218 平均准确率 0.5184927474174383
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui3.txt is : 积极准确率 0.26881720430107525 消极准确率 0.9781420765027322 平均准确率 0.6234796404019037
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui4.txt is : 积极准确率 0.30434782608695654 消极准确率 0.961352657004831 平均准确率 0.6328502415458938
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui5.txt is : 积极准确率 0.41509433962264153 消极准确率 0.968609865470852 平均准确率 0.6918521025467468
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui6.txt is : 积极准确率 0.45 消极准确率 0.9533898305084746 平均准确率 0.7016949152542373
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui7.txt is : 积极准确率 0.3157894736842105 消极准确率 0.9285714285714286 平均准确率 0.6221804511278195
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui8.txt is : 积极准确率 0.4375 消极准确率 0.9385245901639344 平均准确率 0.6880122950819672
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/xinenhui9.txt is : 积极准确率 0.6428571428571429 消极准确率 0.9556451612903226 平均准确率 0.7992511520737328
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong10.txt is : 积极准确率 0.3235294117647059 消极准确率 0.7231404958677686 平均准确率 0.5233349538162373
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong2.txt is : 积极准确率 0.2781954887218045 消极准确率 0.7132867132867133 平均准确率 0.49574110100425894
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong3.txt is : 积极准确率 0.27058823529411763 消极准确率 0.7120418848167539 平均准确率 0.4913150600554358
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong4.txt is : 积极准确率 0.26153846153846155 消极准确率 0.7109004739336493 平均准确率 0.4862194677360554
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong5.txt is : 积极准确率 0.3333333333333333 消极准确率 0.7288888888888889 平均准确率 0.5311111111111111
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong6.txt is : 积极准确率 0.2608695652173913 消极准确率 0.7130434782608696 平均准确率 0.4869565217391304
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong7.txt is : 积极准确率 0.32558139534883723 消极准确率 0.7253218884120172 平均准确率 0.5254516418804271
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong8.txt is : 积极准确率 0.28125 消极准确率 0.7172131147540983 平均准确率 0.49923155737704916
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaohaitong9.txt is : 积极准确率 0.34375 消极准确率 0.7254098360655737 平均准确率 0.5345799180327868
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing10.txt is : 积极准确率 0.30158730158730157 消极准确率 0.7669172932330827 平均准确率 0.5342522974101921
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing2.txt is : 积极准确率 0.23588039867109634 消极准确率 0.7551020408163265 平均准确率 0.4954912197437114
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing3.txt is : 积极准确率 0.25 消极准确率 0.7642679900744417 平均准确率 0.5071339950372209
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing4.txt is : 积极准确率 0.25161290322580643 消极准确率 0.7636363636363637 平均准确率 0.507624633431085
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing5.txt is : 积极准确率 0.29545454545454547 消极准确率 0.775377969762419 平均准确率 0.5354162576084822
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing6.txt is : 积极准确率 0.21296296296296297 消极准确率 0.7535934291581109 平均准确率 0.4832781960605369
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing7.txt is : 积极准确率 0.2804878048780488 消极准确率 0.7660818713450293 平均准确率 0.523284838111539
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing8.txt is : 积极准确率 0.22784810126582278 消极准确率 0.7577519379844961 平均准确率 0.49280001962515946
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/kmeans/task1/zhaomingqing9.txt is : 积极准确率 0.34285714285714286 消极准确率 0.7733333333333333 平均准确率 0.5580952380952381
+-------------------------------trees auto average accuracy--------------------------------
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/程序/task1/qiushaojie.txt is : 积极准确率 0.23010752688172043 消极准确率 NaN 平均准确率 NaN
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/程序/task1/xinenhui.txt is : 积极准确率 0.0975609756097561 消极准确率 0.8960396039603961 平均准确率 0.49680028978507607
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/程序/task1/zhaohaitong.txt is : 积极准确率 0.3382352941176471 消极准确率 0.7516129032258064 平均准确率 0.5449240986717268
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/程序/task1/zhaomingqing.txt is : 积极准确率 0.12121212121212122 消极准确率 0.8997289972899729 平均准确率 0.510470559251047
+-------------------------------trees manual average accuracy--------------------------------
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/人工/task1/qiushaojie.txt is : 积极准确率 0.5512820512820513 消极准确率 0.936 平均准确率 0.7436410256410257
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/人工/task1/xinenhui.txt is : 积极准确率 0.5128205128205128 消极准确率 0.96875 平均准确率 0.7407852564102564
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/人工/task1/zhaohaitong.txt is : 积极准确率 0.5 消极准确率 0.7589928057553957 平均准确率 0.6294964028776979
+result for /Users/liuxl/Desktop/recommendation/phase4/cluster result/tree/人工/task1/zhaomingqing.txt is : 积极准确率 0.37333333333333335 消极准确率 0.8247191011235955 平均准确率 0.5990262172284644
