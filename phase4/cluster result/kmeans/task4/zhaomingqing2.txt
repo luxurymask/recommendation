@@ -1,0 +1,39 @@
+实时视频传输
+视频聊天 高清
+online video chat
+在线视频聊天
+多通道Gabor滤波
+neural-network online video chat
+image-based classification online chat
+真人视频聊天 图像
+在线视频聊天 人脸识别
+在线视频聊天 flash
+online chat
+flasher detection video chat
+misbehavior detection online
+视频 flash图像 区分
+在线视频聊天 动画检测
+flasher检测
+flash检测
+user detection online video chat
+online video chat feature
+flash图片识别
+-------------------------------
+image-based classification
+flasher detection video cht
+卷积神经网络 优化 人脸
+L-GEM
+Fine-Grained Cascaded (FGC) classification
+视频聊天 不清楚
+并行 卷积神经网络
+LBP 人脸识别
+CNN 卷积神经网络 人脸 特征
+深度学习 特征提取
+极限学习机 人脸识别
+最大池化方法
+并行 卷积神经网络 人脸
+卷积神经网络 优化
+flasher detection
+feature recognition
+image detection
+-------------------------------
