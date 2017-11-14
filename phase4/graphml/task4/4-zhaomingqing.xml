@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="12">
+      <lastActiveQueryId>79</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="81" nextArcId="101" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+chat&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482306930256</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.google.com/patents/US7861176</url>
+          <title>Methods and systems for providing online chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482306945610</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online++video+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482306978961</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.google.com/patents/US20080059580</url>
+          <title>ONLINE VIDEO/CHAT SYSTEM</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482306987342</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.cs.colorado.edu/~rhan/Papers/p23-cheng.pdf</url>
+          <title>Efficient misbehaving user detection in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307043536</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user detection online video chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+detection+online+video+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%286d10543e9f09666c2b7f87877287febb%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307081327</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.ijcim.th.org/SpecialEditions/v23nSP2/02_22A_Enhancing.pdf</url>
+          <title>Enhancing E-Learning User Interaction using Video Chat and Video Streaming</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user detection online video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307126297</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c52721380cd3ef9856c7325568c26e79%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.298.7911%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=10401417642977070160</url>
+          <title>Scalable misbehavior detection in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307163532</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>null</queryText>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307217332</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/publication/254463040_Demo_MVChat_flasher_detection_for_mobile_video_chat</url>
+          <title>Demo: MVChat: flasher detection for mobile video chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>null</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307217368</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flasher detection</queryText>
+          <url>http://xueshu.baidu.com/s?wd=+flasher+detection&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28a740968812003656c59f86c02d86a5ff%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307264994</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flasher detection video cht</queryText>
+          <url>http://xueshu.baidu.com/s?wd=flasher+detection++video+cht&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=flasher+detection&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307288993</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flasher detection video chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=flasher+detection+video+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=flasher+detection+video+cht&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307292716</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.cs.colorado.edu/~rhan/Papers/mvchat-paper-submitted-Mobiquitous-2014.pdf</url>
+          <title>Multi-modal fusion for flasher detection in a mobile video chat application</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>flasher detection video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307325053</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ed9724a716a83dfc3000467ccd6cbf83%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2499927&amp;ie=utf-8&amp;sc_us=7413898540044072094</url>
+          <title>SafeVchat: A System for Obscene Content Detection in Online Video Chat Services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>flasher detection video chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307353960</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>misbehavior detection online</queryText>
+          <url>http://xueshu.baidu.com/s?wd=misbehavior+detection+online+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28c52721380cd3ef9856c7325568c26e79%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307404886</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2891face43b406823ec7941c5ca55c630a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D2068453.2068485&amp;ie=utf-8&amp;sc_us=2827232680920948326</url>
+          <title>A Lightweight Passive Online Detection Method for Pinpointing Misbehavior in WLANs</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>misbehavior detection online</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307447273</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.kresttechnology.com/krest-academic-projects/krest-mtech-projects/CSE/2013%20M.TECH%20Base%20&amp;%20Abstract/Mobile%20Computing/4.AMD%20Audit-based%20Misbehavior%20Detection/AMD.Basepaper.pdf</url>
+          <title>AMD: Audit-based Misbehavior Detection in Wireless Ad Hoc Networks</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>misbehavior detection online</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307482892</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>Fine-Grained Cascaded (FGC) classification</queryText>
+          <url>http://xueshu.baidu.com/s?wd=+Fine-Grained+Cascaded+%28FGC%29+classification+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28b0bb81e07fe8ebe026384a5c802bf13b%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307567518</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>image-based classification</queryText>
+          <url>http://xueshu.baidu.com/s?wd=image-based+classification&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307684090</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>image-based classification online chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=image-based+classification++online+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=image-based+classification&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307730059</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a4846f07c4af155f17f97a5b5e5ddc08%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2FWO2016033744.html&amp;ie=utf-8&amp;sc_us=18304581672537427047</url>
+          <title>SCREEN-IMAGE BASED CLASSIFICATION</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>image-based classification online chat</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307783393</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://figshare.com/articles/Neural_Network_Based_Efficient_Block_Classification_of_Computer_Screen_Images_for_Desktop_Sharing/1497908</url>
+          <title>Neural Network Based Efficient Block Classification of Computer Screen Images for Desktop Sharing</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>null</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307807490</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video chat feature</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+chat+feature+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=image-based+classification+online+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307873883</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>feature recognition</queryText>
+          <url>http://xueshu.baidu.com/s?wd=feature+recognition&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+chat+feature&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=1&amp;rsp=5</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307921683</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284f3281a989c7666c3ec0af8d41edd71c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0166361507001327&amp;ie=utf-8&amp;sc_us=13733843753477045090</url>
+          <title>Survey paper: A review of automated feature recognition with rule-based pattern recognition</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>feature recognition</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482307958576</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286da0107b8e2f69aca0b3c1e32579ee31%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2F001044859290064H&amp;ie=utf-8&amp;sc_us=925832434512138129</url>
+          <title>Automatic form-feature recognition using neural-network-based techniques on boundary representations of solid models</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>feature recognition</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308005077</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>neural-network online video chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=neural-network++online+video+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=feature+recognition&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308044472</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>在线视频聊天</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=neural-network+online+video+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308073086</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>在线视频聊天 人脸识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308112000</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b64796928f3c5f0a7f88d958ed7c30c1%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JYRJ201506050.htm&amp;ie=utf-8&amp;sc_us=10958662511378814671</url>
+          <title>基于局部特征在线学习的视频人脸识别</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>在线视频聊天 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308124270</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282dcb8dbb04b6e79ea9360cc7593724c0%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10406-1014059316.htm&amp;ie=utf-8&amp;sc_us=12541478362955546632</url>
+          <title>基于LBP和岭回归在线视频人脸识别系统研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>在线视频聊天 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308162362</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>在线视频聊天 flash</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+flash&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308202653</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flash图片识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=flash%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+flash&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308217647</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flasher检测</queryText>
+          <url>http://xueshu.baidu.com/s?wd=flasher%E6%A3%80%E6%B5%8B&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=flash%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308241472</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>flash检测</queryText>
+          <url>http://xueshu.baidu.com/s?wd=flash%E6%A3%80%E6%B5%8B&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308246946</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>LBP 人脸识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=LBP+%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=flash%E6%A3%80%E6%B5%8B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308289350</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287660f320b661257421d6c8a8f499b735%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GDGC201207020.htm&amp;ie=utf-8&amp;sc_us=7982746751886650934</url>
+          <title>基于改进的LBP人脸识别算法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>LBP 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308400954</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>image detection</queryText>
+          <url>http://xueshu.baidu.com/s?wd=image+detection&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%287660f320b661257421d6c8a8f499b735%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308421584</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.robots.ox.ac.uk/~vgg/publications/2008/Chum08a/chum08a.pdf</url>
+          <title>Near Duplicate Image Detection: min-Hash and tf-idf Weighting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>image detection</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308464176</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d1a71812d4611a90adc1e521e64e1ddc%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJA201005069.htm&amp;ie=utf-8&amp;sc_us=9858645263266360486</url>
+          <title>基于多通道Gabor滤波与CS-LBP的人脸识别方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>LBP 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308552838</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>多通道Gabor滤波</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%A4%9A%E9%80%9A%E9%81%93Gabor%E6%BB%A4%E6%B3%A2&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28d1a71812d4611a90adc1e521e64e1ddc%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482308604517</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bd4dce0bec0f9edb1d689f263ba4ef02%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGTB200712020.htm&amp;ie=utf-8&amp;sc_us=7123458225109909354</url>
+          <title>采样式多通道Gabor滤波对掌纹的特征提取和分类</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>多通道Gabor滤波</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474760899</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>深度学习 特征提取</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0++%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%A4%9A%E9%80%9A%E9%81%93Gabor%E6%BB%A4%E6%B3%A2&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474820344</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28021af2486d5b01f34caab09ccbfba397%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJA201511060.htm&amp;ie=utf-8&amp;sc_us=11389050118766398253</url>
+          <title>基于进化深度学习的特征提取算法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>深度学习 特征提取</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474852303</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e71507f884cf5ca5ffa496ecdff45a5b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XDJS201603011.htm&amp;ie=utf-8&amp;sc_us=8383857828414034056</url>
+          <title>CNN深度学习模型用于表情特征提取方法探究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>深度学习 特征提取</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474894028</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>CNN 卷积神经网络 人脸 特征</queryText>
+          <url>http://xueshu.baidu.com/s?wd=CNN+%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C++%E4%BA%BA%E8%84%B8+%E7%89%B9%E5%BE%81&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28e71507f884cf5ca5ffa496ecdff45a5b%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474919040</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2811d183b2de9e1022083b8289f616969a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-11845-1016156806.htm&amp;ie=utf-8&amp;sc_us=8450818708395040910</url>
+          <title>基于卷积神经网络的大规模人脸聚类</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>CNN 卷积神经网络 人脸 特征</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474941774</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28777daa15a4b160b673c21c7b59d04a9d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.paper.edu.cn%2Fhtml%2Freleasepaper%2F2016%2F11%2F294%2F&amp;ie=utf-8&amp;sc_us=15709322202726279670</url>
+          <title>基于剪枝的双监督信号的卷积神经网络的人脸识别研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>CNN 卷积神经网络 人脸 特征</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482474959994</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d475312241c2af4daf8de80a77efffd4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-NJYD201601005.htm&amp;ie=utf-8&amp;sc_us=8456741768996043962</url>
+          <title>一种用于人脸表情识别的卷积神经网络</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>CNN 卷积神经网络 人脸 特征</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475052851</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="50" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>最大池化方法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%9C%80%E5%A4%A7%E6%B1%A0%E5%8C%96%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28d475312241c2af4daf8de80a77efffd4%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475084974</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="51" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2878961928ad1723402c7a7f7899c80e59%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.ejournal.org.cn%2FCN%2Fabstract%2Fabstract9808.shtml&amp;ie=utf-8&amp;sc_us=12286441411504974058</url>
+          <title>卷积自编码器中粗粒度池化特征提取研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>最大池化方法</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475114299</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="52" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282df5d21a73c431611d49fe3126aa7736%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10459-1013256916.htm&amp;ie=utf-8&amp;sc_us=9555575763758683957</url>
+          <title>卷积神经网络的并行化研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>CNN 卷积神经网络 人脸 特征</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475159400</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="53" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>并行 卷积神经网络</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%B9%B6%E8%A1%8C++%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%282df5d21a73c431611d49fe3126aa7736%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475181510</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="54" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2843982e0fcff39171c29b29fb02feee29%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSYJ201508068.htm&amp;ie=utf-8&amp;sc_us=2751739026240373743</url>
+          <title>基于并行卷积神经网络的人脸关键点定位方法研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>并行 卷积神经网络</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475210097</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="55" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c00facf57595726bde6b9b3ca936082d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10384-1014220189.htm&amp;ie=utf-8&amp;sc_us=6843719610768112744</url>
+          <title>稀疏自组合时空卷积神经网络动作识别方法及其并行化</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>并行 卷积神经网络</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475249933</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="56" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>并行 卷积神经网络 人脸</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%B9%B6%E8%A1%8C+%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C++%E4%BA%BA%E8%84%B8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%B9%B6%E8%A1%8C+%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475323908</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="57" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28350107835a17303c7b18dcd3a279b9ba%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XTLL2014S1038.htm&amp;ie=utf-8&amp;sc_us=11645038033845331563</url>
+          <title>DTCNN的人脸识别算法的Map-Reduce并行化实现研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>并行 卷积神经网络 人脸</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475339808</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="58" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2812cf822ca02fc59087115904eac69e32%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10288-1015365937.htm&amp;ie=utf-8&amp;sc_us=2946647490660050187</url>
+          <title>基于卷积神经网络的人脸检测和性别识别研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>并行 卷积神经网络 人脸</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475369668</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="59" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282daa4d0bd22c5e878ac1dacbcca675bf%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fsjcjycl201605017&amp;ie=utf-8&amp;sc_us=16654154946620927970</url>
+          <title>一种卷积神经网络和极限学习机相结合的人脸识别方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>并行 卷积神经网络 人脸</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475452645</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="60" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>极限学习机 人脸识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%9E%81%E9%99%90%E5%AD%A6%E4%B9%A0%E6%9C%BA+%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%282daa4d0bd22c5e878ac1dacbcca675bf%29&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475483623</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="61" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b0d5a391e46cd5ea381c319cb121d749%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZZGY201602008.htm&amp;ie=utf-8&amp;sc_us=17704280502692633561</url>
+          <title>基于投票极限学习机的人脸识别混合算法研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>极限学习机 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475496239</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="62" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28af65a5ad74bfe292c0fa695fe2b5e3e1%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJY201602057.htm&amp;ie=utf-8&amp;sc_us=6810740722331145017</url>
+          <title>基于图像超分辨极限学习机的极低分辨率人脸识别</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>极限学习机 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475564432</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="63" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283db771dad44177fa8fdb190fd8e0dece%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10112-1015603117.htm&amp;ie=utf-8&amp;sc_us=3912477144929752134</url>
+          <title>基于SVM和ELM的人脸识别方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>极限学习机 人脸识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475628030</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="64" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>卷积神经网络 优化</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C++%E4%BC%98%E5%8C%96+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%9E%81%E9%99%90%E5%AD%A6%E4%B9%A0%E6%9C%BA+%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475702037</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="65" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>卷积神经网络 优化 人脸</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C+%E4%BC%98%E5%8C%96++%E4%BA%BA%E8%84%B8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C+%E4%BC%98%E5%8C%96&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475725015</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="66" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a107fea1e53f19828c5016c06eceff79%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fmssbyrgzn201609011&amp;ie=utf-8&amp;sc_us=2329805472828378056</url>
+          <title>基于双重优化的卷积神经网络图像识别算法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>卷积神经网络 优化 人脸</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475756154</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="67" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28032a524ad6d47e8acb42bb5bbd11401e%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10561-1013319802.htm&amp;ie=utf-8&amp;sc_us=7698702468868279228</url>
+          <title>基于L-GEM的深度学习特征提取</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>深度学习 特征提取</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475801889</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="68" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>L-GEM</queryText>
+          <url>http://xueshu.baidu.com/s?wd=L-GEM&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=paperuri%3A%28032a524ad6d47e8acb42bb5bbd11401e%29&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=0</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475874479</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="69" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频 flash图像 区分</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91+flash%E5%9B%BE%E5%83%8F++%E5%8C%BA%E5%88%86&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0+%E7%89%B9%E5%BE%81%E6%8F%90%E5%8F%96&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475923980</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="70" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28685ae2bc2ba87823c43081a7968b7ba3%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10445-1013215496.htm&amp;ie=utf-8&amp;sc_us=15771259995049508361</url>
+          <title>Flash电影的视觉场景和图形图像特征研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频 flash图像 区分</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482475963726</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="71" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>在线视频聊天 动画检测</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E5%8A%A8%E7%94%BB%E6%A3%80%E6%B5%8B&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=flash%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476027152</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="72" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ea1eeab490a39f42ed2a9f1df829b455%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-DNXY200410004.htm&amp;ie=utf-8&amp;sc_us=10373938933977654785</url>
+          <title>没有摄像头我也能视频聊天</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>在线视频聊天 动画检测</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476046231</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="73" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286cd0eafcc93ae3cf8a3ce82bc940f5f4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-DNAH200422022.htm&amp;ie=utf-8&amp;sc_us=11066858135597120138</url>
+          <title>我是如何同时和几个MM视频聊天的</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>null</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476071513</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="74" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fe71686e86249882f7b23e6a1f74a588%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FMain%2FDetail.aspx%3Fid%3D33588774&amp;ie=utf-8&amp;sc_us=9206636211729391605</url>
+          <title>我的9158,视频聊天的善意谎言</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>null</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476128188</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="75" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>真人视频聊天 图像</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%9C%9F%E4%BA%BA%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E5%9B%BE%E5%83%8F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%9C%A8%E7%BA%BF%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E5%8A%A8%E7%94%BB%E6%A3%80%E6%B5%8B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476184580</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="76" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天 高清</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9++%E9%AB%98%E6%B8%85&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%9C%9F%E4%BA%BA%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E5%9B%BE%E5%83%8F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476203226</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="77" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286d34c91ad5e812d793eb266602165d06%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-DZDN201006060.htm&amp;ie=utf-8&amp;sc_us=16021866886866089497</url>
+          <title>GIPS率先实现iPad高清语音和单向视频聊天功能</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频聊天 高清</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476230148</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="78" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天 不清楚</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+++%E4%B8%8D%E6%B8%85%E6%A5%9A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E9%AB%98%E6%B8%85&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476246630</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="79" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>实时视频传输</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%AE%9E%E6%97%B6%E8%A7%86%E9%A2%91%E4%BC%A0%E8%BE%93&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9+%E4%B8%8D%E6%B8%85%E6%A5%9A&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476278100</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="80" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e27dd07da514e5e9128b189d6d7ea326%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SJSJ200711034.htm&amp;ie=utf-8&amp;sc_us=11543808459991448011</url>
+          <title>实时视频传输系统的设计与实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>实时视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>12</operatorId>
+          <time>1482476290106</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="8">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="10">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="10" target="11">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="12">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="14">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="15">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="17">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="13" target="19">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="20">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="21">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="22">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="23">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="24">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="25">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="26">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="26" target="27">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="28">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="edgeid">40</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="30">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="31">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="32">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="32" target="33">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="34">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="36">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="37">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="38">
+      <data key="edgeid">51</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="39">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="40">
+      <data key="edgeid">53</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="40" target="41">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="41" target="42">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="41" target="43">
+      <data key="edgeid">57</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="44">
+      <data key="edgeid">58</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="45">
+      <data key="edgeid">59</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="45" target="46">
+      <data key="edgeid">61</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="47">
+      <data key="edgeid">62</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="48">
+      <data key="edgeid">63</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="49">
+      <data key="edgeid">64</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="50">
+      <data key="edgeid">66</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="50" target="51">
+      <data key="edgeid">67</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="52">
+      <data key="edgeid">68</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="52" target="53">
+      <data key="edgeid">70</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="54">
+      <data key="edgeid">71</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="55">
+      <data key="edgeid">72</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="56">
+      <data key="edgeid">73</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="56" target="57">
+      <data key="edgeid">74</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="56" target="58">
+      <data key="edgeid">75</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="56" target="59">
+      <data key="edgeid">76</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="56" target="60">
+      <data key="edgeid">77</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="60" target="61">
+      <data key="edgeid">78</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="60" target="62">
+      <data key="edgeid">79</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="60" target="63">
+      <data key="edgeid">80</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="60" target="64">
+      <data key="edgeid">81</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="64" target="65">
+      <data key="edgeid">82</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="65" target="66">
+      <data key="edgeid">83</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="67">
+      <data key="edgeid">84</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="67" target="68">
+      <data key="edgeid">86</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="69">
+      <data key="edgeid">87</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="69" target="70">
+      <data key="edgeid">88</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="71">
+      <data key="edgeid">89</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="71" target="72">
+      <data key="edgeid">90</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="71" target="73">
+      <data key="edgeid">92</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="71" target="74">
+      <data key="edgeid">94</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="71" target="75">
+      <data key="edgeid">95</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="75" target="76">
+      <data key="edgeid">96</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="76" target="77">
+      <data key="edgeid">97</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="76" target="78">
+      <data key="edgeid">98</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="78" target="79">
+      <data key="edgeid">99</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="80">
+      <data key="edgeid">100</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

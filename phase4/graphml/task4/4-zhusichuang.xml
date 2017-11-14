@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="3">
+      <lastActiveQueryId>2</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="23" nextArcId="22" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+chat&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481711793278</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://pdfs.semanticscholar.org/525c/35ee60f7ed9677fe1a78abea80a1c7f23c98.pdf</url>
+          <title>How and why teenagers use video chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+chat&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>3</operatorId>
+          <time>1481711897826</time>
+          <rate>1</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481711840961</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video chat bad behaviors</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+chat+bad+behaviors&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481711960513</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://research-srv.microsoft.com/pubs/196363/ubi1439-tian.pdf</url>
+          <title>Understanding user behavior at scale in a mobile video chat application</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat bad behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+chat+bad+behaviors&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481711977479</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Richard_Han2/publication/266654288_Understanding_user_behavior_at_scale_in_a_mobile_video_chat_application/links/564adb8f08ae44e7a28de696.pdf</url>
+          <title>Understanding user behavior at scale in a mobile video chat application</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat bad behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video%20chat%20bad%20behaviors&amp;pn=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712030049</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%281a835e4724c32cb64fe595de8d4595f4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fgradworks.umi.com%2F10%2F10%2F10108822.html&amp;ie=utf-8&amp;sc_us=15212709161186123975</url>
+          <title>Mobile Random Video Chat: Understanding User Behavior and Misbehavior Detection</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat bad behaviors</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>3</operatorId>
+          <time>1481713024736</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712141424</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Saul_Greenberg/publication/241623190_Intimacy_in_long-distance_relationships_over_video_chat/links/02e7e52f5480295222000000?ev=pub_ext_doc_dl_meta</url>
+          <title>Intimacy in Long-Distance Relationships over Video Chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat bad behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video%20chat%20bad%20behaviors&amp;pn=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712388695</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video chat behaviors</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+chat++behaviors&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+chat+bad+behaviors&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712491900</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video chat behaviors</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video%20chat%20behaviors&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712556651</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://webtools4teachers.yolasite.com/resources/video+chat.pdf</url>
+          <title>You Are There: No Budget for Travel? Try Video Chat.</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video%20chat%20behaviors&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712572029</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.pewinternet.org/files/old-media/Files/Reports/2010/PIP_Video%20calling%20data%20memo.pdf</url>
+          <title>Video calling and video chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video%20chat%20behaviors&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712660145</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>null</queryText>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481712943291</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+chat&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481877817072</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat misbehavoir</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+chat+misbehavoir&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481877863331</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat misbehavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online%20chat%20misbehavior&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481877865782</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>camera chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=camera+chat&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat+misbehavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481877916894</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat behavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+chat+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=camera+chat&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481877971264</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Fujio_Toriumi/publication/286653351_Analysis_of_User_Behavior_on_Private_Chat_System/links/566ce17f08ae1a797e3db948.pdf</url>
+          <title>Analysis of User Behavior on Private Chat System</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online chat behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online%20chat%20behavior&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878057300</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online chat bad behavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+chat+bad+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878146200</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c60957249b6cd76297d086f84acd3212%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Bjsessionid%3DE4C4089C853C24E9AC2F08F32C66069D%3Fdoi%3D10.1.1.84.5025%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=6131871545780078329</url>
+          <title>The Experience of 'Bad' Behavior in Online Social Spaces: A Survey of Online Users</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online chat bad behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+chat+bad+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>3</operatorId>
+          <time>1481878223540</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878151112</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Shelly_Farnham/publication/221514476_Decreasing_online_&amp;</url>
+          <title>Decreasing online 'bad' behavior</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online chat bad behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+chat+bad+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878285536</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://ijirset.com/upload/june/19_INTERNET.pdf</url>
+          <title>Internet Behaviour Pattern in Undergraduate Medical Students in Mangalore</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online chat bad behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+chat+bad+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+chat+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878350354</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Sarah_Coyne2/publication/270671945_Emerging_in_a_Digital_World_A_Decade_Review_of_Media_Use_Effects_and_Gratifications_in_Emerging_Adulthood/links/5612bbdc08aea9fb51c25fe2.pdf</url>
+          <title>Emerging in a Digital World: A Decade Review of Media Use, Effects, and Gratifications in Emerging Adulthood</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video chat bad behaviors</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video%20chat%20bad%20behaviors&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>3</operatorId>
+          <time>1481878746932</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="8">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="10">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="11">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="12">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="13" target="14">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="15">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="18">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="18" target="19">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="18" target="20">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="18" target="21">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="22">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

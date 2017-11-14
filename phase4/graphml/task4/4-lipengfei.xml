@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="10">
+      <lastActiveQueryId>70</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="74" nextArcId="74" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>vedio ‘charting’</queryText>
+          <url>http://xueshu.baidu.com/s?wd=vedio+%E2%80%98charting%E2%80%99&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386132793</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天</queryText>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386380390</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.ixueshu.com/document/075bb1351ec00f9d.html</url>
+          <title>基于JMF的多人视频聊天软件的设计与实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频聊天</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386380421</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://read.pudn.com/downloads120/ebook/509474/xxx.pdf</url>
+          <title>基于JMF的多人视频聊天软件的设计与实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频聊天</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386402014</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>’vedio’ ‘chating’ ‘content’</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E2%80%99vedio%E2%80%99+%E2%80%98chating%E2%80%99+%E2%80%98content%E2%80%99&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E2%80%99vedio%E2%80%99+%E2%80%98charting%E2%80%99+%E2%80%98content%E2%80%99&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386444266</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>’vedio’ ‘chat’ ‘content’</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E2%80%99vedio%E2%80%99+%E2%80%98chat%E2%80%99+%E2%80%98content%E2%80%99&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E2%80%99vedio%E2%80%99+%E2%80%98chating%E2%80%99+%E2%80%98content%E2%80%99&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386460702</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'video' 'chat' 'content'</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386463957</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2843b0630254664a700d423938ad6f1866%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.arxiv.org%2Fftp%2Farxiv%2Fpapers%2F1101%2F1101.3124.pdf&amp;ie=utf-8&amp;sc_us=5633455819331512867</url>
+          <title>SafeVchat: Detecting obscene content and misbehaving users in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386478244</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.cs.colorado.edu/current/department/publications/reports/docs/CU-CS-1077-11.pdf</url>
+          <title>SafeVchat: detecting obscene content and misbehaving users in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chat%27+%27content%27&amp;ie=utf-8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;filter=sc_year%3D%7B2010%2C%2B%7D</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386564394</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.freshpatents.com/-dt20131121ptan20130307997.php</url>
+          <title>Forming a multimedia product using video chat</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386592917</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://wan.poly.edu/KDD2012/docs/p552.pdf</url>
+          <title>Scalable misbehavior detection in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2010%2C%2B%7D&amp;sc_hit=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386620037</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.freshpatents.com/-dt20140501ptan20140118477.php</url>
+          <title>Video chat encoding pipeline</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2010%2C%2B%7D&amp;sc_hit=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>10</operatorId>
+          <time>1482386700178</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386654528</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ef5a0775159cc73797b4223d955e8d77%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2F9344675.html&amp;ie=utf-8&amp;sc_us=5089174402959268124</url>
+          <title>Dynamic notification techniques for video chat invitations</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2010%2C%2B%7D&amp;sc_hit=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386718672</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'video' 'chat' 'content' ‘GNU’</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chat%27+%27content%27+%E2%80%98GNU%E2%80%99&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386745291</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天系统</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386827326</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'video' 'chating' 'content'</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>10</operatorId>
+          <time>1482387311020</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386947801</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/publication/4323127_Contents-Based_Obscenity_Blocking_in_Internet_Video_Chatting</url>
+          <title>Contents-Based Obscenity Blocking in Internet Video Chatting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386953471</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289420fd29ca8daecb55b53a3ae09f6d8d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fci.nii.ac.jp%2Fnaid%2F110003283276&amp;ie=utf-8&amp;sc_us=11482228282520922194</url>
+          <title>An Integrated System of Internet Environment and TV Broadcasting for Chatting and Searching of TV Contents Related Documents</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482386998468</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://dlwww.dl.saga-u.ac.jp/contents/mgzn/ZR00005457/ZR00005457.pdf</url>
+          <title>e-learning system with the BBS/Chatting using mathematical expressions and mark/annotation in Web based contents</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387028829</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://portal.dl.saga-u.ac.jp/bitstream/123456789/54927/1/ZR00005457.pdf</url>
+          <title>e-learning system with the BBS/Chatting using mathematical expressions and mark/annotation in Web based contents</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27+%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chat%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387059149</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%280057867e8894bbff06f450e3982fb941%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.dbpia.co.kr%2FArticle%2F3405001&amp;ie=utf-8&amp;sc_us=84489965077188756</url>
+          <title>Expressive Typing: a Typography Interface to Deliver Meanings Beyond the Contents When Chatting with Multi-Touch TouchPad on Smart TV</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chating%27%20%27content%27&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387105372</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天系统都有哪些</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387138555</time>
+        </vertexOperation>
+        <vertexOperation type="4">
+          <operatorId>10</operatorId>
+          <time>1482548277243</time>
+          <collapsed>1</collapsed>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>热门视频聊天系统</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387151659</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28271478154f92c09c572a8d4737e9db82%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10561-1013150631.htm&amp;ie=utf-8&amp;sc_us=5839453125962635747</url>
+          <title>视频聊天系统的音视频同步研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>热门视频聊天系统</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387160343</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.ixueshu.com/document/fc625abcaad5fb73.html</url>
+          <title>视频聊天系统在直播节目中的应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>热门视频聊天系统</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%83%AD%E9%97%A8%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387173023</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chating' 'content'</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chating%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>10</operatorId>
+          <time>1482387304426</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387230988</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.zentralblatt-math.org/ioport/en/?q=an%3A10642868</url>
+          <title>Contents-Based Obscenity Blocking in Internet Video Chatting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chating%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387240241</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28caeeb1d121fa2e8abe3443445aa77179%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fci.nii.ac.jp%2Fnaid%2F170000075080&amp;ie=utf-8&amp;sc_us=12784000682928477928</url>
+          <title>Contents Delivery Method with P2P Network to Reduce Latency on Web Live Chatting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chating%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387266186</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.earticle.net/Article.aspx?sn=121129</url>
+          <title>A study on Obscenity Blocking based on Web Content in Video Chatting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chating' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chating%27+%27content%27&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video%27+%27chating%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387331984</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chatting' 'content'</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chatting%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387349222</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chatting' 'content' video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chatting%27+%27content%27+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387384642</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282f6331e84ff86f91ac133112a20aa652%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Flink.springer.com%2F10.1007%2F978-3-642-21669-5_19&amp;ie=utf-8&amp;sc_us=2141724811011975589</url>
+          <title>Visual Feedback to Reduce Influence of Delay on Video Chatting</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27+%27content%27+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>10</operatorId>
+          <time>1482387434368</time>
+          <rate>4</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387391541</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.latimes.com/business/la-fi-ct-pew-study-20120504,0,2936394.story</url>
+          <title>Video-chatting is popular among 12- to 17-year-olds, study finds</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27+%27content%27+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387417306</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chatting' 'content' video gni</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chatting%27+%27content%27+video++gni&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387455723</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://jom.unri.ac.id/index.php/JOMFTEKNIK/article/view/10254</url>
+          <title>Analisa Kinerja Jaringan Provider Untuk Aplikasi Video Chatting (Studi Kasus Di Daerah Marpoyan)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27%20%27content%27%20video&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387471867</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289328ab017940b1acf83c8d5f43287394%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2F8700714.html&amp;ie=utf-8&amp;sc_us=2047973320734557950</url>
+          <title>Collaborative streaning of video content</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27+%27content%27+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387591195</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://ijarcet.org/wp-content/uploads/IJARCET-VOL-4-ISSUE-9-3596-3600.pdf</url>
+          <title>Communication Server to have IVR, Text chatting, Video Chatting, Secure messaging for a care co-ordination team.</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27%20%27content%27%20video&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387635261</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ca0fa99625655d0dbabbf32f7115842a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6164794&amp;ie=utf-8&amp;sc_us=14859904754779363287</url>
+          <title>Real-time video chatting in low bandwidth by Facial Action Coding System</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'chatting' 'content' video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27chatting%27%20%27content%27%20video&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="2">
+          <operatorId>10</operatorId>
+          <time>1482387778601</time>
+          <rate>5</rate>
+        </vertexOperation>
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482387696192</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'video chatting' 'content'</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27video%20chatting%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547236793</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'video chatting' content</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27video+chatting%27+content&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video+chatting%27+%27content%27&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547280680</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chatting' content video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chatting%27+content+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27video+chatting%27+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547315442</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="53" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>'chat' 'content' video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%27chat%27+%27content%27+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chatting%27+%27content%27+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547567967</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="55" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>chat</queryText>
+          <url>http://xueshu.baidu.com/s?wd=chat+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%27chat%27+%27content%27+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547630966</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="57" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>chat online</queryText>
+          <url>http://xueshu.baidu.com/s?wd=chat%20online&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547650170</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="58" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://realities.id.tue.nl/wp-content/uploads/2010/03/peris-et-al-2002.pdf</url>
+          <title>Online chat rooms: virtual spaces of interaction for socially oriented people.</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>chat online</queryText>
+            <url>http://xueshu.baidu.com/s?wd=chat%20online&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547677518</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="59" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://core.ac.uk/download/pdf/6460469.pdf</url>
+          <title>Satisfaction with Online Commercial Group Chat: The Influence of Perceived Technology Attributes, Chat Group Characteristics, and Ad...</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>chat online</queryText>
+            <url>http://xueshu.baidu.com/s?wd=chat%20online&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547813078</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="60" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://isiarticles.com/bundles/Article/pre/pdf/36484.pdf</url>
+          <title>Online infidelity in Internet chat rooms: an ethnographic exploration</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>chat online</queryText>
+            <url>http://xueshu.baidu.com/s?wd=chat%20online&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482547967725</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="61" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2846d71084ef2846a0b6b132e822883612%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7489425&amp;ie=utf-8&amp;sc_us=10074574329323361662</url>
+          <title>Search pattern improvement using content based adaptive search in HEVC</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video chatting' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%20chatting%27%20%27content%27&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548022252</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="64" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2881bd07830325b247b568455e47f1ccaf%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_xddsjs200701022.aspx&amp;ie=utf-8&amp;sc_us=9159112108315188780</url>
+          <title>视频聊天系统在直播节目中的应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频聊天系统都有哪些</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548305990</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="65" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288ebfc023e2e9b582e0b78ab5e3195615%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-TXSJ201514159.htm&amp;ie=utf-8&amp;sc_us=4476259840556409789</url>
+          <title>基于量子加密视频聊天系统的应用研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>视频聊天系统都有哪些</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548352768</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="66" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28466d39340a94990f8f3173897ff7efee%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Farxiv.org%2Fpdf%2F1101.3124v1&amp;ie=utf-8&amp;sc_us=1747735556533804220</url>
+          <title>SafeVchat: detecting obscene content and misbehaving users in online video chat services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548492389</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="67" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Yu-Li_Liang/publication/261851340_SafeVchat_A_System_for_Obscene_Content_Detection_in_Online_Video_Chat_Services/links/56da393908aee73df6cf6bac.pdf</url>
+          <title>SafeVchat: A System for Obscene Content Detection in Online Video Chat Services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548508969</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="68" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Athanassios_Skodras/publication/224576306_Real-time_Keyframe_extraction_towards_video_content_identification/links/02e7e5209e0f4d7413000000.pdf</url>
+          <title>Real-time keyframe extraction towards video content identification</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>'video' 'chat' 'content'</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%27video%27%20%27chat%27%20%27content%27&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548531199</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="69" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频聊天传播延迟</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E7%B3%BB%E7%BB%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548713937</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="70" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>聊天传播延迟</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548729998</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="71" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c342199c8b2b228575a2919c91339015%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.doc88.com%2Fp-9199308877258.html&amp;ie=utf-8&amp;sc_us=10055774344465881840</url>
+          <title>网络聊天:传播学的新课题</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>聊天传播延迟</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548738366</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="72" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28598fc7ea6860fcb585d793e941929e56%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F80146X%2F201108%2F681678389201108070.html&amp;ie=utf-8&amp;sc_us=5717705027125728051</url>
+          <title>网络聊天室传播的特征及功能浅析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>聊天传播延迟</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E8%A7%86%E9%A2%91%E8%81%8A%E5%A4%A9%E4%BC%A0%E6%92%AD%E5%BB%B6%E8%BF%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>10</operatorId>
+          <time>1482548761424</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="10">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="10" target="11">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="12">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="14">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="15">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="16">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="17">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="18">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="19">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="20">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="21">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="23">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="24">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="25">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="26">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="27">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="28" target="30">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="31">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="32">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="33">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="34">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="25" target="35">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="25" target="36">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="37">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="38">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="39">
+      <data key="edgeid">38</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="40">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="43">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="44">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="45">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="44" target="48">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="44" target="49">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="45" target="53">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="55">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="44" target="57">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="57" target="58">
+      <data key="edgeid">57</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="57" target="59">
+      <data key="edgeid">58</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="47">
+      <data key="edgeid">59</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="57" target="60">
+      <data key="edgeid">60</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="47" target="61">
+      <data key="edgeid">61</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="64">
+      <data key="edgeid">64</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="65">
+      <data key="edgeid">65</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="66">
+      <data key="edgeid">66</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="67">
+      <data key="edgeid">67</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="68">
+      <data key="edgeid">68</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="69">
+      <data key="edgeid">69</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="69" target="70">
+      <data key="edgeid">70</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="70" target="71">
+      <data key="edgeid">71</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="70" target="72">
+      <data key="edgeid">72</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

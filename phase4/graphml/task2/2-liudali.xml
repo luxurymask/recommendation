@@ -1,0 +1,1758 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="4">
+      <lastActiveQueryId>53</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="65" nextArcId="69" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481525912894</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2818968a9a27237136299d231beb12bdba%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzhyfyx201205006&amp;ie=utf-8&amp;sc_us=1395538074449053206</url>
+          <title>《环境空气质量标准》(GB3095-2012)细颗粒物(PM2.5)标准值解读</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481525923076</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481526198221</time>
+          <rate>1</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bd643ad84b5fcc40c26d6cbdee071c44%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2Fqk%2F92199X%2F200001%2F4123929.html&amp;ie=utf-8&amp;sc_us=8125551949541635074</url>
+          <title>中国PM2.5污染状况和污染特征的研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481525948473</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481526124076</time>
+          <rate>2</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5来源</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5%E6%9D%A5%E6%BA%90&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526001845</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28eb26caa12f7002f2da1efb0eb53aa4cb%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FConference_7864696.aspx&amp;ie=utf-8&amp;sc_us=8690740662201825879</url>
+          <title>中国PM2.5来源、污染特征与控制策略</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5来源</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5%E6%9D%A5%E6%BA%90&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526011766</time>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481526239142</time>
+          <comment>PM2.5指空气动力学直径等于或小于2.5微米(μm)的颗粒，它既来源自污染源直接排放的颗粒物， 也产生于各种气态污染物的各种物理或化学过程。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2808a43116ed29e090fdf8dfdb76f31bd8%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_jjyktjs201401012.aspx&amp;ie=utf-8&amp;sc_us=3435218022841249206</url>
+          <title>我国大气环境PM2.5来源、分布、危害现状分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5来源</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5%E6%9D%A5%E6%BA%90&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">4</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526305030</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481526765626</time>
+          <rate>5</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481526764639</time>
+          <comment>目前，我国在空气质量颗粒物的检测方面主 要由PMl0和PM2．5两项内容组成。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481526844421</time>
+          <comment>主要来源：燃煤以及次生硫化物和氮氧化合物45%，交通运输20%，工业和建筑业20%，其他方面15%</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481715052696</time>
+          <comment>我国 北方城市的PM2．5的浓度要普遍高于南方城市的 PM2．5的浓度</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>3</id>
+          <time>1481715118340</time>
+          <comment>在我国沿海地区，由于地理 条件的优势，青岛、上海、深圳、珠海、厦门等城 市PM2．5的污染水平都相对较低；在内陆地区， 南京、太原、柳州和南宁等城市的污染则非常严重， 其中最严重的南京PM2．5的浓度有时可达到美国 PM2．5日均浓度标准的4．6倍【3】。而灰霾天气在我 国东部城市污染也尤为突出，其中上海、广州、天 津、深圳等城市的灰霾天数占到了全年的30％一 50％</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 前体物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%89%8D%E4%BD%93%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5%E6%9D%A5%E6%BA%90&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526320580</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d9c34bf783e6177802ead6321839544d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.g.wanfangdata.com.cn%2FThesis_Y3057954.aspx&amp;ie=utf-8&amp;sc_us=17507821003428262696</url>
+          <title>我国人为源PM2.5及二次前体物的估算研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 前体物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%89%8D%E4%BD%93%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5%E6%9D%A5%E6%BA%90&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">8</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526348886</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481526485733</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481526870835</time>
+          <comment>S02是我国主要的大气污染物之一，主要来自煤炭和石油等化石能源的燃烧、金属 的冶炼和其他含硫原料的生产加工等过程[121</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>5</id>
+          <time>1481526988011</time>
+          <comment>NO，的人为排放源分为固定燃烧源、移动源和生物质燃烧源。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>6</id>
+          <time>1481526993546</time>
+          <comment>我国人为源CO的排放源包括固定燃烧源、工业过程源、移动源和生物质燃烧源。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>7</id>
+          <time>1481527007063</time>
+          <comment>VOC。的人为排放源主要包括固定燃烧源、工业过程源、移动源、生物质燃烧源、 溶剂使用源。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 二次前体物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E4%BA%8C%E6%AC%A1%E5%89%8D%E4%BD%93%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%89%8D%E4%BD%93%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526358500</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 危害</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%8D%B1%E5%AE%B3&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E4%BA%8C%E6%AC%A1%E5%89%8D%E4%BD%93%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526388499</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284b1a20fcef44dab9e0313f35b763103f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F89784X%2F201201%2F41454714.html&amp;ie=utf-8&amp;sc_us=3993330359193466469</url>
+          <title>大气颗粒物PM2.5及其危害</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 危害</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%8D%B1%E5%AE%B3&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E4%BA%8C%E6%AC%A1%E5%89%8D%E4%BD%93%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">5</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526454123</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481527139416</time>
+          <rate>5</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481527342812</time>
+          <comment>PM2．5的化学组分主要包括有机碳、碳黑、粉 尘、硫酸铵(亚硫酸铵)、硝酸铵等五类物质。有机 碳、碳黑、粉尘，属于原生颗粒物，被称为一次颗粒 物。硫酸铵(亚硫酸铵)、硝酸铵等。是由人类活动 排放或自然产生的二氧化硫和二氧化氮等，在大 气中经过光化学反应形成的二次污染物，所以被 称为二次颗粒物。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>3</id>
+          <time>1481527395928</time>
+          <comment>科学家们说，PM2．5是导致灰霾天气的罪魁 祸首。进人大气中的灰霾，导致大气能见的降低， 对地面交通安全和飞机的起飞、降落，都构成巨大 威胁。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>4</id>
+          <time>1481527459715</time>
+          <comment>PM2。5排放的控制途径和措施</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2839d4cf8c5d035908b7793ee1e790302f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FConference_7741743.aspx&amp;ie=utf-8&amp;sc_us=5637055583963094541</url>
+          <title>PM2.5的危害与防治</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 危害</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%8D%B1%E5%AE%B3&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E4%BA%8C%E6%AC%A1%E5%89%8D%E4%BD%93%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">2</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481526621538</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481527273134</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481527270939</time>
+          <comment>危害：呼吸内科专家柯会星认为，PM2.5主要对呼吸系统和心血管系统造成伤害，包括呼吸道受刺 激、咳嗽、呼吸困难、降低肺功能、加重哮喘、导致慢性支气管炎、非致命性的心脏病、心肺病患 者的过早死亡。老人、小孩及心肺疾病患者是受感染的敏感人群。气象专家和医学专家认为，由细颗粒物造成的灰霾天气对人体健康的危害甚至要比沙尘暴更大。被吸 入人体后会直接进入支气管，干扰肺部的气体交换，引发包括哮喘、支气管炎和心血管病等方面的疾 病。每人每天平均要吸入约1万升的空气，进入肺泡的微尘可迅速被吸收、不经过肝脏解毒，直接进 入血液循环分布到全身；其次，会损害血红蛋白输送氧的能力，丧失血液。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481527286203</time>
+          <comment>来源：PM2.5产生的主要来源，是发电厂、工业生产、汽车尾气排放等过程中经过燃烧而排放的残留 物，大多含有重金属等有毒物质。一般而言，ＰＭ10主要来自道路扬尘等；PM2.5则主要来自机动 车尾气、燃煤燃烧产生的烟尘、挥发性有机物等。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>中国PM2.5分布</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715156629</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%280400c392bb1c3c65760cfec445cf0c7b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F90831A%2F201507%2F665488177.html&amp;ie=utf-8&amp;sc_us=12100101797438970741</url>
+          <title>中国细颗粒物(PM2.5)污染状况和空间分布</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>中国PM2.5分布</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715192290</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283b4837ed36905d301880c223cead3675%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGHJ201603001.htm&amp;ie=utf-8&amp;sc_us=4072859327691657505</url>
+          <title>中国大陆城市PM2.5污染时空分布规律</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>中国PM2.5分布</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715202109</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fabb376ccbfe6b4eb9011b3f43c1959f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F84215X%2F201506%2F667851875.html&amp;ie=utf-8&amp;sc_us=981555773313196172</url>
+          <title>中国城市PM2.5时空分布特征</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>中国PM2.5分布</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715205968</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>汽车限行 PM2.5</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715338889</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2801c8f5079fbc766a3477fda1069b3614%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F90506X%2F201304%2F44579234.html&amp;ie=utf-8&amp;sc_us=11858609578651565843</url>
+          <title>机动车限行是否有助于缓解雾霾气候?——PM2.5污染与机动车排放的关系</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行 PM2.5</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715354188</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481715509810</time>
+          <rate>1</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28992551d0edd74807cdf9125d1bddbf2f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F90227A%2F201001%2F33079266.html&amp;ie=utf-8&amp;sc_us=14801093601865681199</url>
+          <title>2009年北京市春季大气颗粒PM2.5和黑碳浓度变化特征</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行 PM2.5</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E4%B8%AD%E5%9B%BDPM2.5%E5%88%86%E5%B8%83&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715431640</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481715548999</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481715593076</time>
+          <comment>。推测空气 质量的改善可能与北京市现阶段实行的车辆限行、建筑 业减少有密切关系。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>汽车限行治理环境污染困境</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715607840</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f74c1668a7079e1d8255367ddc12e300%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F81227X%2F201502%2F663535639.html&amp;ie=utf-8&amp;sc_us=3482756659695352293</url>
+          <title>机动车单双号常态化限行的环境法治之辨</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行治理环境污染困境</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715615012</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481715966088</time>
+          <rate>2</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289dd3f09bff2c72f995f3fbab5253ae05%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F98224A%2F201602%2F668740394.html&amp;ie=utf-8&amp;sc_us=5064573960980218528</url>
+          <title>限行政策无效视角下机动车污染源控制策略研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行治理环境污染困境</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715635609</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bc3c6fbcf6bfd8b4b0626112b86a3ab7%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10730-1016700126.htm&amp;ie=utf-8&amp;sc_us=8360148187087460435</url>
+          <title>城市空气污染问题研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行治理环境污染困境</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715671349</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287ae75726b21fa12a0a4f97580c4ff5ff%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F71135X%2F201107%2F36044714.html&amp;ie=utf-8&amp;sc_us=9564238857900379052</url>
+          <title>北京市汽车限行的环境和经济效益分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行治理环境污染困境</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">2</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715697669</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481715904861</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481715855247</time>
+          <comment>从汽车污染的空间尺度来看，北京市汽车限行政策的 最大程度的环境效益在北京市，而汽车原材料生产和加工 等过程的环境污染涉及全国甚至全球尺度，因此限行的环 境效益是局部的</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481715901142</time>
+          <comment>北京市汽车限行政策会带来微弱的环境 效益，温室气体减排量相当于北京市2007年二氧化碳总 排放量的0.4%。污染物减排量8.6万吨/年，其中减排 CO 7.9万吨/年，减排NOx（NO2）0.9万吨/年，减排SOx （SO2）0.2万吨/年。将净环境效益折合成经济效益，也只 相当于节省0.57亿元/年。而造成的经济损失是巨大的，每 年直接的经济损失84亿，即使扣除环境效益节省的资金， 仍然亏损83.43亿元/年，而这部分资金在国内碳交易市场 上可购买的温室气体是环境效益减排量的172倍，经济损 失远远大于环境效益</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287c5a3b25cd6630da6771f285903ab6d2%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F81337X%2F201620%2F7000032474.html&amp;ie=utf-8&amp;sc_us=3805876557100526889</url>
+          <title>单双号限行常态化的思考</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>汽车限行治理环境污染困境</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C+PM2.5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">3</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481715744212</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481716069621</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481716067860</time>
+          <comment>不难发现单双号限行制度作为一种行政措施、无论是从 宪法的角度还是从其它相关部门法的角度来看、单双号限行 常态化尽管是出于治堵还是治污的目的都是不符合法律的相 关规定的，同时也是违背法律的精神[2]。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481716140713</time>
+          <comment>从环境保护的角度来说，单双号限行常态化无疑对环境的保 护会起到积极的作用，但是从长远的角度来说其作为一种手段并 不能从根本上解决环境问题，其只能使环境污染问题得到缓解。 而笔者认为要想使环境污染这一问题得到根本的解决，政府部门 更多的应该是从根本出发，比如提高燃油的标准、开发高新技术 减少汽车尾气的排放量增加油气的利用率等一系列手段来从根本 上解决环境污染。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481716149294</time>
+          <comment>。。。。。论文不全。。。。。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>治理PM2.5中的利益关系</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E6%B2%BB%E7%90%86PM2.5%E4%B8%AD%E7%9A%84%E5%88%A9%E7%9B%8A%E5%85%B3%E7%B3%BB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B1%BD%E8%BD%A6%E9%99%90%E8%A1%8C%E6%B2%BB%E7%90%86%E7%8E%AF%E5%A2%83%E6%B1%A1%E6%9F%93%E5%9B%B0%E5%A2%83&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716175030</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 利益关系</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%88%A9%E7%9B%8A%E5%85%B3%E7%B3%BB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E6%B2%BB%E7%90%86PM2.5%E4%B8%AD%E7%9A%84%E5%88%A9%E7%9B%8A%E5%85%B3%E7%B3%BB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716226609</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 利益</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A%E5%85%B3%E7%B3%BB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716261122</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2818edc014b5c3de76e8ba97b34adbe036%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F81927X%2F20134X%2F71717570504849514856485554.html&amp;ie=utf-8&amp;sc_us=11888768436312299240</url>
+          <title>PM2.5政策制定中政府与公众利益冲突及其对策探微</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A%E5%85%B3%E7%B3%BB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716266427</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>PM2.5 减排 利益</queryText>
+          <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%87%8F%E6%8E%92+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716335795</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b6ae4cd8aaf625e68a7211096ffa3171%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F71331X%2F201505%2F664840148.html&amp;ie=utf-8&amp;sc_us=3257926225795510482</url>
+          <title>要实现PM2.5减排目标:中国需要少烧多少煤?</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%87%8F%E6%8E%92+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716361700</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287642654b63730290a880ccd264ad058a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F85047X%2F201203%2F41287324.html&amp;ie=utf-8&amp;sc_us=5901859300442991115</url>
+          <title>PM2.5与机动车减排</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%87%8F%E6%8E%92+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716377232</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e2abf425d339e3d26930827529708567%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_bjjn201202003.aspx&amp;ie=utf-8&amp;sc_us=14526060709202012249</url>
+          <title>PM2.5刺痛节能减排的神经</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5+%E5%87%8F%E6%8E%92+%E5%88%A9%E7%9B%8A&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=PM2.5+%E5%88%A9%E7%9B%8A&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716403176</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fb4430325279445afb010279098f4469%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fhjkxyj201605004&amp;ie=utf-8&amp;sc_us=11916824091942015398</url>
+          <title>我国燃煤电厂PM2.5减排潜力预测与分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5%20%E5%87%8F%E6%8E%92%20%E5%88%A9%E7%9B%8A&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716447147</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287b4ddea1be34af17a424e51cc3c06e91%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LXSZ201507045.htm&amp;ie=utf-8&amp;sc_us=2988438256810396040</url>
+          <title>从源头上减排PM2.5,减轻雾霾污染</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5%20%E5%87%8F%E6%8E%92%20%E5%88%A9%E7%9B%8A&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716461210</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28006ede3f92f2f0efe7c6df8690ffc36f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgdl201411029&amp;ie=utf-8&amp;sc_us=15502743126307999112</url>
+          <title>燃煤电厂超低排放的减排潜力及其PM2.5环境效益</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>PM2.5 减排 利益</queryText>
+            <url>http://xueshu.baidu.com/s?wd=PM2.5%20%E5%87%8F%E6%8E%92%20%E5%88%A9%E7%9B%8A&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481716474598</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%280400c392bb1c3c65760cfec445cf0c7b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZRZY201507005.htm&amp;ie=utf-8&amp;sc_us=12100101797438970741</url>
+          <title>中国细颗粒物(PM2.5)污染状况和空间分布</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>中国PM2.5分布</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888326996</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>pm2.5治理</queryText>
+          <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888395281</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f103c5afe0d02c053a5437d772de5b60%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fdiaoysj201307003&amp;ie=utf-8&amp;sc_us=17917616518694146926</url>
+          <title>高汽车保有量下的PM2.5治理研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888424114</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28cbf875e1d0d0fd9c6ea662835a105384%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F93666A%2F201302%2F45821452.html&amp;ie=utf-8&amp;sc_us=4955117421504259213</url>
+          <title>美国洛杉矶地区PM2.5治理对策研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">8</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888428360</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889368018</time>
+          <rate>5</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481889392842</time>
+          <comment>1。加强解析PM2.5来源，为精细化治理提供科学依据</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481889411673</time>
+          <comment>2。以治理机动车尾气为重要抓手，发展绿色交通</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481889503617</time>
+          <comment>（1）多措并举，尽快减少尾气污染。（2）制定交通控制措施，最大限度减少尾气排放。（3）发展新能源汽车，从根本上治理汽车尾气污染</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>3</id>
+          <time>1481889531842</time>
+          <comment>3。以中长期战略规划指导治理pm2.5工作的稳步开展</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>4</id>
+          <time>1481889568507</time>
+          <comment>4。以环保技术研发为突破口，破解经济发展与环保冲突难题</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>5</id>
+          <time>1481889597080</time>
+          <comment>5。把市场机制作为推动pm2.5减排的重要手段</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>6</id>
+          <time>1481889625007</time>
+          <comment>6。推动治理高污染地区市镇，减低污染对健康的危害</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>7</id>
+          <time>1481889659800</time>
+          <comment>7。鼓励和引导民众参与，推动PM2.5治理工作全面落实</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d94096a69abc5c7e3232eff185e8cbe8%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F96439X%2F201212%2F44207059.html&amp;ie=utf-8&amp;sc_us=9638395710813527504</url>
+          <title>PM2.5治理中的政府环保责任问题研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">2</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888433076</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889166953</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481889246082</time>
+          <comment>我国政府环保责任承担规则不足的原因：1。环境立法上的不完善。2。发展理念落后。3。缺少公众参与监督</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481889297688</time>
+          <comment>我国政府环保责任承担机制的构建：1。健全现行环境法规。2。树立可持续、以人为本的发展理念。3。完善公众参与监督机制</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%281df2a30e981cd59db55e49533c47bef7%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F93183A%2F201202%2F40980133.html&amp;ie=utf-8&amp;sc_us=9242889060475549431</url>
+          <title>郝吉明:实现PM2.5治理目标 第一阶段很关键</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888438681</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889302495</time>
+          <rate>1</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284c029d3d21fa8836f65461fe3a4e4268%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Flsdsj201305073&amp;ie=utf-8&amp;sc_us=13741397049868327470</url>
+          <title>燃煤锅炉PM2.5治理技术</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888444886</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889344412</time>
+          <rate>1</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f5b179334d50af010e55dcbb654c09d5%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fggykf201602044&amp;ie=utf-8&amp;sc_us=3088685728217442361</url>
+          <title>上海市PM2.5治理的博弈分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888450280</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fe7f5d3b1cc2fcc5cb8065d16acfb26a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgxzgl201608021&amp;ie=utf-8&amp;sc_us=9912764988449022681</url>
+          <title>环境治理政策工具比较和选择——以北京PM2.5治理为例</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888454793</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889722457</time>
+          <rate>3</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481889723837</time>
+          <comment>国际上最初以市场和行政作为划分环境政策工具 的标准，将其分为命令一控制式工具和市场化工具。. 随着环境治理理论和实践的不断发展，以公众为主导 的自愿参与式政策工具逐步进入政策领域。经济合作 与发展组织(OECD)将环境政策工具划分为三类，分别 是直接管制式、市场机制式以及劝说式手段三类。B3世 界银行则对市场机制式的政策工具进行了细分，分为 利用市场和创建市场两种类型。∞o而大多数研究则是 基于政策工具对被规制者的强制性，将环境政策工具 分为三大类，分别是命令一控制型、市场激励型和公众 参与型政策工具，H1</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28adf4853d1eb6ca5445947cd61df37b86%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_zghgmy201525302.aspx&amp;ie=utf-8&amp;sc_us=6993781533704802748</url>
+          <title>大气PM2.5治理措施探讨</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5治理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%E6%B2%BB%E7%90%86&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">3</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888470778</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481889779431</time>
+          <rate>5</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481889783508</time>
+          <comment>PM。；又被通常称作为细颗粒物，直径非常的小，是人类头发半径的二十 分之一。尽管它在空气中含量不是很高，但由于它粒径小而且比重低，可以悬 浮在空气中很久，与空气中其他有害物质和有毒物质形成气溶胶，对大气污染 的贡献度很大。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>1</id>
+          <time>1481889798680</time>
+          <comment>细颗粒物的来源可以归结为两种，一种为人为源，另一种为自然源。人为 源的一般分为固定源和流动源两种。固定源一般是工业生产过程中由于化石燃 料燃烧和生产加工而释放入大气环境中的细颗粒污染物；流动源主要是指交通 工具在使用过程中所向大气中排放的含有氧化物和硫化物的尾气。非人为来源 主要是因刮风而引起的土壤扬尘、植物的花粉和孢子等颗粒物，火山爆发和地 震等自然灾害事件，也会产生大量的细颗粒物输送到大气层中，对空气质量产 生很大的影响。 除此之外，PM：；按照产生来源还可以分为污染源直接排放的一次颗粒污 染物和由其他污染物反应生成的二次颗粒物。二次颗粒物主要是由空气中的 S02、挥发性有机物和氮氧化物的等物质发生反应生成的铵盐、硫酸盐和有机 气溶胶等。</comment>
+        </vertexOperation>
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>2</id>
+          <time>1481889814475</time>
+          <comment>(1)建立约束机制，从政府决策和制度的层面体现控制污染决心，完善 考核体系，加大大气污染治理力度，实施大气污染防治规划。 (2)加强工业源控制，不仅从宏观上逐步优化工业布局，调整产业结构， 提高工业清洁能源比例，实施限批制度，还要加强对工业排放源治理，要按照 国家最新最严的标准对工业进行对标，强化PM：；治理。 (3)加强面源治理。加大城市机械化清扫范围，提高道路湿式清扫频率， 强化施工工地的扬尘管控，减少城市裸露地面，将PM：；面源降到最低。 (4)加强对PM。的研究。在空气污染源解析的基础上，进一步开展大气 污染防治技术和政策的研究，做到因地制宜，科学有效。开展多种污染物协同 处理技术研究，减少二次颗粒物前驱物的排放。 (5)加强机动车污染防治。加快推进燃料油清洁化进度，强化机动车尾 气排放环保监管，严格执行机动车淘汰制度。大力推广新能源汽车和公共交通 工具，实施限号行车，减少汽车尾气排放 (6)完善空气质量公布和应急系统。及时的公布空气质量信息，定期发 布空气颗粒物污染报告，人们能及时的了解空气质量的现状。同时探索建立雾 霾预报系统，逐步形成预警能力，进一步完善重污染天气下的应急措施。</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>pm2.5 降低</queryText>
+          <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888624103</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284b1a20fcef44dab9e0313f35b763103f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F89784X%2F201201%2F41454714.html&amp;ie=utf-8&amp;sc_us=14225806949583377081</url>
+          <title>大气颗粒物PM2.5及其危害</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888631577</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2820ee52cdc08a81598b7202d3eac56151%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F90967X%2F201201%2F40592804.html&amp;ie=utf-8&amp;sc_us=4180309484070985000</url>
+          <title>不同地区大气PM2.5对人血管内皮细胞毒性作用的实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888649106</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f4cbf69b66e530a9346ad1b1d6a8a360%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Ffdcdk201504264&amp;ie=utf-8&amp;sc_us=9794367265117290510</url>
+          <title>大气颗粒物PM2.5及其危害</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888654565</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="50" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283040e4c10523de19380d2406ac44519d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_dljs201202012.aspx&amp;ie=utf-8&amp;sc_us=13557770357955129285</url>
+          <title>对火电厂降低PM2.5颗粒排放的若干问题的探讨</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888666852</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="51" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2820ee52cdc08a81598b7202d3eac56151%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fhjyjkzz201201001&amp;ie=utf-8&amp;sc_us=4180309484070985000</url>
+          <title>不同地区大气PM2.5对人血管内皮细胞毒性作用的实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888724513</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="52" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2820ee52cdc08a81598b7202d3eac56151%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-HJYJ201201001.htm&amp;ie=utf-8&amp;sc_us=4180309484070985000</url>
+          <title>不同地区大气PM2.5对人血管内皮细胞毒性作用的实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 降低</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E9%99%8D%E4%BD%8E&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5%E6%B2%BB%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888730892</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="53" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>pm2.5 减少 措施</queryText>
+          <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888759617</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="54" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287f905caa9fb7930c21cfe59f6ca65f31%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgny201401003&amp;ie=utf-8&amp;sc_us=12958995364815788743</url>
+          <title>北京PM2.5与冬季采暖热源的关系及治理措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888778880</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="55" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.ixueshu.com/document/ca62aa3c1255797b318947a18e7f9386.html</url>
+          <title>利用现有环保设备降低火电厂PM2.5颗粒排放的方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888793106</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="56" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28555c457ab9495c45c725b48d8fd70f14%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JTGB201304005.htm&amp;ie=utf-8&amp;sc_us=18009085935749771044</url>
+          <title>试论我国减少船舶排放PM2.5的现状及其措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888802838</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="57" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289f81f6e4a3c059e0d1335571fdccc014%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F98596B%2F201402%2F48817871.html&amp;ie=utf-8&amp;sc_us=7875747847075609356</url>
+          <title>降低急诊科室内PM2.5浓度的措施及效果观察</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888814084</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="58" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2820cdba4eeb3b22bc49d850071590923b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F98364X%2F201601%2F668053699.html&amp;ie=utf-8&amp;sc_us=14082718629459079839</url>
+          <title>探讨大气细颗粒物PM2.5的污染特征与防治措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888820457</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="59" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b66f9e7b29b5c3ce3fd8de11ab33ad74%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F90570X%2F201512%2F666922914.html&amp;ie=utf-8&amp;sc_us=3139650147781165947</url>
+          <title>室外细颗粒物(PM2.5)建筑围护结构穿透及被动控制措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888833766</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="60" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2820198e32bf869c9a656d4d76882d00f9%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F98364A%2F201504%2F665792333.html&amp;ie=utf-8&amp;sc_us=15042859525335169141</url>
+          <title>浅析大气可吸入颗粒物PM2.5的污染及防治措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5+%E5%87%8F%E5%B0%91+%E6%8E%AA%E6%96%BD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=pm2.5+%E9%99%8D%E4%BD%8E&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888838306</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="61" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28cd7f09951d9b5d7ade7c1d8c66bc3e45%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F83144A%2F201407%2F661658796.html&amp;ie=utf-8&amp;sc_us=12976657640202141094</url>
+          <title>PM2.5的来源、危害及防治措施研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%20%E5%87%8F%E5%B0%91%20%E6%8E%AA%E6%96%BD&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888851426</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="62" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fcfc7e3d21ff2789103d836811944623%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-NMHB201310044.htm&amp;ie=utf-8&amp;sc_us=12784944400562241095</url>
+          <title>大气细颗粒物PM_(2.5)污染来源及防治措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%20%E5%87%8F%E5%B0%91%20%E6%8E%AA%E6%96%BD&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888982006</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="63" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b5e237115e19c78d21d68c56fb51d341%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GDWF201304002.htm&amp;ie=utf-8&amp;sc_us=3058231900814579333</url>
+          <title>广州市部分居民对大气颗粒物PM_(2.5)的知识、态度和行为调查</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%20%E5%87%8F%E5%B0%91%20%E6%8E%AA%E6%96%BD&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888988495</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="64" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289cfceb078a3efffd30b58a4eeb095170%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgjkjy201202003&amp;ie=utf-8&amp;sc_us=4381939837301906675</url>
+          <title>上海部分餐馆室内空气PM2.5浓度监测及禁烟措施调查</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>pm2.5 减少 措施</queryText>
+            <url>http://xueshu.baidu.com/s?wd=pm2.5%20%E5%87%8F%E5%B0%91%20%E6%8E%AA%E6%96%BD&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481888992391</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="3" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="3" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="6" target="7">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="6" target="8">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="10">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="11">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="12">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="13">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="14">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="15">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="16">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="18">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="19">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="20">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="21">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="22">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="23">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="24">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="25">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="25" target="26">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="26" target="27">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="29">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="30">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="31">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="32">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="33">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="34">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="35">
+      <data key="edgeid">38</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="12" target="36">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="37">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="38">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="39">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="40">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="41">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="42">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="43">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="44">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="45">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="46">
+      <data key="edgeid">50</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="47">
+      <data key="edgeid">51</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="48">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="49">
+      <data key="edgeid">53</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="50">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="51">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="52">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="53">
+      <data key="edgeid">57</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="54">
+      <data key="edgeid">58</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="55">
+      <data key="edgeid">59</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="56">
+      <data key="edgeid">60</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="57">
+      <data key="edgeid">61</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="58">
+      <data key="edgeid">62</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="59">
+      <data key="edgeid">63</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="60">
+      <data key="edgeid">64</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="61">
+      <data key="edgeid">65</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="62">
+      <data key="edgeid">66</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="63">
+      <data key="edgeid">67</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="53" target="64">
+      <data key="edgeid">68</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

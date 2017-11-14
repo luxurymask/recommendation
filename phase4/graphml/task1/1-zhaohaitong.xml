@@ -1,0 +1,1855 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="8">
+      <lastActiveQueryId>68</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="85" nextArcId="85" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化学疗法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542388676</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2846608e8b3074cc66a7778c08381c1014%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZZLL199203023.htm&amp;ie=utf-8&amp;sc_us=1934776489205264303</url>
+          <title>肿瘤温热化学疗法的生物学基础</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542395434</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282a7cde1e847c0fdc4a47318fcff5182f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZHJH501.004.htm&amp;ie=utf-8&amp;sc_us=18177947974091366057</url>
+          <title>结核病化学疗法的机理及药物选择、联合(现代实用结核病系统讲座第三讲)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542403906</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2854dc4cd42856217a1120e796d2b2db56%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZJZH200102012.htm&amp;ie=utf-8&amp;sc_us=4115605394270783951</url>
+          <title>“莲必治”并用生物,化学疗法抑制体内肿瘤生长的实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542422312</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%281df8bb7c73d75768c07aa57c57c95846%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGSF200107007.htm&amp;ie=utf-8&amp;sc_us=15023142404070973961</url>
+          <title>恶性滋养细胞肿瘤的化学疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542462813</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bc83d39f2c44274ab4a823eee3201a10%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGCF200608021.htm&amp;ie=utf-8&amp;sc_us=12426800853182977871</url>
+          <title>手术期间化学疗法与单独手术治疗可切除的胃食管癌疗效比较</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542635388</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化学疗法 药物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542693000</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化学疗法 常用 药物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E5%B8%B8%E7%94%A8+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542731439</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c7c52f7573079cd434dc9d3fcb6c3c99%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-580973793.html&amp;ie=utf-8&amp;sc_us=18179199712512239847</url>
+          <title>恶性骨肿瘤化疗常见的不良反应及护理</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E5%B8%B8%E7%94%A8+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542749074</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%282babd685a2c3b706b5423fa9e24d619c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.docin.com%2Fp-981960636.html&amp;ie=utf-8&amp;sc_us=5995552795216629752</url>
+          <title>结直肠癌常用化疗药致小鼠肝损伤的实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E5%B8%B8%E7%94%A8+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542764124</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289c4aa349a349f5ea816941d4def68d61%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZSSA201028180.htm&amp;ie=utf-8&amp;sc_us=9714573468871259660</url>
+          <title>急性白血病化疗药物不良反应的护理措施</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E5%B8%B8%E7%94%A8+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542780224</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28743f3bc470f9198f27a4467d3a868a7e%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZHGZ200312004.htm&amp;ie=utf-8&amp;sc_us=17481404451797994308</url>
+          <title>反义核酸协同化疗药物抑制肝癌细胞的增殖</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542822985</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2854e2241e2e8962083f4e4b4a45962c4e%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-HXYX198904062.htm&amp;ie=utf-8&amp;sc_us=16807127588590933048</url>
+          <title>恶性肿瘤的化学药物治疗(六)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542884452</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2811a812abc5723ef17fd982c2cc6442d9%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWHH200405006.htm&amp;ie=utf-8&amp;sc_us=16842659110212894370</url>
+          <title>中晚期胰腺癌的化学药物治疗</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 常用 药物</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542890658</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化学疗法 机理</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%9C%BA%E7%90%86&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%9C%BA%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542981308</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%280aef76d25fe3b2d0d48782eb6a9db6a3%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSWB200903005.htm&amp;ie=utf-8&amp;sc_us=18298406072845511293</url>
+          <title>结核病化学疗法的生物学机理</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481542997980</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bf63c97f8c6839c2abf628eaf8501844%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FThesis%2FY2019783&amp;ie=utf-8&amp;sc_us=13174269840826915868</url>
+          <title>抗瘤增效方对晚期非小细胞肺癌化疗减毒增效的临床观察及增效机理研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543043239</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2816c73f663a2f5da35c178565fef8fbd7%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10246-2010194750.htm&amp;ie=utf-8&amp;sc_us=3384719730881614763</url>
+          <title>化疗对肝癌侵袭转移潜能的影响及其机理与干预——实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543049068</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2843702acea38cf17162d6e77af860ac59%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-RYJS200111008.htm&amp;ie=utf-8&amp;sc_us=960008565981558755</url>
+          <title>放射化学疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95%20%E6%9C%BA%E7%90%86&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543182957</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c57ec7cc60c865d0ef60e16e4cb32a14%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GYKS199202011.htm&amp;ie=utf-8&amp;sc_us=5199263407647955514</url>
+          <title>急性肺炎化学疗法的基本原则</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543186387</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e29b4673af6f48f94217e87d04850118%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWPF198804007.htm&amp;ie=utf-8&amp;sc_us=12888992213743269792</url>
+          <title>抗病毒化学疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543204412</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28012fc1be5ad9752d379ed5d54e41e990%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-RYJS604.006.htm&amp;ie=utf-8&amp;sc_us=3714036381691880819</url>
+          <title>乳癌的化学疗法──内分泌疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 机理</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95%20%E6%9C%BA%E7%90%86&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543239628</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化学疗法 手段</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%9C%BA%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543258242</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2800a4d366b3d56d360b7c8c315bc80bc4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-YXZS201123016.htm&amp;ie=utf-8&amp;sc_us=15606612394968302859</url>
+          <title>胃癌的化学疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 手段</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%9C%BA%E7%90%86&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543283986</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286033cdb9a374bae117f30d15ab4c9cc1%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-HBYX201603039.htm&amp;ie=utf-8&amp;sc_us=13728834208473737450</url>
+          <title>肿瘤化学疗法止吐治疗新进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化学疗法 手段</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95%20%E6%89%8B%E6%AE%B5&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543327493</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗 方法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543374805</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ccfb8c29b3814b847e7cddfbb21f04aa%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LCZL200401023.htm&amp;ie=utf-8&amp;sc_us=6590265403274101694</url>
+          <title>生物化疗方法治疗恶性胸腹腔积液192例临床分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543389271</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287df785d3e42e1a6efc80d5992b5142df%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LCFS200008022.htm&amp;ie=utf-8&amp;sc_us=256954591355789110</url>
+          <title>肝细胞癌化疗栓塞方法和肿瘤坏死</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543392450</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288d6125f499a370d5397248b965f0f56a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JRFS200104009.htm&amp;ie=utf-8&amp;sc_us=18230353318258916440</url>
+          <title>三种化疗方法治疗中晚期非小细胞肺癌的临床回顾性分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95+%E6%89%8B%E6%AE%B5&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543408183</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f10cf6c1b43a5326939fa3b0c04e607c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GAYX200408006.htm&amp;ie=utf-8&amp;sc_us=16772445476186307926</url>
+          <title>经皮选择性肝脏隔离灌注化疗方法学研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97%20%E6%96%B9%E6%B3%95&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543451925</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288758f8057ccbf69d5883a24f4956def7%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZHSW200301003.htm&amp;ie=utf-8&amp;sc_us=7916118213316387680</url>
+          <title>应用化疗方法治疗复发性髓母细胞瘤</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97%20%E6%96%B9%E6%B3%95&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543473310</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543493531</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28252b50caf76d8c73d3b8c98af6b301e7%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LIYX201402008.htm&amp;ie=utf-8&amp;sc_us=6891910714817968163</url>
+          <title>化疗止吐药物的研究进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;bcp=2&amp;sc_hit=1&amp;rsv_page=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543595449</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28842d50fa2f3f3c1cc6f396ddaf800194%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LCZL201402015.htm&amp;ie=utf-8&amp;sc_us=7288686922617988696</url>
+          <title>不同化疗方案同期联合放疗治疗中晚期宫颈癌的临床观察</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;bcp=2&amp;sc_hit=1&amp;rsv_page=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543618202</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28012670c7374fa891834ece49719eb1a3%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-HLZL201402008.htm&amp;ie=utf-8&amp;sc_us=7565121132442525695</url>
+          <title>吉西他滨单药与吉西他滨联合化疗治疗晚期胰腺癌的临床观察</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97&amp;pn=40&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;bcp=2&amp;sc_hit=1&amp;rsv_page=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543680035</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗 药物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543774785</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e207e9249718f1db211539c2f9ac78d5%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-AZJZ200404015.htm&amp;ie=utf-8&amp;sc_us=13850341086179368478</url>
+          <title>缓释植入化疗药物的临床研究进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543781096</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286401f5e6b49e63e5d3f81dfb5fa0c63a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SYHL601.033.htm&amp;ie=utf-8&amp;sc_us=8886845855650432708</url>
+          <title>静脉输注化疗药物对血管组织的损伤</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543803704</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌 化疗 药物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543876096</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a2ab3dc7ffce94a9a0205a0c1603fca6%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZKSS198706015.htm&amp;ie=utf-8&amp;sc_us=4680259563986475676</url>
+          <title>癌化疗药物</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌 化疗 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543880716</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28602ee870a650a7fe705775eb700b5d73%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZXYZ201503006.htm&amp;ie=utf-8&amp;sc_us=18429427497148852198</url>
+          <title>癌症化疗辅助用药方案的经济成本分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌 化疗 药物</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%20%E5%8C%96%E7%96%97%20%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543894673</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌 化疗 药物 组合</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%84%E5%90%88&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543978572</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28059a250ad566ae3c5516363581389578%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2Farticle%2Fcjfdtotal-shyw201501017.htm&amp;ie=utf-8&amp;sc_us=15273766549203193554</url>
+          <title>八种常用化疗药物组合对人类宫颈癌细胞体外药物敏感试验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌 化疗 药物 组合</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%84%E5%90%88&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543984717</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a8b3a4a842daae26061f7bb5a3b22d39%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SYLC200702009.htm&amp;ie=utf-8&amp;sc_us=17333678775373766201</url>
+          <title>不同化疗药物及组合对胃癌与大肠癌疗效的研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌 化疗 药物 组合</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%84%E5%90%88&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543989150</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2864ce6604e34f85ba53aaddc13eeffff5%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SCYX201108070.htm&amp;ie=utf-8&amp;sc_us=1742144764597406291</url>
+          <title>小细胞肺癌诊断与化疗药物组合研究进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌 化疗 药物 组合</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%84%E5%90%88&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481543995856</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗 药物综述</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723264157</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗 药物 综述</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723267533</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 综述</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723281118</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="50" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287d77b466c7ae223b4f9bd3b80934359f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWZL198203003.htm&amp;ie=utf-8&amp;sc_us=11291363778934235681</url>
+          <title>非小细胞肺癌的合併化疗(综述)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723290990</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="51" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2883c9cfbdb3052d5e8e154f0984d3ea73%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-YEBM201003005.htm&amp;ie=utf-8&amp;sc_us=683959924289970789</url>
+          <title>一项口服中草药作为接受化疗的非小细胞肺癌患者辅助治疗的系统综述</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723295580</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="52" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28cda004faa65c2ec795883523944ab6f3%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Flczlxzz200403039&amp;ie=utf-8&amp;sc_us=9250485399482030917</url>
+          <title>肺癌化疗中铂类药物耐药性检测的研究进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723307511</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="53" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28643120d102675cf79fc63922d46a4e40%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgazzz200708019&amp;ie=utf-8&amp;sc_us=13017097707581579747</url>
+          <title>化疗药物所致的内分泌紊乱</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97%20%E8%8D%AF%E7%89%A9%20%E7%BB%BC%E8%BF%B0&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723337022</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="54" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%BB%BC%E8%BF%B0&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723385154</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="55" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 使用</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723617459</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="56" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://bookask.com/book/1222070.html</url>
+          <title>癌症化疗手册</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 使用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723626133</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="57" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ba22490b6054e35d227b8b75f1cfb122%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGWK198602041.htm&amp;ie=utf-8&amp;sc_us=9064914925581861218</url>
+          <title>肺癌化疗药物及其用法介绍</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 使用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723671272</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="58" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28dc05faf204692b1ec63a962125fc3c11%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-YWYY201002013.htm&amp;ie=utf-8&amp;sc_us=3397435708520156604</url>
+          <title>癌症患者化疗辅助用药临床应用情况分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 使用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723695881</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="59" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 用法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%94%A8%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723739205</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="60" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2891696d6481bfa80d931bef9c3badb460%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2Fqk%2F88753x%2F201106%2F37548404.html&amp;ie=utf-8&amp;sc_us=8736312309535376655</url>
+          <title>癌症患者使用化疗药物的观察及护理</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 用法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%94%A8%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E4%BD%BF%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723764276</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="61" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 常用</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E5%B8%B8%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E7%94%A8%E6%B3%95&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723847529</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="62" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28db191ceda49d9806a9439cb05a8cdf3b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fyiyqy201525272&amp;ie=utf-8&amp;sc_us=10031345261355643786</url>
+          <title>肺癌化疗药物常见的不良反应及对策</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 药物 常用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97%20%E8%8D%AF%E7%89%A9%20%E5%B8%B8%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=%28sc_c1%3A%3D%7B16%7D%29</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481723920798</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="63" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>化疗 综述</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E5%B8%B8%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724062922</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="64" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2800c91cb27e521f837aad547718411c33%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XHON198901014.htm&amp;ie=utf-8&amp;sc_us=14564145041741341707</url>
+          <title>乳腺癌的化疗(综述)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E5%B8%B8%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724067668</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="65" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e3bd489b9d325a5a39acdb677616d21a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWZL197903006.htm&amp;ie=utf-8&amp;sc_us=10092393335366603126</url>
+          <title>小细胞肺癌的化疗(综述)</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E5%B8%B8%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724078484</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="66" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%281aacfeadd3e400ba593224a61c68825f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F91257Z%2F199201%2F901779.html&amp;ie=utf-8&amp;sc_us=15559805724187762788</url>
+          <title>第10届APCC临床化疗综述</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97+%E7%BB%BC%E8%BF%B0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E5%B8%B8%E7%94%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724104627</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="67" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283e7e57a2240259faed988daba000725b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F98202X%2F201303%2F44839501.html&amp;ie=utf-8&amp;sc_us=128154841043881844</url>
+          <title>细胞凋亡与肿瘤化疗的研究进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗 综述</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97%20%E7%BB%BC%E8%BF%B0&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;filter=sc_year%3D%7B2010%2C%2B%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724150618</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="68" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724301807</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="69" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f3be293de4c779d757d040fd84dcd810%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZGAZ200406011.htm&amp;ie=utf-8&amp;sc_us=483135989406664450</url>
+          <title>阿米福汀对晚期非小细胞肺癌化疗疗效和血液毒性的影响</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=%28sc_c1%3A%3D%7B16%7D%29</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724333403</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="70" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2812323d3c5d1a7d03a5e0b5a0e7859955%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FMain%2FDetail.aspx%3Fid%3D6251829&amp;ie=utf-8&amp;sc_us=4489877379496617489</url>
+          <title>非小细胞肺癌三种化疗新方案的药物经济学评价</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=%28sc_c1%3A%3D%7B16%7D%29</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724345149</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="71" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fb9e01c5565c78dc50a0562ab308925f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWHH200904016.htm&amp;ie=utf-8&amp;sc_us=17201771368126158543</url>
+          <title>非小细胞肺癌的化疗进展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=%28sc_c1%3A%3D%7B16%7D%29</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724364709</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="72" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288598a0c0dfe8580b8602279ee5740208%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Fzgywyyyjc201105015&amp;ie=utf-8&amp;sc_us=3824730433991094082</url>
+          <title>我院2005-2008年非小细胞肺癌化疗用药进展调研</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97&amp;ie=utf-8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;filter=%28sc_c1%3A%3D%7B16%7D%29sc_year%3D%7B2010%2C%2B%7D</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724426220</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="73" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28309953ef869e4889c09eeb4dde61def0%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-TJIY201006024.htm&amp;ie=utf-8&amp;sc_us=17971216515161954549</url>
+          <title>多西他赛联合奥沙利铂、联合顺铂对晚期非小细胞肺癌化疗的临床研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97&amp;ie=utf-8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;filter=%28sc_c1%3A%3D%7B16%7D%29sc_year%3D%7B2010%2C%2B%7D</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2010</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481724434301</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="74" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d58f13e31a99c09e8cbbc4370d63b755%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical%2Flczlxzz201405014&amp;ie=utf-8&amp;sc_us=307598169969052714</url>
+          <title>紫杉醇化疗应用小剂量地塞米松预处理的临床观察</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>化疗</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E5%8C%96%E7%96%97&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=%28sc_c1%3A%3D%7B16%7D%29sc_year%3D%7B2014%2C%2B%7D</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481894820750</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="75" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化学疗法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481894971094</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="76" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28547f4a71caa2ee030b378d2d1118b9e2%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FPeriodical_rbyxjs200502014.aspx&amp;ie=utf-8&amp;sc_us=3682725494093349785</url>
+          <title>癌症的化学疗法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化学疗法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E5%AD%A6%E7%96%97%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%8C%96%E7%96%97&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895059848</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="77" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 总论</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E8%AE%BA&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895512203</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="78" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 药物 总结</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E7%BB%93&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E8%AE%BA&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895532576</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="79" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 方法</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E7%BB%93&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895595091</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="80" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.google.com/patents/CN1329489A?cl=fr</url>
+          <title>选择性癌症化疗方法和组合物</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E7%BB%93&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895625740</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="81" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288f0201a6ed993a7aef3ca4ef2749ad2f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F91098A%2F200103%2F5331919.html&amp;ie=utf-8&amp;sc_us=10511475691414237006</url>
+          <title>肺癌化疗中顺铂用药方法的临床研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E8%8D%AF%E7%89%A9+%E6%80%BB%E7%BB%93&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895635218</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="82" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284e7d967f5994963055c0d90f09d3f693%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwenku.baidu.com%2Fview%2F05421caaee06eff9aff80724.html&amp;ie=utf-8&amp;sc_us=5786838023700525400</url>
+          <title>肺癌患者化疗方法的探讨</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97%20%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D%28sc_c1%3A%3D%7B11%7D%29</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895705887</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="83" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%284e7d967f5994963055c0d90f09d3f693%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F86534X%2F201501%2F664868378.html&amp;ie=utf-8&amp;sc_us=5786838023700525400</url>
+          <title>肺癌患者化疗方法的探讨</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>癌症 化疗 方法</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87%20%E5%8C%96%E7%96%97%20%E6%96%B9%E6%B3%95&amp;tn=SE_baiduxueshu_c1gjeupa&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;bcp=2&amp;ie=utf-8&amp;filter=sc_year%3D%7B2014%2C%2B%7D%28sc_c1%3A%3D%7B11%7D%29</url>
+            <queryRiders>
+              <queryRider>
+                <key>yearFrom</key>
+                <value>2014</value>
+              </queryRider>
+            </queryRiders>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895743234</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="84" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>癌症 化疗 方案</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E6%96%B9%E6%A1%88&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%99%8C%E7%97%87+%E5%8C%96%E7%96%97+%E6%96%B9%E6%B3%95&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481895803413</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="6" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="8">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="9">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="10">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="11">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="12">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="13">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="16">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="18">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="19">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="20">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="21">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="22">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="23">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="24">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="25">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="26">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="27">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="29">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="30">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="31">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="32">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="33">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="34">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="35">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="36">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="37">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="38">
+      <data key="edgeid">38</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="39">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="40">
+      <data key="edgeid">40</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="40" target="41">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="40" target="42">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="40" target="43">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="44">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="45">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="46">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="47">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="47" target="48">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="48" target="49">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="50">
+      <data key="edgeid">50</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="51">
+      <data key="edgeid">51</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="52">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="53">
+      <data key="edgeid">53</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="54">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="54" target="55">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="55" target="56">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="55" target="57">
+      <data key="edgeid">57</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="55" target="58">
+      <data key="edgeid">58</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="55" target="59">
+      <data key="edgeid">59</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="59" target="60">
+      <data key="edgeid">60</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="59" target="61">
+      <data key="edgeid">61</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="61" target="62">
+      <data key="edgeid">62</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="61" target="63">
+      <data key="edgeid">63</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="63" target="64">
+      <data key="edgeid">64</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="63" target="65">
+      <data key="edgeid">65</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="63" target="66">
+      <data key="edgeid">66</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="63" target="67">
+      <data key="edgeid">67</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="68">
+      <data key="edgeid">68</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="69">
+      <data key="edgeid">69</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="70">
+      <data key="edgeid">70</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="71">
+      <data key="edgeid">71</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="72">
+      <data key="edgeid">72</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="68" target="73">
+      <data key="edgeid">73</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="74">
+      <data key="edgeid">74</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="75">
+      <data key="edgeid">75</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="75" target="76">
+      <data key="edgeid">76</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="54" target="77">
+      <data key="edgeid">77</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="77" target="78">
+      <data key="edgeid">78</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="78" target="79">
+      <data key="edgeid">79</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="80">
+      <data key="edgeid">80</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="81">
+      <data key="edgeid">81</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="82">
+      <data key="edgeid">82</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="83">
+      <data key="edgeid">83</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="79" target="84">
+      <data key="edgeid">84</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

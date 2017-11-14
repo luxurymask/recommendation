@@ -1,0 +1,1085 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="13">
+      <lastActiveQueryId>49</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="51" nextArcId="57" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305229086</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28bf029fb8ba3bf509390b7f6cdf89cd66%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSYJ200502075.htm&amp;ie=utf-8&amp;sc_us=8558539036359223549</url>
+          <title>基于流媒体技术的网络视频监控研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305277038</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283248006d205d6e159b997e0c007c1754%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-TSSS201211008.htm&amp;ie=utf-8&amp;sc_us=14509509105158087794</url>
+          <title>国内外网络视频课程资源建设现状研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305348261</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f487aea9dcc3a79ebf88daee59cad591%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-TXXB201204016.htm&amp;ie=utf-8&amp;sc_us=17094719092640366513</url>
+          <title>网络视频质量评估技术研究现状及发展动向</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1&amp;rsv_page=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305403256</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频应用</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305429128</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b0e12227ac97f77cb1d2a92adb08c786%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSYJ200208002.htm&amp;ie=utf-8&amp;sc_us=2115419674158892838</url>
+          <title>网络视频应用的程序设计模式研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频应用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305451811</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2894a8464d5db13c559858e928d8194f22%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FThesis%2FY789682&amp;ie=utf-8&amp;sc_us=3521669189947583124</url>
+          <title>基于IPV6的网络视频应用研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频应用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305476389</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频系统</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=9</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305497114</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283bd08629ad79fd450c3bc831d6b8173d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZNZK200704019.htm&amp;ie=utf-8&amp;sc_us=15337589688984219143</url>
+          <title>实时网络视频系统中客户端的实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频系统</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305530432</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>用户观看网络视频时的点击行为</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%97%B6%E7%9A%84%E7%82%B9%E5%87%BB%E8%A1%8C%E4%B8%BA&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305617755</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b01950b25e28d6ec90343f2ce3b873ca%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-BFJT201102012.htm&amp;ie=utf-8&amp;sc_us=4846446082560257186</url>
+          <title>对等网络视频点播系统中的用户行为研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>用户观看网络视频时的点击行为</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305645127</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a8ac6a9379d47478bbc6eea03424df59%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.g.wanfangdata.com.cn%2FThesis_Y2852378.aspx&amp;ie=utf-8&amp;sc_us=4458063941378088199</url>
+          <title>互联网视频用户观看行为分析及应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>用户观看网络视频时的点击行为</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%97%B6%E7%9A%84%E7%82%B9%E5%87%BB%E8%A1%8C%E4%B8%BA&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305722421</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%281aa5bf60c9146e56c793144868cf96b4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-TSSS201116012.htm&amp;ie=utf-8&amp;sc_us=5108143393621378795</url>
+          <title>视频捕捉法:研究用户网络信息行为的有效方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>用户观看网络视频时的点击行为</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305783875</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28cfd0cfd19c54049d811fb64ba06c1f07%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJA201511021.htm&amp;ie=utf-8&amp;sc_us=3919419018618349463</url>
+          <title>基于神经网络的用户视频评分自动获取方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>用户观看网络视频时的点击行为</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305845889</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>用户观看网络视频时的行为</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%97%B6%E7%9A%84%E8%A1%8C%E4%B8%BA&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%97%B6%E7%9A%84%E7%82%B9%E5%87%BB%E8%A1%8C%E4%B8%BA&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305905841</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fc3f9ed7ffd271c8cb62bd4328e90b27%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10004-1015545352.htm&amp;ie=utf-8&amp;sc_us=8798235010375510163</url>
+          <title>移动设备上用户的视频观看行为和观看质量分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>用户观看网络视频时的行为</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482305959647</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>用户观看网络视频类型</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B1%BB%E5%9E%8B&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%97%B6%E7%9A%84%E8%A1%8C%E4%B8%BA&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306007687</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频类型分布</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B1%BB%E5%9E%8B%E5%88%86%E5%B8%83&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B1%BB%E5%9E%8B&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306053174</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286e9abcb387a66d29d2e4c8eac4ff9d89%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FQK%2F94518A%2F201405%2F49530810.html&amp;ie=utf-8&amp;sc_us=17600899680776340263</url>
+          <title>网络视频进入三足鼎立时代</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频类型分布</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306109328</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频点播</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%82%B9%E6%92%AD&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B1%BB%E5%9E%8B%E5%88%86%E5%B8%83&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306152480</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f843adc123e0df76c0a378cf8a84edf0%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XDTQ200406006.htm&amp;ie=utf-8&amp;sc_us=18085580767939032102</url>
+          <title>图书馆网络视频点播服务研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频点播</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306172695</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28877770633359d68371ca7e06ac1deb70%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-HZLG201103017.htm&amp;ie=utf-8&amp;sc_us=14470585310721559639</url>
+          <title>对等网络点播系统中一种分布式索引结构</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频点播</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306237399</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%288bbeedf6da7734737804bfd1a8047b31%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10614-1011240310.htm&amp;ie=utf-8&amp;sc_us=1508663260711857223</url>
+          <title>有线电视网络视频点播技术研究及应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频点播</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306258243</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频传输</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E4%BC%A0%E8%BE%93&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%82%B9%E6%92%AD&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=6</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306277461</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28347ad93c853633488de58cdb5a57abe9%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-DZCL200506018.htm&amp;ie=utf-8&amp;sc_us=4697429831153458195</url>
+          <title>网络视频传输</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306306859</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b38131519eafa693e3330d0454d9c0ae%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.wanfangdata.com.cn%2FThesis%2FY952621&amp;ie=utf-8&amp;sc_us=5349580130176953470</url>
+          <title>无线网络视频传输差错控制技术研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306364482</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2877e31b931da0f4ace6848f6c44133c0c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-DXKB200911014.htm&amp;ie=utf-8&amp;sc_us=2039230504065601471</url>
+          <title>无线网络视频传输关键技术</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306415032</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ab22861d96f3dc12b2abb4db6e60fc44%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10013-2008138970.htm&amp;ie=utf-8&amp;sc_us=1533886566333977285</url>
+          <title>下一代网络视频传输关键技术研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E4%BC%A0%E8%BE%93&amp;pn=20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;f=3&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306458597</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28660401a925633950d8524ab2a747d286%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10013-2010223555.htm&amp;ie=utf-8&amp;sc_us=4715629874786671367</url>
+          <title>无线网络视频传输的质量控制</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306478572</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频服务器</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%9C%8D%E5%8A%A1%E5%99%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E4%BC%A0%E8%BE%93&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306507292</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c8a05129a6be262ea760e6c4b90c1d8a%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SJSJ200613017.htm&amp;ie=utf-8&amp;sc_us=3625709948871496143</url>
+          <title>基于TMS320DM642的嵌入式网络视频服务器的实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频服务器</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306529012</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28250efcdebbd287e962229bc3c4817e90%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-WHQC200605002.htm&amp;ie=utf-8&amp;sc_us=9104213448159733133</url>
+          <title>基于嵌入式网络视频服务器的远程监控系统</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频服务器</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306555013</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28dc1f9c2f180faa69710fbf020a8298c2%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-BGZD200611022.htm&amp;ie=utf-8&amp;sc_us=10798093692033909291</url>
+          <title>基于Java的嵌入式网络视频服务器</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频服务器</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306573335</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频点击行为研究</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%82%B9%E5%87%BB%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%9C%8D%E5%8A%A1%E5%99%A8&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306599188</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e0ccd86a561ce369addcbd3373174d53%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2Farticle%2Fcdmd-10358-2009111152.htm&amp;ie=utf-8&amp;sc_us=8506263592214397241</url>
+          <title>视频点播系统访问行为研究:测量、分析与建模</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频点击行为研究</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306627630</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2861c73ad9ba1c80fdf610d2643d761d6e%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-RJDJ201506031.htm&amp;ie=utf-8&amp;sc_us=7768839706219533998</url>
+          <title>大学生在网络视频学习过程中的眼动行为研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频点击行为研究</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306672530</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频眼动行为研究</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%9C%BC%E5%8A%A8%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%82%B9%E5%87%BB%E8%A1%8C%E4%B8%BA%E7%A0%94%E7%A9%B6&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306720406</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2814d2a2332c046e03b9d65bf11583ebd1%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XJJS201411013.htm&amp;ie=utf-8&amp;sc_us=16363869940714224064</url>
+          <title>网络视频公开课程学习行为眼动实验研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频眼动行为研究</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482306733051</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频技术</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%8A%80%E6%9C%AF&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=3&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=7</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482472414951</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2882231e99392651a21de55db5a0d055b8%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GBDJ201211005.htm&amp;ie=utf-8&amp;sc_us=16603338468855678214</url>
+          <title>基于云计算平台的网络视频技术应用研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频技术</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482472476509</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f88deaf295187fba4d0000d5fd662aaa%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GBDJ200009010.htm&amp;ie=utf-8&amp;sc_us=5039532737049646577</url>
+          <title>网络与电视——几种网络视频技术介绍</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频技术</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482472560594</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>internet vedio</queryText>
+          <url>http://xueshu.baidu.com/s?wd=internet+vedio&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E6%8A%80%E6%9C%AF&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482472654488</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28de2bef5e0a522237e804edb2a6a11746%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs13735-015-0093-0&amp;ie=utf-8&amp;sc_us=12713463754580471628</url>
+          <title>Text-to-video: a semantic search engine for internet videos</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>internet vedio</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482472733215</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fb63c4d2de9b7875b010d872116f1025%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JYRJ201404036.htm&amp;ie=utf-8&amp;sc_us=8289040037421857753</url>
+          <title>基于通知服务的车载多媒体网络视频传输研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E4%BC%A0%E8%BE%93&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=internet+vedio&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=6</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482473204422</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c27b5c59507d942353fcbf324a680a17%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-WJSJ200701099.htm&amp;ie=utf-8&amp;sc_us=9749307421993361953</url>
+          <title>无线网络视频传输差错控制技术研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482473477386</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28e1a7353d9b48c84b74e960d3fb3b6c19%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-LMDX200406028.htm&amp;ie=utf-8&amp;sc_us=1668009568843315189</url>
+          <title>网络视频传输技术与现代远程教育</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频传输</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482473681797</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283bd08629ad79fd450c3bc831d6b8173d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-ZNZK200704019.htm&amp;ie=utf-8&amp;sc_us=6814365720474882286</url>
+          <title>实时网络视频系统中客户端的实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频系统</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482473813746</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a3e73e5b60e5b307a7eebb205970100e%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XXJK200612071.htm&amp;ie=utf-8&amp;sc_us=12250527600306449826</url>
+          <title>当前网络视频应用技术简析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频应用</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%B3%BB%E7%BB%9F&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=8</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482474193439</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://bookask.com/book/90822.html</url>
+          <title>网络视频:流媒体技术与应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频应用</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482474464041</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频监控</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%BA%94%E7%94%A8&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=1&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=0</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482474493233</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="50" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c84909552914bc9a965955be0d298018%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-YXDJ200608028.htm&amp;ie=utf-8&amp;sc_us=7013488652816687684</url>
+          <title>网络视频监控</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频监控</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>13</operatorId>
+          <time>1482474504800</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="7">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="8">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="9">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="10">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="11">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="12">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="9" target="13">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="14">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="15">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="16">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="19">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="20">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="21">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="22">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="23">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="24">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="25">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="26">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="27">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="28">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="29">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="30">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="31">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="32">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="33">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="34">
+      <data key="edgeid">40</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="35">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="36">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="37">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="38">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="39">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="40">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="41">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="41" target="42">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="43">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="44">
+      <data key="edgeid">50</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="45">
+      <data key="edgeid">51</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="7" target="46">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="47">
+      <data key="edgeid">53</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="48">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="49">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="50">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

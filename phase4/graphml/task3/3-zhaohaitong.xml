@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="8">
+      <lastActiveQueryId>52</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="53" nextArcId="56" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>revisit video provider</queryText>
+          <url>http://xueshu.baidu.com/s?wd=revisit+video+provider&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481719796027</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video provider click</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+provider+click&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=revisit+video+provider&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481719833007</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video provider click</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+provider+click&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+provider+click&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481719850781</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.questia.com/library/1G1-311050958/increased-video-click-rates-are-good-news-for-e-republic</url>
+          <title>Increased Video, Click Rates Are Good News for e.Republic: A Media and Research Company Revamps Its Web Sites with Help from Limelig...</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video provider click</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+provider+click&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+provider+click&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481719907562</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video provider visit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+provider+visit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+click&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481719939751</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video provider service quality</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+provider++service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+visit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720001113</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28f4e3bef06e44c0f2fb77938a10320d0b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2Fy2012%2F0159560.html&amp;ie=utf-8&amp;sc_us=7215124732137472863</url>
+          <title>SYSTEM AND METHOD FOR ANALYZING AND COLLECTING INTERNET-BASED VIDEO SERVICE QUALITY INFORMATION</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video provider service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+provider++service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+visit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720043215</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2821c1eea19847fb1381d6a90a7c9b98e8%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Ficp.jsp%3Farnumber%3D6477772&amp;ie=utf-8&amp;sc_us=15015568002493651535</url>
+          <title>QoE-based evaluation model on video streaming service quality</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video provider service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+provider++service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+visit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720079925</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2823c1522ddd23c3df627d855aab8e7e1f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Ficp.jsp%3Farnumber%3D6212030&amp;ie=utf-8&amp;sc_us=496301623426112407</url>
+          <title>The impact of network performance on perceived video quality in H.264/AVC</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video provider service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web%20video%20provider%20service%20quality&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720174300</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video service quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+service+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+service+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720280130</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2891c6c3f55cf95dff1f0bb9c6f99892e3%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0920548912000906&amp;ie=utf-8&amp;sc_us=7562927443337168743</url>
+          <title>A study on the effects of service convenience and service quality on maintenance revisit intentions</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video service quality revisit</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+service+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+provider+service+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720341570</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video service quality</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+service+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720399084</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.google.com/patents/ep1700263a4</url>
+          <title>AUDIO/VIDEO SERVICE QUALITY ANALYSIS OF CUSTOMER/AGENT INTERACTION</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+service+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720412929</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+service+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720503740</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service quality</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720521290</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2856df8e30d26311ecaa678dc989d40ee1%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D775211&amp;ie=utf-8&amp;sc_us=17911857266590214642</url>
+          <title>Quality driven web services composition</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720579046</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.websm.org/uploadi/editor/Li_2002_Measuring_web-based.pdf</url>
+          <title>Measuring web-based service quality</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720606105</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service quality maintainous</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+quality+maintainous&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720826058</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service quality maintain</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+quality+maintain&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+maintainous&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481720834752</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service interrupt</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+interrupt&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+maintain&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481721136156</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2857275c7da2c1ff49cff53b025cd54df9%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6006373&amp;ie=utf-8&amp;sc_us=13160691275196713908</url>
+          <title>A Web Video Service Based on Flash Video Technique</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service interrupt</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service+interrupt&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+maintain&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481721158494</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d61e7ceaf4f3690ecdb38ed6a5e6ec09%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Bjsessionid%3D6C0F9EDA75DEFBC966D7A0A7BCF950AD%3Fdoi%3D10.1.1.88.4461%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=11091165592457188572</url>
+          <title>A Secure Pay-per-View Scheme for Web-Based Video Service</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service interrupt</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service+interrupt&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+maintain&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481721199666</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283ae5c481db3069fa8fce20ef2c7e000b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D920449&amp;ie=utf-8&amp;sc_us=13152105123005499162</url>
+          <title>Fairness and privacy on pay-per view system for Web-based video service</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service interrupt</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service+interrupt&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+maintain&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481721218585</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891264294</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service quality re click</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service+quality+re+click&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891278005</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video quality re click</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+quality+re+click&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service+quality+re+click&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891336404</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>author:(Wolf, Stephen)</queryText>
+          <url>http://xueshu.baidu.com/s?wd=author%3A%28Wolf%2C%20Stephen%29%20&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_hilight%3Dperson</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891349390</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+quality+revisit&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891475410</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video website quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+website+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891540251</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video website revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+website+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+website+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891573071</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://foothillsri.ca/resource/video-revisiting-2011-rainbow-pipeline-spill-using-wet-area-mapping-presentation-jae</url>
+          <title>Video - Revisiting the 2011 Rainbow Pipeline Spill Using Wet Area Mapping. Presentation by Jae Ogilvie | Foothills Research Institute</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video website revisit</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891609865</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.icact.org/upload/2010/0592/20100592_Abstract_B.pdf</url>
+          <title>Mobile video user revisit analysis based on multi-day visiting patterns</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video website revisit</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891620008</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video provider revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+provider++revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+website+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891855744</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+provider+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891879055</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality revisit ratio</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality+revisit+ratio&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+revisit+ratio&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481891908977</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality visit ratio</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality+visit+ratio&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+revisit+ratio&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892003478</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Hung_Che_Wu/publication/290219833_A_Study_of_Revisit_Intentions_Customer_Satisfaction_Corporate_Image_Emotions_and_Service_Quality_in_the_Hot_Spring_Industry/links/56a8f32d08ae40c538a8f435.pdf</url>
+          <title>A Study of Revisit Intentions, Customer Satisfaction, Corporate Image, Emotions and Service Quality in the Hot Spring Industry</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video quality revisit</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892115892</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.tandfonline.com/doi/abs/10.1080/19388160.2015.1110545</url>
+          <title>A Study of Revisit Intentions, Customer Satisfaction, Corporate Image, Emotions and Service Quality in the Hot Spring Industry</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video quality revisit</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892143276</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>revisit analyze</queryText>
+          <url>http://xueshu.baidu.com/s?wd=revisit+analyze&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+visit+ratio&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsp=0</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892255640</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>revisit analysis</queryText>
+          <url>http://xueshu.baidu.com/s?wd=revisit+analysis&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=revisit+analyze&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892265802</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video revisit analysis</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+revisit+analysis&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=revisit+analysis&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892301514</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://mfile.narotama.ac.id/files/Information%20System/Advances%20in%20Grid%20and%20Pervasive%20Computing;%205th%20International%20Conference,%20CPC%202010/Chapter%2050%20An%20Empirical%20Analysis%20of%20Revisit%20Behaviors%20of%20Monthly%20Subscription-Based%20Mobile%20Video%20Services.pdf</url>
+          <title>An Empirical Analysis of Revisit Behaviors of Monthly Subscription-Based Mobile Video Services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video revisit analysis</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+revisit+analysis&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=revisit+analysis&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892321429</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>relationship video quality revisit</queryText>
+          <url>http://xueshu.baidu.com/s?wd=relationship+video+quality+revisit&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+revisit+analysis&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892500561</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality revisit rate</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality+revisit+rate&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=relationship+video+quality+revisit&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892562924</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+revisit+ratio&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892604059</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="51" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video website revisit ratio</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+website+revisit+ratio&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+website+revisit+ratio&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892722631</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="52" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video website revisit rate</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+website+revisit+rate&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+website+revisit+ratio&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>8</operatorId>
+          <time>1481892741004</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="2" target="5">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="6">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="7">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="10">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="5" target="11">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="12">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="13">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="13" target="14">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="13" target="15">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="18">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="19">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="20">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="20" target="21">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="23">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="24">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="25">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="25" target="26">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="26" target="27">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="30">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="30" target="31">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="32">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="33">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="31" target="34">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="35" target="38">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="39">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="40">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="41">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="39" target="42">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="42" target="43">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="44">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="44" target="45">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="44" target="46">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="47">
+      <data key="edgeid">50</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="38" target="48">
+      <data key="edgeid">51</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="0" target="51">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="51" target="52">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>
