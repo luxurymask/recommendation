@@ -2230,7 +2230,7 @@
       <data key="edgeid">75</data>
       <data key="structureType">1</data>
     </edge>
-    <edge source="70" target="74">
+    <edge source="69" target="74">
       <data key="edgeid">76</data>
       <data key="structureType">1</data>
     </edge>
@@ -2286,7 +2286,7 @@
       <data key="edgeid">91</data>
       <data key="structureType">1</data>
     </edge>
-    <edge source="48" target="89">
+    <edge source="88" target="89">
       <data key="edgeid">93</data>
       <data key="structureType">1</data>
     </edge>
