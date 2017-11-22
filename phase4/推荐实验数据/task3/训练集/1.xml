@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="4">
+      <lastActiveQueryId>17</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="55" nextArcId="57" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703823955</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703842428</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.cns.nyu.edu/~zwang/files/papers/vssim.pdf</url>
+          <title>Video quality assessment based on structural distortion measurement</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703844738</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://202.114.89.42/resource/pdf/322.pdf</url>
+          <title>Video quality assessment based on structural distortion measurement</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703848668</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://132.163.67.115/Documents/Meetings/old2/Final_Report_March00.doc</url>
+          <title>FINAL REPORT FROM THE VIDEO QUALITY EXPERTS GROUP ON THE VALIDATION OF OBJECTIVE MODELS OF VIDEO QUALITY ASSESSMENT March</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video quality</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703857418</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://atc.umh.es/gatcom/bin/oqam/Referencias/Pinson_Wolf_2004.pdf</url>
+          <title>A New Standardized Method for Objectively Measuring Video Quality</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video quality</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+quality&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703861875</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video quality assesment</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+quality+assesment&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703876065</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.videoclarity.com/PDF/T-REC-P.910-199909-IPDF-E1.pdf</url>
+          <title>P.910: Subjective video quality assessment methods for multimedia applications</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video quality assesment</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+quality+assesment&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703961847</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>音频质量</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+assesment&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481703986839</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%287ab6638c3e64ab6a8c48acdd7b4470d4%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cqvip.com%2FMain%2FDetail.aspx%3Fid%3D33471532&amp;ie=utf-8&amp;sc_us=9632573801387344101</url>
+          <title>压缩域音频质量客观评价算法研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>音频质量</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+quality+assesment&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481704032518</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.wtociq.gov.cn/download.aspx?id=6360E0D22706AB34</url>
+          <title>音频质量评价标准研究</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>音频质量</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481704074610</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>音频质量分析</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F%E5%88%86%E6%9E%90&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481704144281</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2837e0af44d8243f4ffa71c65edec24570%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-GWDZ201610040.htm&amp;ie=utf-8&amp;sc_us=9457267484265727837</url>
+          <title>基于混杂模式的音视频质量分析的设计与实现</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>音频质量分析</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F%E5%88%86%E6%9E%90&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481704158465</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>视频编码</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E8%A7%86%E9%A2%91%E7%BC%96%E7%A0%81&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E9%9F%B3%E9%A2%91%E8%B4%A8%E9%87%8F%E5%88%86%E6%9E%90&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=1&amp;rsp=1</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481704232981</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior web video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+web+video&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481874976927</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Werner_Robitza/publication/301836128_Re-Actions_Speak_Louder_Than_Words_A_Novel_Test_Method_for_Tracking_User_Behavior_in_Web_Video_Services/links/575abfd408aec91374a61762.pdf</url>
+          <title>(Re-)actions speak louder than words? A novel test method for tracking user behavior in web video services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior web video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user+behavior+web+video&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481874984690</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481875553007</time>
+          <rate>5</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481875559480</time>
+          <comment>When are they likely to abandon it due to quality problems?</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior onlinevideo</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+onlinevideo&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+web+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481874993394</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+onlinevideo&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875001057</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/profile/Yi_Cui3/publication/234829008_An_analysis_of_user_behavior_in_online_video_streaming/links/0f3175333d7da552d3000000.pdf?ev=pub_ext_doc_dl_meta</url>
+          <title>An analysis of user behavior in online video streaming</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior online video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user+behavior+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+onlinevideo&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875009872</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481875571192</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481875508211</time>
+          <comment>Particularly, this study uncovers that the behavior of one individual user in a video streaming session is not only related to the popularity level of the video, but also has strong correlation with the user's behaviors in previous streaming sessions.</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>short-term user behavior in web video services</queryText>
+          <url>http://xueshu.baidu.com/s?wd=short-term+user+behavior+in+web+video+services&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875126595</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28455fcb606cd655787a5855d1e431c2b0%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Ficp.jsp%3Farnumber%3D6614209&amp;ie=utf-8&amp;sc_us=17398363645859231448</url>
+          <title>Video Browsing - A Study of User Behavior in Online VoD Services</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>short-term user behavior in web video services</queryText>
+            <url>http://xueshu.baidu.com/s?wd=short-term+user+behavior+in+web+video+services&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875153808</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481875574254</time>
+          <rate>2</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://ieeexplore.ieee.org/ielx7/6287639/6514899/07499826.pdf?tp=&amp;arnumber=7499826&amp;isnumber=6514899</url>
+          <title>Large-Scale User Behavior Characterization of Online Video Service in Cellular Network</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior online video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user+behavior+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+onlinevideo&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="nextSequantialOperationId">1</data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875188405</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481875567917</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+      <data key="vertexSequentialOperations">
+        <vertexOperation type="3">
+          <operatorId>4</operatorId>
+          <id>0</id>
+          <time>1481875328836</time>
+          <comment>We provide an insight into how the mobile video service is utilized by users (especially the heavy users), by measuring the user intensities and various represen- tative behavior features in each analysis aspect, such as active time, replay rate, video category, access location and residence time.</comment>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video category</queryText>
+          <url>http://xueshu.baidu.com/s?wd=+video+category&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875415599</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video category aspect user behavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+category+aspect+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+category&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875433957</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>How long are users consuming a service</queryText>
+          <url>http://xueshu.baidu.com/s?wd=How+long+are+users+consuming+a+service&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+category+aspect+user+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875675988</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>When are they likely to abandon it due to quality problems?</queryText>
+          <url>http://xueshu.baidu.com/s?wd=When+are+they+likely+to+abandon+it+due+to+quality+problems%3F&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=How+long+are+users+consuming+a+service&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875710820</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>quality affects online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=quality+affects+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=When+are+they+likely+to+abandon+it+due+to+quality+problems%3F&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875738433</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>quality effects of online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=quality+effects+of+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=quality+affects+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875765059</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>users give up online video when it loaded over 2 seconds</queryText>
+          <url>http://xueshu.baidu.com/s?wd=users+give+up+online+video+when+it+loaded+over+2+seconds&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=quality+effects+of+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875847351</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>用户放弃视频 缓冲时间</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%94%A8%E6%88%B7%E6%94%BE%E5%BC%83%E8%A7%86%E9%A2%91+%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=users+give+up+online+video+when+it+loaded+over+2+seconds&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875873106</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>缓冲时间对用户观看视频的影响</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4%E5%AF%B9%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%E7%9A%84%E5%BD%B1%E5%93%8D&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E6%94%BE%E5%BC%83%E8%A7%86%E9%A2%91+%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875885827</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fc3f9ed7ffd271c8cb62bd4328e90b27%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcdmd.cnki.com.cn%2FArticle%2FCDMD-10004-1015545352.htm&amp;ie=utf-8&amp;sc_us=8798235010375510163</url>
+          <title>移动设备上用户的视频观看行为和观看质量分析</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>缓冲时间对用户观看视频的影响</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4%E5%AF%B9%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%E7%9A%84%E5%BD%B1%E5%93%8D&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E6%94%BE%E5%BC%83%E8%A7%86%E9%A2%91+%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875890709</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a8ac6a9379d47478bbc6eea03424df59%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fd.g.wanfangdata.com.cn%2FThesis_Y2852378.aspx&amp;ie=utf-8&amp;sc_us=4458063941378088199</url>
+          <title>互联网视频用户观看行为分析及应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>缓冲时间对用户观看视频的影响</queryText>
+            <url>http://xueshu.baidu.com/s?wd=%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4%E5%AF%B9%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%E7%9A%84%E5%BD%B1%E5%93%8D&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%94%A8%E6%88%B7%E6%94%BE%E5%BC%83%E8%A7%86%E9%A2%91+%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875894066</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web service loading time</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+service+loading+time&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BC%93%E5%86%B2%E6%97%B6%E9%97%B4%E5%AF%B9%E7%94%A8%E6%88%B7%E8%A7%82%E7%9C%8B%E8%A7%86%E9%A2%91%E7%9A%84%E5%BD%B1%E5%93%8D&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481875999815</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video service loading time</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+service+loading+time&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+service+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876023486</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://pdfs.semanticscholar.org/137a/826a7f3d5e9499a1510e5acac504c2f70620.pdf</url>
+          <title>Using speculation to reduce server load and service time on the WWW</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video service loading time</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+service+loading+time&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+service+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876035814</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="36" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video loading time</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+loading+time&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=video+service+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876050986</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="37" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>online video loading time user behavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=online+video+loading+time+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876105908</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="38" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.tomkins-family.com/static/papers/src/KT10.pdf</url>
+          <title>A characterization of online browsing behavior</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video loading time user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+video+loading+time+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876114467</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="39" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://wwwconference.org/proceedings/www2010/www/p561.pdf</url>
+          <title>A characterization of online browsing behavior</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video loading time user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+video+loading+time+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876119483</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="40" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%285c330d857fca5cc9ece1aa722119280b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2FWO2006039393.html&amp;ie=utf-8&amp;sc_us=16152787966644054847</url>
+          <title>DETERMINING ADVERTISEMENTS USING USER BEHAVIOR INFORMATION SUCH AS PAST NAVIGATION INFORMATION</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>online video loading time user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=online+video+loading+time+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+loading+time&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876187005</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="41" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user abandon an online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+abandon+an+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=online+video+loading+time+user+behavior&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876235605</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="42" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior abandon online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+abandon+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+abandon+an+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876268088</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="43" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior for online video</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+for+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+abandon+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876285074</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="44" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286f2c701c2ec9d5668134b07c59d1a0de%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Bjsessionid%3D41286D8648D1494FB1870C671185C670%3Fdoi%3D10.1.1.300.1512%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=11016079470332087354</url>
+          <title>Game theoretical approach of user behavior based on personal opinion in Online Video Social Networks</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior for online video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user+behavior+for+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+abandon+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876304790</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="45" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%289f0ffc7281069bb6ade95bea773d38b6%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Fdoi%3D10.1.1.690.9639%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=7532926016613761506</url>
+          <title>Effects of undesired online video advertising choice on user behavior and attitude</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior for online video</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user+behavior+for+online+video&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+abandon+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876311430</time>
+        </vertexOperation>
+        <vertexOperation type="2">
+          <operatorId>4</operatorId>
+          <time>1481876317102</time>
+          <rate>4</rate>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="46" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior online video content</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior++online+video+content&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+for+online+video&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876375004</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="47" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior delivery of video content</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+delivery+of+video+content&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876420395</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="48" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>user behavior online video content</queryText>
+          <url>http://xueshu.baidu.com/s?wd=user+behavior+online+video+content&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+delivery+of+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876447603</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="49" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://ajbasweb.com/old/ajbas/2015/May/657-663.pdf</url>
+          <title>Video Recommendation based on user Behavior and Minimizes Storage</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>user behavior online video content</queryText>
+            <url>http://xueshu.baidu.com/s?wd=user%20behavior%20online%20video%20content&amp;pn=10&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;sc_hit=1</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876492146</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="50" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>video recommendation based on user behavior</queryText>
+          <url>http://xueshu.baidu.com/s?wd=video+recommendation+based+on+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876509029</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="51" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/publication/289607989_Video_recommendation_method_based_on_group_user_behavior_analysis</url>
+          <title>Video recommendation method based on group user behavior analysis</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video recommendation based on user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+recommendation+based+on+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876544990</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="52" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2818aa0d9f6af609f35b1e0ef2f4fb6381%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fen.cnki.com.cn%2FArticle_en%2FCJFDTOTAL-DZYX201406035.htm&amp;ie=utf-8&amp;sc_us=9788459446182670607</url>
+          <title>Video recommendation method based on group user behavior analysis</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video recommendation based on user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+recommendation+based+on+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876557599</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="53" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%285133682ee33b0c283648543430161071%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Ficp.jsp%3Farnumber%3D5171032&amp;ie=utf-8&amp;sc_us=2584350206035615515</url>
+          <title>Web Information Recommendation Based on User Behaviors</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video recommendation based on user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+recommendation+based+on+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876577220</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="54" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%286fe8f4f4f51231cc2691dd734ef19b37%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Ficp.jsp%3Farnumber%3D5704319&amp;ie=utf-8&amp;sc_us=16888403701014531957</url>
+          <title>Web Services Recommendation Based on User's Behavior</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>video recommendation based on user behavior</queryText>
+            <url>http://xueshu.baidu.com/s?wd=video+recommendation+based+on+user+behavior&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=user+behavior+online+video+content&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>4</operatorId>
+          <time>1481876593871</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="6" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="6" target="8">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="10">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="11">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="12">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="13">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="13" target="14">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="15">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="16">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="16" target="17">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="19">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="19" target="20">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="21">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="22" target="23">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="24">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="25">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="25" target="26">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="26" target="27">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="27" target="28">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="28" target="29">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="29" target="30">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="30" target="31">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="30" target="32">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="30" target="33">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="33" target="34">
+      <data key="edgeid">35</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="edgeid">36</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="36">
+      <data key="edgeid">37</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="36" target="37">
+      <data key="edgeid">38</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="38">
+      <data key="edgeid">39</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="39">
+      <data key="edgeid">40</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="40">
+      <data key="edgeid">41</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="37" target="41">
+      <data key="edgeid">42</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="41" target="42">
+      <data key="edgeid">43</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="42" target="43">
+      <data key="edgeid">44</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="44">
+      <data key="edgeid">45</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="45">
+      <data key="edgeid">46</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="43" target="46">
+      <data key="edgeid">47</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="46" target="47">
+      <data key="edgeid">48</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="47" target="48">
+      <data key="edgeid">49</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="48" target="49">
+      <data key="edgeid">50</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="49" target="50">
+      <data key="edgeid">52</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="50" target="51">
+      <data key="edgeid">53</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="50" target="52">
+      <data key="edgeid">54</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="50" target="53">
+      <data key="edgeid">55</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="50" target="54">
+      <data key="edgeid">56</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

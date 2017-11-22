@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+  <key attr.name="label" attr.type="string" for="node" id="label"/>
+  <key attr.name="nextSequantialOperationId" attr.type="int" for="node" id="nextSequantialOperationId"/>
+  <key attr.name="vertexOperations" attr.type="vertexOperations" for="node" id="vertexOperations"/>
+  <key attr.name="vertexSequentialOperations" attr.type="vertexSequentialOperations" for="node" id="vertexSequentialOperations"/>
+  <key attr.name="nodeData" attr.type="nodeData" for="node" id="nodeData"/>
+  <key attr.name="Edge Id" attr.type="string" for="edge" id="edgeid"/>
+  <key attr.name="structureType" attr.type="int" for="edge" id="structureType"/>
+  <operatorDatas>
+    <operatorData for="11">
+      <lastActiveQueryId>34</lastActiveQueryId>
+    </operatorData>
+  </operatorDatas>
+  <graph edgedefault="directed" nextVertexId="36" nextArcId="35" rootVertexId="0">
+    <node id="0" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321195591</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="1" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321225842</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="2" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283b6ae8ce1a51da91fe16180dba6e7312%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SJSJ200810048.htm&amp;ie=utf-8&amp;sc_us=5095644412417416067</url>
+          <title>网络视频内容的识别和过滤综述</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321275355</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="3" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28ab43407a0187df43ae937dc2aec9c50c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSYZ201104032.htm&amp;ie=utf-8&amp;sc_us=14365134817871100710</url>
+          <title>神经网络在火灾视频识别中的应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321284360</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="4" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频监控</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E8%AF%86%E5%88%AB&amp;f=3&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_spt=3&amp;rsv_n=1&amp;rsp=0</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321347516</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="5" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28c84909552914bc9a965955be0d298018%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-YXDJ200608028.htm&amp;ie=utf-8&amp;sc_us=7013488652816687684</url>
+          <title>网络视频监控</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频监控</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321367985</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="6" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28cedeb72c82692d86783bae85f8be7966%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-SDDZ201001024.htm&amp;ie=utf-8&amp;sc_us=17659930769509684883</url>
+          <title>网络视频监控系统现状和发展趋势</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频监控</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321704900</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="7" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2849878f9f27de65eae463816b6d5c9ee9%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-XXWL200409006.htm&amp;ie=utf-8&amp;sc_us=17272911071544326467</url>
+          <title>网络视频监控市场的现状及发展</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频监控</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321775583</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="8" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频内容识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E7%9B%91%E6%8E%A7&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321902555</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="9" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络视频过滤</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E8%BF%87%E6%BB%A4&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482321914073</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="10" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28b45bbfbed0129bd8b1e0dfedcea68397%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJA201610001.htm&amp;ie=utf-8&amp;sc_us=16428283221356748817</url>
+          <title>基于社会计算和深度学习的社交网络特定内容监控</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>网络视频内容识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482322050051</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="11" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>图像识别</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E7%BD%91%E7%BB%9C%E8%A7%86%E9%A2%91%E5%86%85%E5%AE%B9%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482322303847</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="12" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://hn.sslibrary.com/showbook.do?dxNumber=10260326&amp;d=B4EF46DE374394759FFAD1AD569456C5&amp;fFenleiID=0T0P30901000</url>
+          <title>图像识别技术及其应用</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>图像识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482322324777</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="13" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28420d44a187187cb19d3f43077eae368c%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.cnki.com.cn%2FArticle%2FCJFDTotal-JSJA200302046.htm&amp;ie=utf-8&amp;sc_us=9970767175206825043</url>
+          <title>一种快速在线图形识别与规整化方法</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>图像识别</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482322400664</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="14" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>网络传输管理</queryText>
+          <url>http://xueshu.baidu.com/s?wd=%E7%BD%91%E7%BB%9C%E4%BC%A0%E8%BE%93%E7%AE%A1%E7%90%86&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482322441383</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="15" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video service</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+service&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456320938</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="16" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283ae5c481db3069fa8fce20ef2c7e000b%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D920449&amp;ie=utf-8&amp;sc_us=13152105123005499162</url>
+          <title>Fairness and privacy on pay-per view system for Web-based video service</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video service</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+service&amp;rsv_bp=0&amp;tn=SE_baiduxueshu_c1gjeupa&amp;rsv_spt=3&amp;ie=utf-8&amp;f=8&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456333232</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="17" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video Pay Per View</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+Pay+Per+View&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+service&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D&amp;rsv_n=2</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456639449</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="18" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28d61e7ceaf4f3690ecdb38ed6a5e6ec09%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fdownload%3Bjsessionid%3D6C0F9EDA75DEFBC966D7A0A7BCF950AD%3Fdoi%3D10.1.1.88.4461%26rep%3Drep1%26type%3Dpdf&amp;ie=utf-8&amp;sc_us=3978134808055460636</url>
+          <title>A Secure Pay-per View Scheme for Web-Based Video Service</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video Pay Per View</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456653702</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="19" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28a94df27598994ae43a635ba4c4b915bd%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.freepatentsonline.com%2F9277249.html&amp;ie=utf-8&amp;sc_us=11983975143995810632</url>
+          <title>Method and system for providing on-demand and pay-per-view content through a hospitality system</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video Pay Per View</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456835056</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="20" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.freshpatents.com/-dt20140130ptan20140033236.php</url>
+          <title>Method and system for providing on-demand and pay-per-view content through a hospitality system</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video Pay Per View</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456869095</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="21" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web-based video safety</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web-based+video+safety&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+Pay+Per+View&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482456928351</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="22" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.transport-research.info/web/projects/project_details.cfm?id=12078</url>
+          <title>Video based Image analysis for Tunnel Safety</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web-based video safety</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457013673</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="23" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video safety</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+safety&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web-based+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457150131</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="24" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web education</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457255401</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="25" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/publication/240956233_Internet_Use_for_Web-Education_on_the_Overlooked_Areas_of_Grief_and_Loss</url>
+          <title>Internet Use for Web-Education on the Overlooked Areas of Grief and Loss</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457263671</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="26" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.worldcat.org/wcpa/oclc/76461026?page=frame&amp;url=http%3A%2F%2Fcontent.ub.hu-berlin.de%2Fmonographs%2Ftoc%2Fhochschulwesen%2FBV014965488.pdf%26checksum%3Ddebc1238b2ef55c510f671f1eb331f47&amp;title=&amp;linktype=digitalObject&amp;detail=</url>
+          <title>Web education systems in Europe</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457302659</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="27" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://content.ub.hu-berlin.de/monographs/toc/hochschulwesen/BV014965488.pdf</url>
+          <title>Web education systems in Europe</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457306029</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="28" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://www.researchgate.net/publication/44829386_Web_education_systems_in_Europe</url>
+          <title>Web education systems in Europe</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457356832</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="29" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%2803df874c2779b9843c5813024f185ad6%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fen.cnki.com.cn%2FArticle_en%2FCJFDTOTAL-BJLH200802021.htm&amp;ie=utf-8&amp;sc_us=28523169459105416</url>
+          <title>Analysis of BB Based Web Education Mode</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457549832</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="30" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283d470bb672a6623b948af87af6ea049f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fcpfd.cnki.com.cn%2FArticle%2FCPFDTOTAL-ZNXX201012020131.htm&amp;ie=utf-8&amp;sc_us=13075697494935248562</url>
+          <title>The Application of Multimedia Technology in Web Education</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457577345</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="31" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%283d470bb672a6623b948af87af6ea049f%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS1875389212015659%2Fpdfft%3Fmd5%3Db35d20f1908eced723ab35b994494cf0%26pid%3D1-s2.0-S1875389212015659-main.pdf&amp;ie=utf-8&amp;sc_us=13075697494935248562</url>
+          <title>The Application of Multimedia Technology in Web Education</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web education</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+education+&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+safety&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457583511</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="32" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web viedo charge</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+viedo+charge&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+education&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457664071</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="33" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video charge</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web%20video%20charge&amp;f=12&amp;nojc=1&amp;tn=SE_baiduxueshu_c1gjeupa&amp;ie=utf-8</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457672155</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="34" type="1">
+      <data key="nodeData">
+        <query>
+          <queryText>web video pay</queryText>
+          <url>http://xueshu.baidu.com/s?wd=web+video+pay&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+charge&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+        </query>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457764663</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <node id="35" type="2">
+      <data key="nodeData">
+        <click>
+          <url>http://xueshu.baidu.com/s?wd=paperuri%3A%28fe7b439bf51f816bf14eb86728bb781d%29&amp;filter=sc_long_sign&amp;tn=SE_xueshusource_2kduw22v&amp;sc_vurl=http%3A%2F%2Fen.cnki.com.cn%2FArticle_en%2FCJFDTotal-XDKD200104003.htm&amp;ie=utf-8&amp;sc_us=3518980429187350164</url>
+          <title>Analysis and design of fair and efficient pay-per-view protocols for web-based video serivce</title>
+          <mimeType>application/pdf</mimeType>
+          <query>
+            <queryText>web video pay</queryText>
+            <url>http://xueshu.baidu.com/s?wd=web+video+pay&amp;tn=SE_baiduxueshu_c1gjeupa&amp;cl=3&amp;ie=utf-8&amp;bs=web+video+charge&amp;f=8&amp;rsv_bp=1&amp;rsv_sug2=0&amp;sc_f_para=sc_tasktype%3D%7BfirstSimpleSearch%7D</url>
+          </query>
+        </click>
+      </data>
+      <data key="vertexOperations">
+        <vertexOperation type="1">
+          <operatorId>11</operatorId>
+          <time>1482457795337</time>
+        </vertexOperation>
+      </data>
+    </node>
+    <edge source="0" target="1">
+      <data key="edgeid">0</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="2">
+      <data key="edgeid">1</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="3">
+      <data key="edgeid">2</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="1" target="4">
+      <data key="edgeid">3</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="5">
+      <data key="edgeid">4</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="6">
+      <data key="edgeid">5</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="7">
+      <data key="edgeid">6</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="4" target="8">
+      <data key="edgeid">7</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="9">
+      <data key="edgeid">8</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="10">
+      <data key="edgeid">9</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="8" target="11">
+      <data key="edgeid">10</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="12">
+      <data key="edgeid">11</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="13">
+      <data key="edgeid">12</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="11" target="14">
+      <data key="edgeid">13</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="14" target="15">
+      <data key="edgeid">14</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="16">
+      <data key="edgeid">15</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="15" target="17">
+      <data key="edgeid">16</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="18">
+      <data key="edgeid">17</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="19">
+      <data key="edgeid">18</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="20">
+      <data key="edgeid">19</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="17" target="21">
+      <data key="edgeid">20</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="22">
+      <data key="edgeid">21</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="21" target="23">
+      <data key="edgeid">22</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="23" target="24">
+      <data key="edgeid">23</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="25">
+      <data key="edgeid">24</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="26">
+      <data key="edgeid">25</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="27">
+      <data key="edgeid">26</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="28">
+      <data key="edgeid">27</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="29">
+      <data key="edgeid">28</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="30">
+      <data key="edgeid">29</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="31">
+      <data key="edgeid">30</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="24" target="32">
+      <data key="edgeid">31</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="18" target="33">
+      <data key="edgeid">32</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="18" target="34">
+      <data key="edgeid">33</data>
+      <data key="structureType">1</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="edgeid">34</data>
+      <data key="structureType">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,28 @@
+视频聊天	基于jmf的多人视频聊天软件的设计与实现	视频聊天系统
+video' 'chating' 'content'	e-learning system with the bbs/chatting using mathematical expressions and mark/annotation in web based contents	chatting' 'content'
+video' 'chating' 'content'	e-learning system with the bbs/chatting using mathematical expressions and mark/annotation in web based contents	chatting' 'content' video
+chating' 'content'	a study on obscenity blocking based on web content in video chatting	video chatting' 'content'
+chatting' 'content' video	visual feedback to reduce influence of delay on video chatting	chat
+chatting' 'content' video	communication server to have ivr, text chatting, video chatting, secure messaging for a care co-ordination team.	video chatting' content
+chatting' 'content' video	communication server to have ivr, text chatting, video chatting, secure messaging for a care co-ordination team.	chatting' content video
+chatting' 'content' video	communication server to have ivr, text chatting, video chatting, secure messaging for a care co-ordination team.	chat online
+chatting' 'content' video	real-time video chatting in low bandwidth by facial action coding system	chat' 'content' video
+video chat	performance of video-chat applications under congestion	video delay
+video chat	optimized two-party video chat with restored eye contact using graphics hardware	content quality of video chat
+content quality of video chat	mobile video chat: issues and challenges	real-time multimedia
+real-time multimedia	an active service framework and its application to real-time multimedia transcoding	active networks
+real-time multimedia	resource optimization in qos multicast routing of real-time multimedia	quality-of-service
+online video chat	efficient misbehaving user detection in online video chat services	user detection online video chat
+online video chat	efficient misbehaving user detection in online video chat services	misbehavior detection online
+online video chat	scalable misbehavior detection in online video chat services	null
+null	demo: mvchat: flasher detection for mobile video chat	flasher detection
+flasher detection video chat	multi-modal fusion for flasher detection in a mobile video chat application	image-based classification
+flasher detection video chat	safevchat: a system for obscene content detection in online video chat services	image detection
+misbehavior detection online	amd: audit-based misbehavior detection in wireless ad hoc networks	fine-grained cascaded (fgc) classification
+feature recognition	automatic form-feature recognition using neural-network-based techniques on boundary representations of solid models	neural-network online video chat
+在线视频聊天 人脸识别	基于lbp和岭回归在线视频人脸识别系统研究	lbp 人脸识别
+lbp 人脸识别	基于多通道gabor滤波与cs-lbp的人脸识别方法	多通道gabor滤波
+深度学习 特征提取	cnn深度学习模型用于表情特征提取方法探究	cnn 卷积神经网络 人脸 特征
+深度学习 特征提取	基于l-gem的深度学习特征提取	l-gem
+cnn 卷积神经网络 人脸 特征	一种用于人脸表情识别的卷积神经网络	最大池化方法
+cnn 卷积神经网络 人脸 特征	卷积神经网络的并行化研究	并行 卷积神经网络
